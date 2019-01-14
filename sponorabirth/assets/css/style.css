@@ -1,0 +1,1346 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+	height: 100%;
+    overflow-x: hidden;
+}
+/*Index page*/
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+@font-face {
+  font-family: 'la-sonnambula';
+  src: URL('../font/la-sonnambula-demo-ffp.ttf') format('truetype');
+}
+
+
+/* Background Image*/
+.bg_image{
+    width: 100%;
+    min-height:538px;
+    background-image: url('../img/bg-image.jpg');
+	background-size: cover; 
+	background-position: center center;
+    position: relative;
+}
+
+.clearboth{clear: both;}
+
+.homep1
+{
+ color: #00579A;
+ font-family: 'Raleway', sans-serif;
+ font-size: 10vw;
+ position: absolute;
+ top: 200px;
+ padding-left: 10px;
+}
+
+.homep2
+{
+ color: #00579A;
+ font-size: 10vw;
+ font-family:  'Raleway', sans-serif;
+ position: absolute;
+ top: 280px;    
+ left: 150px;
+ 
+ 
+}
+
+.font-la-sonnambula{
+	font-family: la-sonnambula;	
+	font-size: 8vw;
+	height : 150%;
+	width : 75% ;
+}
+
+.homep3
+{
+color:#00579A;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 4vw;
+position: absolute;;
+top: 94%;
+right: 4%;
+
+}
+
+/* Background Image*/
+
+/* navigation bar*/
+.menu-style{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar{
+	background-color: #00579A;
+	overflow: hidden;
+	border-radius: 0px !important;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	/*margin-bottom:0px;*/
+	margin-bottom:0px !important;
+}
+ul li
+{
+    margin-top: 3%;
+    /*font-family: Georgia, 'Times New Roman', Times, serif;*/
+	font-family: 'Raleway', sans-serif;
+    padding-right: 22px;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: Rgb(195,217,238) ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+    /*font-family: Georgia, 'Times New Roman', Times, serif;*/
+    color: #f2f2f2;
+   
+}
+.nav>li>a:focus, .nav>li>a:hover 
+{
+    text-decoration: none;
+    background-color: transparent !important;
+    color: rgb(196, 217,236);
+}
+
+.navbar-header button{
+	background: transparent;
+}
+/* navigation bar*/
+
+
+
+/* footer */
+.footer-section{
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.sab-footer
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    /*margin: -1%;*/
+    /*margin-top: 12px;*/
+    /*height: fit-content;*/
+}
+
+.sab-footer p{
+	padding: 5px 0 0 0;
+}
+
+/* footer */
+
+/* vision background image*/
+.bg_image1{  
+    width: 100%;
+    /*height:535px;*/ 
+	min-height:538px;		
+    max-height: auto;
+    background-image: url(../img/vision.png);
+    background-repeat: no-repeat;  
+	background-size: cover; 
+	background-position: center center;  
+    object-fit: cover;
+}
+
+.global-header{
+	padding-top: 20px;
+}
+.global_header_logo{
+	padding-right: 10px !important;
+
+}
+
+.global_header_tag{
+	border-left: 1px solid #19559B;
+}
+
+.global_header_tag > h1{
+	color:#19559B;
+	font-size: 36px;
+	margin-top: 20px;
+	padding-left: 10px;
+	font-family: 'Raleway', sans-serif;
+}
+
+/* About Us */
+.profile-photo > img{
+	margin: 2% 0% 0% 15%;
+	width: 70%;
+}
+
+.profile > h2{
+	margin: 10% 0% 0% 10%;
+	color:#19559B;
+	font-family: 'Raleway', sans-serif;
+	font-size: 38px;
+	padding: 2% 10% 2% 0%;   
+}
+
+.profile > p{
+	margin: 1% 10% 0% 10%;
+	line-height: 30px;
+	font-size: 19px;
+	color: #19559B;
+	font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+
+.profile > h4{
+	color: #19559B;
+	font-size: 19px;
+	margin: 0% 10% 8% 10%;
+	text-decoration: underline;
+	font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+/* About Us */
+
+.global_content > p{
+    /*margin-top: 20px;   */
+    color:#19559B;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    margin: 2% 10% 2% 10%;	
+}
+
+/* Page - Refer Donor via get involved */
+	 .bg_image_1{
+		width: 100%;
+		min-height:538px;
+		max-height: auto;
+		background-image: url('../img/get_involved_background.png');
+		background-size: cover; 
+	 	background-position: center center;
+		position: relative;;
+	}
+
+	.involved_img-responsive{
+		margin-left: auto;
+		margin-right: auto;
+	   position: relative;
+	   top: 50px;
+	}
+	.refer_donor{
+		background-color: transparent;
+		height: 230px;
+		width: 100%;
+		position: relative;
+		margin-top: 100px;
+	}  
+	.refer_donor{
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+	  -moz-column-count: 2; /* Firefox */
+	  column-count: 2;
+	  -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+	  -moz-column-gap: 20px; /* Firefox */
+	  column-gap: 20px;
+	  -webkit-column-rule: 3px solid whitesmoke; /* Chrome, Safari, Opera */
+	  -moz-column-rule: 3px solid whitesmoke; /* Firefox */
+	  column-rule: 3px solid whitesmoke;
+	}
+
+	.refer{
+	  height: 230px;
+	  width: 100%;
+	  background-color: transparent;
+		float: left;
+	}
+	 .refer h1{
+		 text-align: center;
+		 box-sizing: border-box;
+		padding-top: 20px;
+		 position: relative;
+		 box-sizing: border-box;
+		 font-size: 6vw;
+	}
+
+	.refer h1:hover{
+	   
+		font-size: 4.3vw;
+		transition: font-size .8s;
+	}
+
+	.refer a{
+		color: whitesmoke;
+		font-family: Arial;
+	   text-decoration: none;
+	}
+	.refer a:hover{
+		color: #19559B;
+		text-decoration: none;
+	  
+	}
+	.refer p{
+		color: whitesmoke;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 3vw;
+	   padding-left: 0px;
+		padding-right: 0px;
+	}
+	.donor{
+		height: 230px;
+		width: 100%;
+		background-color: transparent;
+	   float: right;
+	}
+	.donor h1{
+		text-align: center;
+		box-sizing: border-box;
+		padding-top: 40px;
+		position: relative;
+		box-sizing: border-box;
+		font-size: 6vw;
+	}
+
+	.donor h1:hover{
+		font-size: 4.3vw;
+		transition: font-size .8s;
+	}
+
+	.donor a{
+		color: whitesmoke;
+		font-family: Arial;
+	   text-decoration: none;
+	}
+	.donor a:hover{
+		color: #19559B;
+		text-decoration: none;
+		
+	}
+	.donor p{
+		color: whitesmoke;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 3vw;
+		  padding-left: 0px;
+		padding-right: 0px;
+	}
+
+
+
+/*Contact Us*/
+.contact_refer_main_container{
+    width: 100%;
+	min-height: 538px;
+    max-height: auto;
+    background-image: url(../img/bg-image.jpg);
+	background-size: cover;
+	background-position: center center;
+	
+	
+}
+.contact_transparent-input{
+    background-color:transparent !important;
+    border:none !important;
+    outline:none;
+}
+.contact_table-one tr td
+{
+    border: 1px solid #a9cce3;
+    border-right: transparent;
+    border-left: transparent;
+    border-top:transparent;
+    border-bottom-color: 1px solid #005999;
+}    
+   
+
+.contact_table-one
+{
+    color: #005999;
+
+    margin-top:8%
+}
+
+.contact_heading-h1
+{
+    color: #005999;
+}
+.contact_table-t1
+{
+    border-right: 2px solid #a9cce3;
+    margin-top: 5%;
+}
+.contact_table-t2
+{
+    text-align: center;
+    margin-top: 12%;
+}
+.table-t2 a p{
+    color:rgb(58, 171, 216);
+}
+.contact_table-t2 h4{
+	color: #00579A;
+	font-size: 30px;
+}
+.contact_refer-btn
+{
+ background-color: transparent;
+}
+
+/* contact us End*/
+
+/*Donation */
+
+	.donation_bg_image_1{
+		width: 100%;
+		min-height:538px;
+		max-height: auto;
+		background-image: url('../img/background.png');
+		background-size: cover; 
+	 	background-position: center center;
+		position: relative;
+	}
+	.donation_refer_donor1{
+		background-color: transparent;
+		height: 230px;
+		width: 100%;
+		position: relative;
+		top: 120px;
+	}  
+	.donation_refer_donor1_1{
+		-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	  -moz-column-count: 3; /* Firefox */
+	  column-count: 3;
+	  -webkit-column-gap: 4px; /* Chrome, Safari, Opera */
+	  -moz-column-gap: 4px; /* Firefox */
+	  column-gap: 4px;
+	  -webkit-column-rule: 3px solid #00579A; /* Chrome, Safari, Opera */
+	  -moz-column-rule: 3px solid #00579A; /* Firefox */
+	  column-rule: 3px solid #00579A;
+	}
+	.donation_DONOR{
+	  height: 200px;
+	  width: 100%;
+	  background-color: transparent;
+	  position: relative;
+	  text-align: center;
+	 float: left;
+	 }
+	 .donation_DONOR h1{
+		 text-align: center;
+		padding-top: 50px;
+		 position: relative;
+		font-size: 5vw;
+		font-family: Arial;
+		color: #00579A;
+	}
+	/*.donation_DONOR a{
+		color: #00579A;
+		font-family: Arial;
+	   text-decoration: none;
+	}*/
+	.donation_DONOR p{
+		color: #00579A;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 3vw;
+	}
+	.donation_SPONSOR{
+		height: 200px;
+		width: 100%;
+		background-color: transparent;
+	   float: left;
+	   position: relative;
+	}
+	.donation_SPONSOR h1{
+		text-align: center;
+	 padding-top: 50px;
+		   position: relative;
+		   font-family: Arial;
+	   font-size: 5vw;
+	   color: #00579A;
+	}
+	/*.donation_SPONSOR a{
+		color: #00579A;
+		font-family: Arial;
+	   text-decoration: none;
+	}*/
+
+
+	.donation_SPONSOR p{
+		color:#00579A ;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 3vw;
+	}
+	.donation_PATRON{
+		height: 200px;
+		width: 100%;
+		background-color: transparent;
+	   float: left;
+	   position: relative;
+	}
+	   .donation_PATRON h1{
+		   text-align: center;
+		padding-top: 50px;
+		   position: relative;
+			 font-size: 5vw;
+			 font-family: Arial;
+			 color: #00579A;
+	  }
+	  /*.donation_PATRON a{
+		  color: #00579A;
+		  font-family: Arial;
+		 text-decoration: none;
+		 
+	  }*/
+	  
+	  
+	  .donation_PATRON p{
+		  color: #00579A;
+		  font-family: georgia;
+		  text-align: center;
+		  position: relative;
+		 font-size: 3vw;
+	  }
+
+	.donation_btn{
+		margin-left: auto;
+		margin-right: auto;
+	   position: relative;
+	   top: 50px;
+	   left: 45%;
+	   
+	   /*background: transparent;*/
+	}
+	.donation_btn a{
+		text-decoration: none;
+		font-size: 15px;
+	}
+	.donation_space_div{
+		height: 80px;
+		width: 100%;
+		background-color: transparent;
+	}
+
+	/* Thanks You Page */
+	#thankyou{
+		min-height:538px;
+		max-height: auto;
+		width: 100%;
+		background-image: url("..//img/background.png");
+		background-size: cover; 
+	 	background-position: center center;
+	}
+
+	#thankyou h1{
+		font-family: 'Raleway', sans-serif;
+		font-size:36px;
+		padding: 20% 0 0 10%;
+		color: rgb(25,85,155)
+	}
+
+	#thankyou p {
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		font-size: 19px;
+		padding: 0 23% 0 10%;
+		text-align: justify;
+		color: rgb(25,85,155);
+	}
+	
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	.homep1
+	{
+	 color: #00579A;
+	 font-family: 'Raleway', sans-serif;
+	 font-size: 6vw;
+	 position: absolute;
+	 top: 200px;
+	}
+
+	.homep2
+	{
+	 color: #00579A;
+	 font-size: 6vw;
+	 font-family:  'Raleway', sans-serif;
+	 position: absolute;
+	 top: 280px;    
+	 left: 170px;	 
+	}
+
+	.font-la-sonnambula{
+		font-family: la-sonnambula;	
+		font-size: 6vw;
+	}	
+
+	.homep3
+	{
+	color:#00579A;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 2.5vw;
+	position: absolute;;
+	top: 94%;
+	right: 4%;
+	}
+
+	/* navigation bar*/
+	.menu-style{
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.navbar{
+		background-color: #00579A;
+		overflow: hidden;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		/*margin-bottom:0px;*/
+		margin-bottom:0px !important;
+	}
+	ul li
+	{
+		margin-top: 3%;
+		/*font-family: Georgia, 'Times New Roman', Times, serif;*/
+		font-family: 'Raleway', sans-serif;
+		padding-right: 22px;
+	}
+
+	ul li a
+	{
+		text-decoration: none;
+		color: Rgb(195,217,238) ;
+		font-family: 'Raleway', sans-serif;
+		font-size: 20px;
+		/*font-family: Georgia, 'Times New Roman', Times, serif;*/
+		color: #f2f2f2;
+	   
+	}
+	.nav>li>a:focus, .nav>li>a:hover 
+	{
+		text-decoration: none;
+		background-color: transparent !important;
+		color: rgb(196, 217,236);
+	}
+
+	.navbar-header button{
+		background: transparent;
+	}
+	/* navigation bar*/	
+	
+	.global_header_logo{
+		padding-left: 60px !important;
+	}
+
+	.global_header_tag{
+		color:#19559B;
+		font-size: inherit;
+		/*margin-top: 30px;*/
+		padding-left: 20px;
+		border-left: 1px solid #19559B;
+	}
+
+	.global_content > p{
+		/*margin-top: 20px;   */
+		color:#19559B;
+		font-size: 18px;
+		font-family: Georgia, 'Times New Roman', Times, serif; 
+		margin: 2% 10% 2% 10%; 	
+	}
+	
+	/* Page - Refer Donor via get involved */
+	 .bg_image_1{
+		width: 100%;
+		min-height:538px;
+		max-width: auto;
+		background-image: url('../img/get_involved_background.png');
+		background-size: cover; 
+		background-position: center center;
+		position: relative;
+	}
+
+	.involved_img-responsive{
+		margin-left: auto;
+		margin-right: auto;
+	   position: relative;
+	   top: 50px;
+	}
+	.refer_donor{
+		background-color: transparent;
+		height: 230px;
+		width: 100%;
+		position: relative;
+		margin-top: 100px;
+	}  
+	.refer_donor{
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+	  -moz-column-count: 2; /* Firefox */
+	  column-count: 2;
+	  -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+	  -moz-column-gap: 20px; /* Firefox */
+	  column-gap: 20px;
+	  -webkit-column-rule: 3px solid whitesmoke; /* Chrome, Safari, Opera */
+	  -moz-column-rule: 3px solid whitesmoke; /* Firefox */
+	  column-rule: 3px solid whitesmoke;
+	}
+
+	.refer{
+	  height: 230px;
+	  width: 100%;
+	  background-color: transparent;
+		float: left;
+	}
+	 .refer h1{
+		 text-align: center;
+		 box-sizing: border-box;
+		padding-top: 20px;
+		 position: relative;
+		 box-sizing: border-box;
+		 font-size: 4vw;
+		 font-family: 'Raleway', sans-serif;
+	}
+
+	.refer h1:hover{
+	   
+		font-size: 4.3vw;
+		transition: font-size .8s;
+	}
+
+	.refer a{
+		color: whitesmoke;
+		font-family: Arial;
+	   text-decoration: none;
+	}
+	.refer a:hover{
+		color: #19559B;
+		text-decoration: none;
+	  
+	}
+	.refer p{
+		color: whitesmoke;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 2vw;
+	   padding-left: 40px;
+		padding-right: 40px;
+	}
+	.donor{
+		height: 230px;
+		width: 100%;
+		background-color: transparent;
+	   float: right;
+	}
+	.donor h1{
+		text-align: center;
+		box-sizing: border-box;
+		padding-top: 40px;
+		position: relative;
+		box-sizing: border-box;
+		font-size: 4vw;
+		font-family: 'Raleway', sans-serif;
+	}
+
+	.donor h1:hover{
+		font-size: 4.3vw;
+		transition: font-size .8s;
+	}
+
+	.donor a{
+		color: whitesmoke;
+		font-family: Arial;
+	   text-decoration: none;
+	}
+	.donor a:hover{
+		color: #19559B;
+		text-decoration: none;
+		
+	}
+	.donor p{
+		color: whitesmoke;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 2vw;
+		  padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	/*Donation */
+
+	.donation_bg_image_1{
+		width: 100%;
+		min-height:450px;
+		max-height: auto;
+		background-image: url('../img/background.png');
+		background-size: 100% 100%;
+		position: relative;
+	}
+	.donation_refer_donor1{
+		background-color: transparent;
+		height: 230px;
+		width: 100%;
+		position: relative;
+		top: 140px;
+	}  
+	.donation_refer_donor1_1{
+		-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	  -moz-column-count: 3; /* Firefox */
+	  column-count: 3;
+	  -webkit-column-gap: 4px; /* Chrome, Safari, Opera */
+	  -moz-column-gap: 4px; /* Firefox */
+	  column-gap: 4px;
+	  -webkit-column-rule: 3px solid #00579A; /* Chrome, Safari, Opera */
+	  -moz-column-rule: 3px solid #00579A; /* Firefox */
+	  column-rule: 3px solid #00579A;
+	}
+	.donation_DONOR{
+	  height: 200px;
+	  width: 100%;
+	  background-color: transparent;
+	  position: relative;
+	  text-align: center;
+	 float: left;
+	 }
+	 .donation_DONOR h1{
+		 text-align: center;
+		padding-top: 50px;
+		 position: relative;
+		font-size: 3vw;
+		font-family: Arial;
+		color: #00579A;
+	}
+	/*.donation_DONOR a{
+		color: #00579A;
+		font-family: Arial;
+	   text-decoration: none;
+	}*/
+	.donation_DONOR p{
+		color: #00579A;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 2vw;
+	}
+	.donation_SPONSOR{
+		height: 200px;
+		width: 100%;
+		background-color: transparent;
+	   float: left;
+	   position: relative;
+	}
+	.donation_SPONSOR h1{
+		text-align: center;
+	 padding-top: 50px;
+		   position: relative;
+		   font-family: Arial;
+	   font-size: 3vw;
+	   color: #00579A;
+	}
+	/*.donation_SPONSOR a{
+		color: #00579A;
+		font-family: Arial;
+	   text-decoration: none;
+	}*/
+
+
+	.donation_SPONSOR p{
+		color:#00579A ;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 2vw;
+	}
+	.donation_PATRON{
+		height: 200px;
+		width: 100%;
+		background-color: transparent;
+	   float: left;
+	   position: relative;
+	}
+	   .donation_PATRON h1{
+		   text-align: center;
+		padding-top: 50px;
+		   position: relative;
+			 font-size: 3vw;
+			 font-family: Arial;
+			 color: #00579A;
+	  }
+	  /*.donation_PATRON a{
+		  color: #00579A;
+		  font-family: Arial;
+		 text-decoration: none;
+		 
+	  }*/
+	  
+	  
+	  .donation_PATRON p{
+		  color: #00579A;
+		  font-family: georgia;
+		  text-align: center;
+		  position: relative;
+		 font-size: 2vw;
+	  }
+
+	.donation_btn{
+		margin-left: auto;
+		margin-right: auto;
+	   position: relative;
+	   top: 50px;
+	   left: 42%;
+	   font-size: 2vw;
+	}
+	.donation_btn a{
+		text-decoration: none;
+	}
+	.donation_space_div{
+		height: 80px;
+		width: 100%;
+		background-color: transparent;
+	}
+
+	
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {	
+	.bg_image{
+		height:500px;
+	}
+	.homep1
+	{
+	 color: #00579A;
+	 font-family: 'Raleway', sans-serif;
+	 font-size: 4.5vw;
+	 position: absolute;
+	 top: 170px;
+	 padding-left: 50px;
+	}
+
+	.homep2
+	{
+	 color: #00579A;
+	 font-size: 4.5vw;
+	 font-family:  'Raleway', sans-serif;
+	 position: absolute;
+	 top: 240px;    
+	 left: 260px;
+	}
+
+	.font-la-sonnambula{
+		font-family: la-sonnambula;	
+		font-size: 6vw;
+		height : 150%;
+		width : 75%;
+	}	
+
+	.homep3
+	{
+	color:#00579A;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 1.5vw;
+	position: absolute;;
+	top: 92%;
+	right: 6%;
+
+	}
+
+	.box{
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+	
+	/* navigation bar*/
+	.menu-style{
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.navbar{
+		background-color: #00579A;
+		overflow: hidden;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		/*margin-bottom:0px;*/
+		margin-bottom:0px !important;
+	}
+	ul li
+	{
+		margin-top: 3%;
+		/*font-family: Georgia, 'Times New Roman', Times, serif;*/
+		font-family: 'Raleway', sans-serif;
+		padding-right: 22px;
+	}
+
+	ul li a
+	{
+		text-decoration: none;
+		color: Rgb(195,217,238) ;
+		font-family: 'Raleway', sans-serif;
+		font-size: 20px;
+		/*font-family: Georgia, 'Times New Roman', Times, serif;*/
+		color: #f2f2f2;
+	   
+	}
+	.nav>li>a:focus, .nav>li>a:hover 
+	{
+		text-decoration: none;
+		background-color: transparent !important;
+		color: rgb(196, 217,236);
+	}
+
+	.navbar-header button{
+		background: transparent;
+	}
+	/* navigation bar*/
+
+	.global-header{
+				padding-top: 10px;
+	}
+
+	.global_header_logo{
+		 padding-left: 10px !important;
+	}
+
+	.global_header_tag{
+		border-left: 1px solid #19559B;
+	}
+	
+	.global_header_tag > h1{
+		color:#19559B;
+		font-size: 46px;
+		margin-top: 10px;
+		padding-left: 5px;
+		font-family: 'Raleway', sans-serif;
+	}	
+	
+	.vision_padding{
+		padding-left: 200px;
+		padding-right: 200px;
+	}
+	
+	.aboutus_padding{
+		padding-left: 100px;
+		padding-right: 100px;
+	}
+	
+	.profile-photo > img{
+		margin: 5% 0% 0% 20%;
+		width: 70%;
+	}
+	
+	.profile > h2{
+		margin: 2% 0% 0% 0%;
+		color:#19559B;
+		font-family: 'Raleway', sans-serif;
+		font-size: 38px;
+		padding: 2% 10% 2% 0%;   
+	}
+	
+	.profile > p{
+		margin: 1% 0% 0% 0%;
+		line-height: 30px;
+		font-size: 19px;
+		color: #19559B;
+		font-family: Georgia, 'Times New Roman', Times, serif;    
+		text-align: justify;
+	}
+	
+	.profile > h4{
+        color: #19559B;
+        font-size: 19px;
+        margin: 0% 10% 8% 0%;
+        text-decoration: underline;
+        font-family:  'Raleway', sans-serif;    
+	}
+	
+	.global_content > p{
+		/*margin-top: 20px;   */
+		color:#19559B;
+		font-size: 18px;
+		font-family: Georgia, 'Times New Roman', Times, serif; 
+		margin: 2% 10% 2% 10%; 	 /* top left bottom right */
+	}
+	
+	
+	.involved_img-responsive{
+		margin-left: auto;
+		margin-right: auto;
+	   position: relative;
+	   top: 50px;
+	}
+	.refer_donor{
+		background-color: transparent;
+		height: 230px;
+		width: 100%;
+		position: relative;
+		margin-top: 100px;
+	}  
+	.refer_donor{
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+	  -moz-column-count: 2; /* Firefox */
+	  column-count: 2;
+	  -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+	  -moz-column-gap: 20px; /* Firefox */
+	  column-gap: 20px;
+	  -webkit-column-rule: 3px solid whitesmoke; /* Chrome, Safari, Opera */
+	  -moz-column-rule: 3px solid whitesmoke; /* Firefox */
+	  column-rule: 3px solid whitesmoke;
+	}
+
+	.refer{
+	  height: 230px;
+	  width: 100%;
+	  background-color: transparent;
+		float: left;
+	}
+	 .refer h1{
+		 text-align: center;
+		 box-sizing: border-box;
+		padding-top: 20px;
+		 position: relative;
+		 box-sizing: border-box;
+		 font-size: 46px;
+		 font-family: 'Raleway', sans-serif;
+	}
+
+	.refer h1:hover{
+	   
+		font-size: 4.3vw;
+		transition: font-size .8s;
+	}
+
+	.refer a{
+		color: whitesmoke;
+		font-family: Arial;
+	   text-decoration: none;
+	}
+	.refer a:hover{
+		color: #19559B;
+		text-decoration: none;
+	  
+	}
+	.refer p{
+		color: whitesmoke;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 1.6vw;
+	   padding-left: 100px;
+		padding-right: 100px;
+	}
+	.donor{
+		height: 230px;
+		width: 100%;
+		background-color: transparent;
+	   float: right;
+	}
+	.donor h1{
+		text-align: center;
+		box-sizing: border-box;
+		padding-top: 40px;
+		position: relative;
+		box-sizing: border-box;
+		font-size: 46px;
+		font-family: 'Raleway', sans-serif;
+	}
+
+	.donor h1:hover{
+		font-size: 4.3vw;
+		transition: font-size .8s;
+	}
+
+	.donor a{
+		color: whitesmoke;
+		font-family: Arial;
+	   text-decoration: none;
+	}
+	.donor a:hover{
+		color: #19559B;
+		text-decoration: none;
+		
+	}
+	.donor p{
+		color: whitesmoke;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 1.6vw;
+		  padding-left: 100px;
+		padding-right: 100px;
+	}
+ 
+ 
+	/*Donation */
+
+	.donation_bg_image_1{
+		width: 100%;
+		min-height:538px;
+		max-height: auto;
+		background-image: url('../img/background.png');
+		background-size: cover;
+		position: relative;
+		background-position: center center;
+	}
+	.donation_refer_donor1{
+		background-color: transparent;
+		height: 230px;
+		width: 100%;
+		position: relative;
+		top: 140px;
+	}  
+	.donation_refer_donor1_1{
+		-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	  -moz-column-count: 3; /* Firefox */
+	  column-count: 3;
+	  -webkit-column-gap: 4px; /* Chrome, Safari, Opera */
+	  -moz-column-gap: 4px; /* Firefox */
+	  column-gap: 4px;
+	  -webkit-column-rule: 3px solid #00579A; /* Chrome, Safari, Opera */
+	  -moz-column-rule: 3px solid #00579A; /* Firefox */
+	  column-rule: 3px solid #00579A;
+	}
+	.donation_DONOR{
+	  height: 200px;
+	  width: 100%;
+	  background-color: transparent;
+	  position: relative;
+	  text-align: center;
+	 float: left;
+	 }
+	 .donation_DONOR h1{
+		 text-align: center;
+		padding-top: 50px;
+		 position: relative;
+		font-family: Arial;
+		color: #00579A;
+		font-size: 56px;
+		 font-family: 'Raleway', sans-serif;
+	}
+	/*.donation_DONOR a{
+		color: #00579A;
+		font-family: Arial;
+	   text-decoration: none;
+	}*/
+	.donation_DONOR p{
+		color: #00579A;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 1.4vw;
+	}
+	.donation_SPONSOR{
+		height: 200px;
+		width: 100%;
+		background-color: transparent;
+	   float: left;
+	   position: relative;
+	}
+	.donation_SPONSOR h1{
+		text-align: center;
+	 padding-top: 50px;
+		   position: relative;
+		   font-family: Arial;
+	   color: #00579A;
+	   font-size: 56px;
+		 font-family: 'Raleway', sans-serif;
+	}
+	/*.donation_SPONSOR a{
+		color: #00579A;
+		font-family: Arial;
+	   text-decoration: none;
+	}*/
+
+
+	.donation_SPONSOR p{
+		color:#00579A ;
+		font-family: georgia;
+		text-align: center;
+		position: relative;
+	   font-size: 1.4vw;
+	}
+	.donation_PATRON{
+		height: 200px;
+		width: 100%;
+		background-color: transparent;
+	   float: left;
+	   position: relative;
+	}
+	   .donation_PATRON h1{
+		   text-align: center;
+		padding-top: 50px;
+		   position: relative;
+			 font-family: Arial;
+			 color: #00579A;
+			 font-size: 56px;
+		 font-family: 'Raleway', sans-serif;
+	  }
+	  /*.donation_PATRON a{
+		  color: #00579A;
+		  font-family: Arial;
+		 text-decoration: none;
+		 
+	  }*/
+	  
+	  
+	  .donation_PATRON p{
+		  color: #00579A;
+		  font-family: georgia;
+		  text-align: center;
+		  position: relative;
+		 font-size: 1.4vw;
+	  }
+
+	.donation_btn{
+		margin-left: auto;
+		margin-right: auto;
+	   position: relative;
+	   top: 50px;
+	   left: 42%;
+	   font-size: 2vw;
+	}
+	.donation_btn a{
+		text-decoration: none;
+	}
+	.donation_space_div{
+		height: 80px;
+		width: 100%;
+		background-color: transparent;
+	}
+	
+	/* Thanks You Page */
+	#thankyou{
+		min-height:538px;
+		max-height: auto;
+		width: 100%;
+		background-image: url("..//img/background.png");
+		background-size: cover; 
+	   	background-position: center center;
+	}
+
+	#thankyou h1{
+		font-family: 'Raleway', sans-serif;
+		font-size:56px;
+		padding: 12% 0 0 25%;
+		color: rgb(25,85,155)
+	}
+
+	#thankyou p {
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		font-size: 19px;
+		padding: 0 23% 0 25%;
+		text-align: justify;
+		color: rgb(25,85,155);
+	}
+
+}
