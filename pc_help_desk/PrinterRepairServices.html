@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+</head>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+    crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="main.css">
+<script src="main.js"></script>
+
+<title>Printer Repair Services</title>
+</head>
+
+<body>
+    <div class="header">
+        <a href="#default" class="logo"><img src="./css/image/pchelpdesk_logo-300x58.png" height="100px" width="100px"></a>
+        <div class="header-right">
+
+            <a href="">
+                <span class="glyphicon glyphicon-earphone"></span> &nbsp;9560-500-111
+            </a>
+            <a href="ashish@marsinfocare.com">
+                <span class="glyphicon glyphicon-envelope"></span> &nbsp; ashish@marsinfocare.com
+            </a>
+        </div>
+    </div>
+    <div class="topnav" id="myTopnav">
+        <a href="index.html" class="active">Home</a>
+        <a href="#news">My pchelpdesk</a>
+
+        <div class="dropdown">
+            <button class="dropbtn">SERVICES
+                <i class="toggle"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="services.html">services</a>
+                <a href="pcTechRemoteSupport.html">Pc Tech and Remote Support</a>
+                <a href="laptopRepairServices.html">Laptop Repair Services</a>
+                <a href="printerRepairServices.html">Printer Repair services</a>
+                <a href="DataRecoveryServices.html">Data Recovery Services</a>
+            </div>
+        </div>
+        <a href="#about">PRODUCTS</a>
+        <a href="#about">CONTACT US</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+        <br><br>
+    
+    
+    </div>
+
+    <div class="container header-laptop-repair-services">
+            <h3>Printer Repair Services</h3>
+            <p><a href="index.html">home &nbsp;<span style="color:rgb(17, 13, 240)">></span></a>&nbsp; &nbsp;Laptop Repair Services</p>
+         
+        </div>
+
+    <div class="row">
+        <div class="col-sm-8 PCHELPDESK_section_left">
+           
+            <div class="PCHELPDESK_image" style="margin-top:50px"></div>
+        </div>
+        <div class="col-sm-4 PCHELPDESK_section_right">
+            <h1>CALL PCHELPDESK</h1>
+            <div class="row">
+                <div class="col-sm-4 PCHELPDESK_section_right_logo ">
+                    <div class="PCHELPDESK_logo"><i class="fas fa-map-marker-alt PCHELPDESK_inner_logo1"></i></div>
+                    <p>ASWEDRFTGYHUJKI</p>
+                </div>
+                <div class="col-sm-4 PCHELPDESK_section_right_logo">
+                    <div class="PCHELPDESK_logo"><i class="fas fa-phone PCHELPDESK_inner_logo2"></i></div>
+                </div>
+                <div class="col-sm-4 PCHELPDESK_section_right_logo">
+                    <div class="PCHELPDESK_logo"><i class="fas fa-envelope PCHELPDESK_inner_logo3"></i></div>
+                </div>
+            </div>
+
+            <h3 style="text-align:center">Enquiry Now</h3>
+            <div class="container-fluid PCHELPDESK_form">
+                <form>
+                    <input type="text" placeholder="Name" name="name" required><br>.
+                    <input type="email" placeholder="Email" name="email" required><br>
+                    <input type="number" placeholder="phone" name="phone" required><br>
+                    <input type="text" placeholder="Company Name" name="Company Name" required><br>
+                    <input type="text" placeholder="Message" name="message" required><br>
+                    <input type="text" id="mainCaptcha" readonly="readonly" style="background-color:transparent" />
+                    <button type="submit" onclick=" generateCaptcha();" class="registerbtn">refresh</button>
+                    <br>
+                    <input type="text" id="txtInput">
+                    <br>
+                    <button type="submit" class="btn btn-primary">SEND</button>
+                    <!-- <button type="submit" class="registerbtn">Register</button> -->
+            </div>
+            </form>
+            <script type="text/javascript">
+                function generateCaptcha() {
+                    var alpha = new Array('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z');
+                    var i;
+                    for (i = 0; i < 4; i++) {
+                        var a = alpha[Math.floor(Math.random() * alpha.length)];
+                        var b = alpha[Math.floor(Math.random() * alpha.length)];
+                        var c = alpha[Math.floor(Math.random() * alpha.length)];
+                        var d = alpha[Math.floor(Math.random() * alpha.length)];
+                    }
+                    var code = a + '' + b + '' + '' + c + '' + d;
+                    document.getElementById("mainCaptcha").value = code
+                }
+                function CheckValidCaptcha() {
+                    var string1 = removeSpaces(document.getElementById('mainCaptcha').value);
+                    var string2 = removeSpaces(document.getElementById('txtInput').value);
+                    if (string1 == string2) {
+                        document.getElementById('success').innerHTML = "Form is validated Successfully";
+                        //alert("Form is validated Successfully");
+                        return true;
+                    }
+                    else {
+                        document.getElementById('error').innerHTML = "Please enter a valid captcha.";
+                        //alert("Please enter a valid captcha.");
+                        return false;
+
+                    }
+                }
+                function removeSpaces(string) {
+                    return string.split(' ').join('');
+                }
+            </script>
+
+        </div>
+    </div>
+    
+    <div class="container"></div>
+    <div class="footer">
+        <div class="row">
+            <div class="col-sm-3">
+                <h1>ABOUT</h1>
+                <p>PCHELPDESK, the core service of Mars Infocare Solutions Pvt. Ltd, are here to provide you hassle
+                    free Computer AMC Services, Laptop Repair, PC Maintenance, Printer Repair & IT solutions right when
+                    you need them. Whether you are a home user or a business person.</p>
+            </div>
+            <div class="col-sm-3">
+                <h1>OUR SERVICES</h1>
+                <ul class="list">
+                    <li><a href=""> PC Tech Support</a></li><br>
+                    <li><a href="">PC Repair & AMC Service for Home USERS</a></li><br>
+                    <li><a href="">Computer AMC Service Business/Enterprise</a></li><br>
+                    <li><a href="">Laptop Repair Services</a></li><br>
+                    <li><a href="">Printer Repair Services</a></li><br>
+                    <li><a href="">Onsite Computer AMC Services</a></li>
+ </ul>
+            </div>
+            <div class="col-sm-3">
+                <h1>QUICK LINKS</h1>
+                <ul class="list">
+                    <li><a href="">Managed IT Services</a></li><br>
+                    <li><a href="">Why so serius duck girl</a></li><br>
+                    <li><a href="">Contact Us</a></li>
+
+                </ul>
+            </div>
+            <div class="col-sm-3">
+                <h1>ADDRESS</h1>
+                <div class="row">
+                    <div class="col-sm-3_footer"><a class="footer_icon" href=""><i class="fa fa-envelope"></i></a></div>
+                    <div class="col-sm-3_footer"><a class="footer_icon" href=""><i class="fab fa-facebook-f"></i></a></div>
+                    <div class="col-sm-3_footer"><a class="footer_icon" href=""><i class="fab fa-twitter"></i></a></div>
+
+                    <div class="col-sm-3_footer"><a class="footer_icon" href=""><i class="fab fa-google-plus-g"></i></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+</body>
+
+</html>
