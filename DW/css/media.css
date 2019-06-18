@@ -1,0 +1,1165 @@
+@media  (max-width:1348px){
+    .rhtzero {
+        margin-right: -30px;
+    }
+    .glob_img {
+        right: -30px;
+    }
+}
+@media(max-width:1199px){
+	#clockdiv {
+        width: 509px;
+        font-size: 30px;
+        margin-left: -69px;
+        padding-left: 96px;
+    }
+    .app_rht {
+        padding: 25px 30px 40px;
+        width: 600px;
+    }
+    .rhtzero {
+        margin-right: -26px;
+    }
+    .discount_section {
+        padding-top: 35px;
+    }
+    .dis_left h2 {
+        font-size: 50px;
+    }
+    #clockdiv>div {
+        padding: 10px 10px 20px;
+    }
+    .form_left .form-control {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+    .radio_bud {
+        margin-bottom: 30px;
+    }
+    .radio_bud .radio1_gb {
+        font-size: 15px;
+    }
+    .radio_bud1 {
+        padding: 0px 11px;
+    }
+    .radio_bud1 label {
+        font-size: 14px;
+    }
+    .circle_img {
+        width: 683px;
+    }
+    .app_sec h2 {
+        font-size: 45px;
+    }
+    .app_sec {
+        padding: 0px 169px;
+    }
+    .iso_sec ul li {
+        display: inline-block;
+        width: 152px;
+    }
+    .part_sec h2 {
+        font-size: 45px;
+    }
+    .client_partner .logoitem {
+        margin: 30px 12px 0;
+    }
+    .btnul ul li {
+        padding: 0px 12px;
+    }
+    .disbtm_left1 h2 {
+        font-size: 45px;
+    }
+    .disbtm_left2 img.mblimg {
+        top: 143px;
+        left: 148px;
+        width: 195px;
+    }
+    .app, .portfolio {
+        padding: 70px 0px;
+    }
+    .offer_down {
+        font-size: 40px;
+        padding-top: 20px;
+    }
+    .app_content h5 {
+        font-size: 22px;
+    }
+    .app_content {
+        padding: 25px 0px;
+    }
+    .app_rht_rht li {
+        margin-right: 17px;
+    }
+    .brown_lft h1 {
+        font-family: 'NeutrifProSemiBold';
+        font-size: 45px;
+    }
+    .brown_rht {
+        margin-top: -168px;
+    }
+    .offer_down {
+        font-size: 35px;
+        padding-top: 15px;
+    }
+    .portfolio_inner .row {
+        padding-top: 50px;
+    }
+    .talk {
+        padding: 70px 0px;
+    }
+    .offer h3 {
+        font-size: 22px;
+    }
+    .global_rht li {
+        width: 199px;
+        padding: 30px 20px;
+        margin: 20px 15px 0px;
+    }
+    .global_inner.qbtn{
+        margin: 40 auto 0;
+    }
+    .glob_img {
+        right: -25px;
+        width: 93px;
+    }
+    .company_con h6 {
+        font-family: 'NeutrifProMedium';
+        font-size: 20px;
+    }
+    .company_con a {
+        font-size: 16px;
+        margin: 5px 0px 0px;
+    }
+    .company {
+        padding: 70px 0px;
+    }
+    .copy_inner p {
+        font-size: 20px;
+    }
+    .copy {
+        padding: 25px 0px;
+    }
+    .btnul ul li a {
+        padding: 7px 10px;
+        font-size: 17px;
+    }
+    .banner_cont h2 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+    .banner_cont h3 {
+        font-size: 45px;
+        margin-bottom: 30px;
+    }
+    .challege_cont h4 {
+        font-size: 26px;
+    }
+    .challege_cont p {
+        font-size: 20px;
+    }
+    .mbl_imagee img.mble {
+        top: 71px;
+    }
+    .num_row {
+        margin: 60px 0px;
+    }
+    .purple_div {
+        margin: 70px 0px;
+    }
+    .global_rht li span {
+        font-size: 20px;
+    }
+    .global_rht li {
+        width: 147px;
+        margin: 20px 14px 0px;
+    }
+    .flag_img {
+        min-height: 85px;
+    }
+}
+ 
+@media(max-width:991px){
+    .dis_left img {
+        width: 245px;
+        margin: 40px auto;
+    }
+    #clockdiv>div {
+        padding: 10px 6px 20px;
+    }
+    #clockdiv {
+        width: 418px;
+        font-size: 20px;
+        margin-left: -87px;
+        padding-left: 73px;
+    }
+    .clk1:nth-child(1)::before {
+        top: 22px;
+        left: -5px;
+        height: 66px;
+    }
+    .app_rht {
+        padding: 25px 30px 40px;
+        width: 379px;
+    }
+    .circle_img {
+        width: 567px;
+    }
+    .dis_right {
+        padding: 20px 10px;
+    }
+    .radio_bud1 input[type=radio]:checked+label .grey {
+        border: 5px solid #ef392f;
+    }
+    .grey {
+        height: 16px;
+        width: 16px;
+        border: 5px solid #e4e4e4;
+    }
+    .form_left .form-control {
+        padding: 6px 5px;
+    }
+    .radio_bud1 {
+        padding: 0px 1px;
+    }
+    .app_sec {
+        padding: 0px 57px;
+    }
+    .app_sec h2 {
+        font-size: 35px;
+    }
+    .num h3 {
+        font-size: 30px;
+
+    }
+    .num p {
+        font-size: 14px;
+    
+    }
+    .iso_sec ul li {
+        display: inline-block;
+        width: 116px;
+    }
+    .purple_div {
+        padding: 20px 20px;
+        margin: 30px 0px;
+    }
+    .part_sec h2 {
+        font-size: 35px;
+    }
+    .client_partner .logoitem {
+        margin: 30px 12px 0;
+        height: 115px;
+        width: 16%;
+    }
+    .btnul ul li a {
+        padding: 10px 15px;
+        min-width: 163px;
+    }
+    .btnul ul li a {
+        padding: 8px 15px;
+        min-width: 66px;
+    }
+    .btnul ul li {
+        padding: 0px 3px;
+    }
+    .disbtm_left2 img.mblimg {
+        top: 143px;
+        left: 107px;
+        width: 174px;
+    }
+  
+    .app_rht_lft  img{
+        width: 158px;
+        margin: 0 auto;
+    }
+    .app_rht_rht  img{
+        width: 108px;
+    }
+    .app_content {
+        padding: 15px 0px;
+    }
+    .app_content p {
+        padding-top: 10px;
+    }
+    .brown_lft h1 {
+        font-size: 35px;
+    }
+    .brown_lft p {
+        padding: 10px 0px;
+    }
+    .brown_rht {
+        margin-top: -127px;
+    }
+    .port_rht p {
+        font-size: 15px;
+        padding: 20px 0px;
+    }
+    .portfolio_inner .row {
+        padding-top: 35px;
+    }
+    .benefit_content img {
+        width: 70px;
+        min-height: 78px;
+    }
+    .benefit_content h6 {
+        font-size: 20px;
+    }
+    .left_line{
+        margin-left: -237px;
+        width: 220px;
+    }
+    .rgt_line{
+        margin-left: 237px;
+        width: 220px;
+    }
+    .talk_content p {
+        font-size: 20px;
+    }
+    .quote button {
+        font-size: 16px;
+    }
+    /* .righticon {
+        margin-left: 0px;
+    }
+    .lefticon {
+        margin-right: 0px;
+    } */
+    .talk_detail {
+        padding: 50px 0px;
+    }
+  
+    .right_border {
+        width: 170px;
+        margin-left: 203px;
+    }
+    .left_border {
+        width: 170px;
+        margin-left: -203px;
+    }
+    
+    .portfolio_inner .row {
+        display: block;
+    }
+    .rhtzero {
+        margin-right: -26px;
+    }
+    .dis_left img {
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+    .dis_left h2 {
+        font-size: 35px;
+        text-align: left;
+        margin-top: 22px;
+    }
+    .glob_img {
+        right: -26px;
+    }
+    .global_rht h2 {
+        font-size: 45px;
+    }
+    .global_rht p {
+        font-size: 22px;
+        padding: 12px 0px;
+    }
+    .app_rht_inner {
+        display:inline-block;
+    }
+    .global_rht h2 {
+        font-size: 35px;
+    }
+    .global_rht p {
+        font-size: 18px;
+        padding: 12px 0px;
+    }
+    .glob_img {
+        right: -25px;
+        width: 80px;
+    }
+    .global_rht li span {
+        font-size: 20px;
+        padding-top: 0;
+    }
+    .global_rht li {
+        width: 144px;
+    }
+    .flag_img {
+        min-height: 80px;
+    }
+    .jaihoimage img {
+        height: 330px;
+    }
+    .global {
+        padding: 50px 0px;
+    }
+    .company_con {
+        margin-left: 20px;
+    }
+    .company {
+        padding: 50px 0px;
+    }
+    .company_con h6 {
+        font-family: 'NeutrifProMedium';
+        font-size: 16px;
+    }
+    .company_con a {
+        font-size: 14px;
+    }
+    .quote {
+        margin-right: 15px;
+    }
+    .btnul ul li a {
+        font-size: 16px;
+    }
+    .quote button {
+        font-size: 18px;
+        width: 122px;
+        height: 37px;
+    }
+    .service_home .innerserv {
+        padding: 28px 20px 40px;
+    }
+    .service_home .innerserv ul.servicecont_list li {
+      
+        padding-left: 6px;
+    }
+    .service_home .servicebox .col-sm-6:nth-child(3) .innerserv {
+        margin-top: -151px;
+    }
+    .service_home .innerserv {
+        padding: 40px 40px 75px;
+    }
+    .service_home .innerserv h2, .build h2 {
+        font-size: 38px;
+    }
+    .service_home .innerserv img {
+        display: none;
+    }
+    .service_home .innerserv .serviceicon_list li img {
+        display: block;
+    }
+    .service_home .innerserv ul.servicecont_list {
+        padding-right: 0;
+    }
+    .jaihoimage img {
+        height: 40%;
+    }
+    .jaihoimage h2 {
+        font-size: 24px;
+        margin-bottom: 6px;
+    }
+    .jaihoimage h3 {
+        font-size: 17px;
+    }
+    .jaihoimage p {
+        font-size: 16px;
+    }
+    .grey_line {
+        margin: 15px 0px;
+    }
+    .jaihoimage {
+        width: 284px;
+        padding: 30px 16px;
+    }
+    .global_rht h2 {
+        font-size: 30px;
+    }
+    .global_rht p {
+        font-size: 17px;
+        padding: 12px 0px;
+    }
+    .sociallinks li a i {
+        font-size: 16px;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+    }
+    .fsocial {
+        padding-left: 41px;
+        margin-top: 8px;
+    }
+    .company_con h6 {
+        font-size: 15px;
+    }
+    .company_con {
+        margin-left: 8px;
+    }
+   
+    .talk_detail .col-sm-3{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .talk_detail .quote{
+        justify-content: center;
+    }
+    .banner_section {
+        padding: 50px 0px;
+    }
+    .challege_cont h4 {
+        font-size: 19px;
+    }
+    .banner_cont .banner_btn {
+        margin-top: 13px;
+    }
+    .client_detail {
+        width: 84%;
+    }
+
+}
+
+@media(max-width:767px){
+    /* .estimateup .modal-dialog {
+        max-width: 370px;
+    }
+        .estimateup .estimte {
+            padding: 0px 20px 30px 20px;
+        }
+        .estimateup .estimte form .col-sm-6 {
+        width: 49%;
+        padding: 0 5px;
+    } */
+    .estimateup .estimte {
+        padding: 0px 20px 20px 20px;
+    }
+    .client_detail {
+        min-height: 357px;
+    }
+    .modal-dialog {
+        margin: 22px;
+    }
+    .modal-dialog {
+        margin: 30px;
+    }
+    .estimateup .estimte .form-control {
+        margin-bottom: 0px;
+    }
+    .discount_section {
+        padding: 20px 0px 0px;
+    }
+    .dis_sec  .dis_left {
+        display: none;
+    }
+    .radio_bud {
+        margin-bottom: 0px;
+    }
+    .circle_img {
+        display: none;
+    }
+    .rgt_d {
+        padding-top: 0px;
+    }
+    .pophead .btm_pop{
+        width: 100%;
+    }
+   .header .hamburger{
+        display: block;
+    }
+    .popbbtn .popbutn{
+        padding: 12px 43px;
+    }
+   
+    .app_rht {
+        padding: 25px 30px 40px;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 0;
+    }
+    /* .talk_detail .quote {
+        display: block;
+    } */
+    .left_border {
+        width: 132px;
+        margin-left: -196px;
+    }
+    .right_border {
+        width: 132px;
+        margin-left: 196px;
+    }
+    .client .row {
+        margin: 0px;
+    }
+    .client .col-sm-6 {
+        padding: 0px 0px 40px;
+    }
+    /* .client_img {
+        margin-left: -120px;
+    } */
+    .clientslider .slick-next {
+        right: 42%;
+    }
+    .global {
+        padding: 30px 0px;
+    }
+    .global_rht h2 {
+        font-size: 30px;
+        margin-top: 15px;
+    }
+    .global_rht p {
+        font-size: 16px;
+    }
+    .company {
+        padding: 30px 0px;
+    }
+    .company_detail {
+        margin-bottom: 15px;
+    }
+    .company_detail img{
+        width: 30px;
+    }
+    .copy_inner p {
+        font-size: 15px;
+    }
+    .copy {
+        padding: 20px 0px;
+    }
+    .rhtzero {
+        margin-right: -15px;
+    }
+    .glob_img {
+        right: -14px;
+        width: 80px;
+    }
+  
+    .dis_right {
+        width: 100%;
+        float: right;
+    }
+    #clockdiv {
+        width: 100%;
+        font-size: 20px;
+        margin-left: 0;
+        padding-left: 0px;
+        float: right;
+    }
+    .app_sec h2 {
+        font-size: 30px;
+        margin-top: 50px;
+    }
+    .app_sec {
+        padding: 0px 0;
+    }
+    .num h3 {
+        font-size: 25px;
+    }
+    .num p {
+        font-size: 13px;
+    }
+    .iso_sec ul li {
+        width: 132px;
+    }
+    .purple_div {
+        padding: 15px 15px;
+        margin: 20px 0px;
+    }
+    .client_partner {
+        padding: 0px 0px 90px;
+    }
+    .client_partner .logoitem {
+        height: 137px;
+        width: 28%;
+    }
+    .btnul ul li a {
+        padding: 8px 7px;
+        font-size: 14px;
+    }
+    .disbtm_left1 h2 {
+        font-size: 36px;
+        margin-top: 29px;
+    }
+    .disbtm_left2 img.mblimg {
+        margin: 0 auto;
+        top: 97px;
+        left: 166px;
+        width: 210px;
+    }
+    .resfrm{
+        width: 100%;
+    }
+    .radio_bud1 {
+        padding: 0px 13px;
+    }
+    .app, .portfolio {
+        padding: 30px 0px;
+    }
+    .left_border {
+        width: 171px;
+        margin-left: -161px;
+    }
+    .right_border {
+        width: 171px;
+        margin-left: 161px;
+    }
+    .offer_down {
+        font-size: 30px;
+    }
+    .app_detail {
+        padding-top: 25px;
+    }
+    .app_left {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .app_left a span {
+        width: 87%;
+    }
+    .brown {
+        padding: 40px 0px 189px;
+    }
+    .brown_rht {
+        margin-top: -191px;
+    }
+    .port_rht a {
+        margin-bottom: 15px;
+
+    }
+    .paddlft {
+        padding-left: 0px;
+    }
+    .benefit_content h6 {
+        font-size: 18px;
+    }
+    .left_line {
+        margin-left: -186px;
+        width: 132px;
+    }
+    .rgt_line  {
+        margin-left: 186px;
+        width: 132px;
+    }
+    .talk_detail {
+        padding: 30px 0px;
+    }
+    .talk_lft {
+        margin-bottom: 15px;
+    }
+    .quote {
+        /* display: block; */
+        text-align: center;
+    }
+    .mbl_imagee img.mble {
+        display: none;
+    }
+    .banner_cont h3 {
+        font-size: 35px;
+        margin-bottom: 17px;
+    }
+    .banner_cont h2 {
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .challege_cont {
+        margin-bottom: 11px;
+    }
+    .challenge_sec  .col-sm-4{
+     width: 33.33%;
+     float: left;
+    }
+    .btnul{
+        display: none;
+    }
+    .quote_btn {
+        padding: 12px 15px;
+    }
+    .purple_div {
+        display: inline-block;
+        border-radius: 30px;
+    }
+    .talk_detail .rebn .resquote{
+        display: inline-block;
+    }
+    .quote {
+        display: block;
+    }
+    .sbm_btn {
+        float: unset;
+    }
+    .purple_div .sub_btn {
+        float: unset;
+    }
+    .serv_stack p {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .client h3, .serv_stack h3 {
+        font-size: 27px;
+        padding: 0px 0 10px;
+    }
+    .service_home .innerserv {
+        padding: 25px 25px;
+        margin-bottom: 15px;
+    }
+    .service_home .servicebox .col-sm-6:nth-child(2) .innerserv {
+        margin-top: 0px;
+    }
+    .client_detail {
+        width: 100%;
+    }
+    .client_img {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .jaihoimage {
+        margin: 0 auto;
+    }
+    .fsocial {
+        margin-bottom: 15px;
+    }
+}
+
+@media(max-width:560px){
+    .service_home .innerserv {
+        padding: 20px 20px;
+    }
+    .popchk {
+        width: 48%;
+    }
+    .service_home .innerserv h2 {
+        padding: 0 0px 14px 0;
+    }
+    .client_detail {
+        min-height: 367px;
+    }
+    .estimateup .estimte label {
+        font-size: 15px;
+    }
+    .offer  .left_border3 {
+        width: 85px;
+        margin-left: -143px;
+    }
+    .offer  .right_border3  {
+        width: 85px;
+        margin-left: 143px;
+    }
+    .left_border {
+        width: 117px;
+        margin-left: -118px;
+    }
+    .right_border {
+        width: 117px;
+        margin-left: 118px;
+    }
+    .left_border2 {
+        width: 108px;
+    margin-left: -125px;
+    }
+    .right_border2 {
+        width: 108px;
+        margin-left: 125px;
+    }
+    .offer h3 {
+        font-size: 18px;
+    }
+    .circle_img {
+        width: 434px;
+    }
+    .benefit_content h6 {
+        font-size: 14px;
+    }
+    .benefit_content h6 {
+    font-size: 14px;
+}
+.dis_left img {
+    margin-top: 40px;
+    margin-left: -10px;
+}
+.dis_right {
+    width: 100%;
+    /* float: right; */
+}
+.radio_bud1 {
+    padding: 0px 5px;
+}
+#clockdiv {
+    width: 100%;
+    font-size: 17px;
+}
+.app_sec h2 {
+    font-size: 25px;
+}
+.purple_div {
+    display: inline-block;
+}
+.purple_div {
+    border-radius: 23px;
+}
+.sbm_btn {
+    float: unset;
+}
+.client_partner .logoitem {
+    height: 147px;
+    width: 43%;
+}
+.client_partner {
+    padding: 0px 0px 50px;
+}
+.btnul{
+    display: none;
+}
+.disbtm_left2 img.mblimg {
+    margin: 0 auto;
+    top: 73px;
+    left: 113px;
+    width: 183px;
+}
+.brown_rht {
+    margin-top: -136px;
+}
+.talk_detail {
+    padding: 20px 0px;
+}
+.quote button {
+    width: 134px;
+    height: 40px;
+}
+.talk_content p {
+    font-size: 16px;
+}
+.client_detail {
+    padding: 15px 10px;
+    width: 385px;
+}
+.client_img {
+    margin-left: 0;
+    margin-top: 0;
+}
+.client_inner {
+    padding-left: 18px;
+}
+.clientslider .slick-prev {
+    left: 40%;
+}
+.talk {
+    padding: 43px 0px;
+}
+.global_rht h2 {
+    font-size: 25px;
+}
+.glob_img {
+    width: 65px;
+    top: -14px;
+}
+.global_rht li {
+    width: 160px;
+    min-height: 160px;
+    padding: 19px 22px;
+}
+.copy {
+    padding: 15px 0px;
+}
+.benefit_content img {
+    width: 40px;
+    min-height: 44px;
+    margin: 0px auto 12px;
+}
+.benefit_content {
+    width: 50%;
+    margin-top: 20px;
+}
+.benefit_content p {
+    padding-top: 10px;
+}
+.offer_down {
+    font-size: 25px;
+}
+.offer h3 {
+    font-size: 15px;
+}
+.brown {
+    padding: 30px 0px 133px;
+}
+.app_left a span {
+    width: 83%;
+}
+.app_left {
+    padding: 20px
+}
+.banner_cont h3 {
+    font-size: 33px;
+    margin-bottom: 36px;
+}
+}
+@media(max-width:414px){
+    .client_detail {
+        min-height: 546px;
+    }
+	.left_border {
+        width: 84px;
+        margin-left: -98px;
+    }
+    .right_border {
+        width: 84px;
+        margin-left: 98px;
+    }
+    .left_border2 {
+        width: 70px;
+        margin-left: -103px;
+    }
+    .right_border2 {
+        width: 70px;
+        margin-left: 103px;
+    }
+    .offer .left_border3 {
+        width: 60px;
+        margin-left: -119px;
+    }
+    .offer .right_border3 {
+        width: 60px;
+        margin-left: 119px;
+    }
+    .mreswth{
+        width: 100%;
+        float: left;
+    }
+    .circle_img {
+        width: 399px;
+    }
+    .dis_left img {
+        width: 199px;
+        margin-top: 45px;
+        margin-left: 3px;
+    }
+    .quote {
+        margin-right: 2px;
+    }
+    .rgt_d {
+        padding: 0px;
+    }
+    .form_left .form-control {
+        margin-bottom: 15px;
+    }
+    .radio_bud {
+        margin-bottom: 15px;
+    }
+    .radio_bud .radio1_gb {
+        font-size: 14px;
+    }
+    .smalltext {
+        font-family: 'NeutrifProMedium';
+        font-size: 12px;
+}
+.app_sec h2 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+.num_row {
+    margin: 20px 0px;
+}
+.num1{
+    margin: 15px 0px;
+}
+.sbm_btn {
+    padding: 5px 27px;
+    font-size: 14px;
+}
+.envlp  img{
+    width: 40px;
+}
+.part_sec h2 {
+    font-size: 30px;
+}
+.client_partner .logoitem {
+    height: 107px;
+    width: 41%;
+}
+.partnerlogo {
+    padding: 10px;
+}
+.disbtm_left2 img.mblimg {
+    left: 112px;
+    width: 135px;
+    top: 114px;
+}
+.disbtm_left2 img.cirimg {
+    margin-bottom: 13px;
+}
+.app_left a span {
+    width: 77%;
+}
+.app_left a span {
+    font-size: 14px;
+    padding-bottom: 18px;
+    margin-left: 13px;
+}
+.app_rht {
+    padding: 15px 15px 20px
+}
+.app_rht_rht li {
+    margin-right: 12px;
+}
+.brown_rht {
+    margin-top: -100px;
+}
+.brown_lft h1 {
+    font-size: 30px;
+}
+.benefit_content {
+    /* float: right; */
+    min-height: 121px;
+}
+.benefit_content img {
+    width: 50px;
+    min-height: 50px;
+}
+.number p {
+    font-size: 20px;
+}
+.clientslider .slick-prev {
+    left: 37%;
+}
+.client_detail {
+    width: 290px;
+    display: inline-block;
+}
+.client_inner {
+    padding-left: 0;
+    margin-top: 10px;
+}
+.jaihoimage img {
+    /* height: 265px; */
+}
+.glob_img {
+    width: 54px;
+}
+.global_rht li {
+    width: 100%;
+    margin: 0;
+}
+.challenge_sec .col-sm-4 {
+    width: 100%;
+    float: left;
+}
+.challege_cont {
+    margin-bottom: 15px;
+}
+.form-group {
+    margin-bottom: 36px;
+}
+.envlp img {
+    width: 55px;
+    margin-bottom: 20px;
+}
+.purple_div {
+    padding: 15px 0px;
+}
+.service_home .innerserv {
+    padding: 15px 15px;
+}
+.modal-dialog {
+    margin: 27px 5px;
+}
+.estimateup .estimte {
+    padding: 0px 6px 6px 10px;
+}
+.popchk {
+    width: 100%;
+    margin-bottom: 10px;
+}
+}
+@media(max-width:320px){
+    .disbtm_left2 img.mblimg {
+        left: 89px;
+        width: 121px;
+        top: 114px;
+    }
+}
