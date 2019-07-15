@@ -1,0 +1,1388 @@
+@media(max-width:1450px) {}
+
+@media(max-width:1199px) {
+    .customer_slider .slick-slider .slick-track,
+    .customer_slider .slick-slider .slick-list {
+        padding-left: 59px;
+    }
+    .header .navbar-default .navbar-nav>li {
+        padding: 0px 9px;
+    }
+    .header {
+        padding: 0px 25px 0px;
+    }
+    /*Servicedesk*/
+    .servBanner {
+        padding: 140px 0;
+    }
+    .servBanner h1 {
+        font-size: 60px;
+    }
+    .servDesk .deskInner h2 {
+        font-size: 30px;
+    }
+    .servDesk .deskInner h2:before {
+        width: 90px;
+    }
+    .subscribe h2 {
+        font-size: 30px;
+    }
+    .subscribe form {
+        width: 520px;
+    }
+    .subscribe form input.form-control {
+        width: 405px;
+    }
+    .subscribe h2:before {
+        width: 90px;
+    }
+    .servDesk.ourServ p {
+        padding-right: 0;
+    }
+    /*Servicedesk End*/
+    /*Rollouts*/
+    .servBanner.rollout {
+        padding: 140px 0;
+    }
+    .servBanner.rollout h1 {
+        font-size: 60px;
+    }
+    /*Rollouts End*/
+    /*Coverage*/
+    .servBanner.coverage {
+        padding: 140px 0;
+    }
+    .servBanner.coverage h1 {
+        font-size: 60px;
+    }
+    .servDesk.coverg p {
+        padding: 20px 0px 0px;
+    }
+    /*Coverage End*/
+    /* .subscribe h2 {
+    font-size: 30px;
+}
+
+.subscribe form {
+    width: 520px;
+}
+
+.subscribe form input.form-control {
+    width: 405px;
+}
+
+.subscribe h2:before {
+    width: 90px;
+} */
+    /*Footer*/
+    .contact .cont_us {
+        margin-left: 75px;
+    }
+    .contact .cont_logo p {
+        margin-right: 49px;
+    }
+    /*Footer End*/
+    /* index start */
+    .header .navbar>.container .navbar-brand,
+    .navbar>.container-fluid .navbar-brand {
+        padding-top: 0px;
+    }
+    .header .navbar-brand img {
+        width: 150px;
+        margin-top: 22px;
+    }
+    .header .navbar-default .navbar-nav>li>a {
+        padding: 20px 0px;
+    }
+    .banner_section {
+        padding: 70px 85px 62px;
+    }
+    .banner_section h1 {
+        font-size: 65px;
+        margin-bottom: 25px;
+    }
+    .banner_section p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .ser_sec {
+        padding: 60px 0px;
+    }
+    .serv_bx h2 {
+        font-size: 30px;
+        margin: 30px 0px;
+    }
+    .servives_bx {
+        min-height: 250px;
+    }
+    .impressed_sec {
+        padding: 50px 0px 80px;
+    }
+    .imp_sec h2 {
+        font-size: 30px;
+        margin: 25px 0px;
+    }
+    .imp_sec p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .customer_slider h2 {
+        font-size: 30px;
+    }
+    .customer_slider .slider_inner {
+        padding: 29px 25px;
+    }
+    .value_logorow h2 {
+        margin: 30px 0px 0px;
+    }
+    /* index end */
+    /* about strat */
+    .eng_img img.eng_img1 {
+        margin-right: -26px;
+        margin-top: -86%;
+    }
+    .about_sec {
+        padding: 120px 0px;
+    }
+    .about_sec h1 {
+        font-size: 60px;
+    }
+    .it_sec {
+        padding: 60px 0px;
+    }
+    .it_section h2 {
+        font-size: 30px;
+        margin: 30px 0px;
+    }
+    .team {
+        padding: 60px 0px;
+    }
+    .team_sec h2 {
+        font-size: 30px;
+        margin: 30px 0px;
+    }
+    .row_photo .img1 p {
+        font-size: 18px;
+    }
+    .philo_sec {
+        padding: 60px 0px;
+    }
+    .philo_sec h2 {
+        font-size: 30px;
+        margin: 30px 0px;
+    }
+    .phil_img img.philo_im2 {
+        float: right;
+        margin-top: 44px;
+        margin-right: -39px;
+    }
+    .content_l h3 {
+        font-size: 22px;
+        margin-bottom: 17px;
+    }
+    .engg_sec {
+        padding: 25px 0px 60px;
+    }
+    /* .subscribe {
+    padding: 70px 0;
+} */
+    /* about end */
+    /*    Contact Page*/
+    .banner_main {
+        /* margin-top: 76px; */
+    }
+    .form_left h2 {
+        font-size: 30px;
+    }
+    .form_main .form-control {
+        height: 44px;
+    }
+    .form_main textarea.msg_lb {
+        height: 130px;
+    }
+    .contact_sec {
+        padding: 0px 0;
+    }
+    /*    Contact Page End*/
+    /*  */
+}
+
+@media(max-width:991px) {
+    .customer_slider .slick-slider .slick-track,
+    .customer_slider .slick-slider .slick-list {
+        padding-left: 13px;
+    }
+    /* .fixed_header {
+        padding: 15px 15px;
+    } */
+    .header {
+        padding: 15px 15px;
+    }
+    .subscribe {
+        padding: 60px 0;
+    }
+    .subscribe h2 {
+        font-size: 27px;
+        padding: 30px 0 23px;
+    }
+    .subscribe form {
+        width: 470px;
+    }
+    .subscribe form input.form-control {
+        width: 354px;
+        padding: 12px 15px;
+    }
+    .subscribe form button {
+        padding: 13px 15px;
+    }
+    /*Footer    */
+    .contact .cont_us {
+        margin-left: 20px;
+    }
+    .contact .cont_logo p {
+        margin-right: 30px;
+    }
+    /*Footer End    */
+    .header .hamburger {
+        display: block;
+    }
+    .header .navbar-collapse.collapse {
+        display: none!important;
+        height: auto!important;
+        padding-bottom: 0;
+        overflow: visible!important;
+    }
+    .header .container-fluid>.navbar-collapse,
+    .header .container-fluid>.navbar-header,
+    .header .container>.navbar-collapse,
+    .header .container>.navbar-header {
+        width: 100%;
+    }
+    .banner_section h1 {
+        font-size: 55px;
+        margin-bottom: 20px;
+    }
+    .banner_section {
+        padding: 45px 76px 26px;
+    }
+    .banner_button li {
+        margin-top: 20px;
+    }
+    .ser_sec {
+        padding: 50px 0px 60px;
+    }
+    .serv_bx h2 {
+        margin: 25px 0px;
+    }
+    .servives_bx {
+        min-height: 200px;
+    }
+    .imp_sec {
+        padding-right: 260px;
+    }
+    .impressed_sec {
+        padding: 50px 0px 60px;
+    }
+    .customer_slider {
+        padding: 50px 0;
+    }
+    .customer_slider h2 {
+        margin-left: 22px;
+    }
+    .orange_line2 {
+        margin-left: 22px;
+        margin-bottom: 30px;
+    }
+    .customer_slider .slider_inner p {
+        font-size: 14px;
+    }
+    .customer_slider .slider_inner h2 {
+        display: inline-block;
+        font-size: 16px;
+    }
+    .val_sec {
+        padding: 50px 0px;
+    }
+    .value_logorow h2 {
+        font-size: 30px;
+    }
+    .logo_div {
+        display: inline-block;
+        padding: 20px;
+    }
+    /* about start */
+    .about_sec {
+        padding: 100px 0px;
+    }
+    .about_sec h1 {
+        font-size: 50px;
+    }
+    .it_section p {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .it_section h2 {
+        font-size: 30px;
+        margin: 25px 0px;
+    }
+    .row_photo .img1 p {
+        font-size: 16px;
+    }
+    .team {
+        padding: 50px 0px;
+    }
+    .philo_sec {
+        padding: 50px 0px;
+    }
+    .content_l p {
+        font-size: 14px;
+    }
+    .content_eng p {
+        font-size: 14px;
+        padding-right: 24px;
+    }
+    .eng_img img.eng_img1 {
+        display: none;
+    }
+    /* about end */
+    /*Contact */
+    .orgg_sec {
+        width: 282px;
+        height: 460px;
+        padding: 0px 25px;
+    }
+    .loc_box {
+        min-height: 182px;
+    }
+    .form_sec {
+        padding: 60px 0;
+    }
+    .contact_sec {
+        padding: 0px 0;
+    }
+    /*Contact End*/
+    /*Servicedesk*/
+    .servBanner {
+        padding: 125px 0;
+    }
+    .servBanner h1 {
+        font-size: 54px;
+    }
+    .servDesk {
+        padding: 60px 0;
+    }
+    .servDesk .deskInner h2 {
+        font-size: 27px;
+        padding-top: 25px;
+    }
+    .servDesk .deskInner p {
+        padding: 17px 0;
+    }
+    /* .subscribe {
+        padding: 60px 0;
+    }
+    
+    .subscribe h2 {
+        font-size: 27px;
+        padding: 30px 0 23px;
+    }
+    
+    .subscribe form {
+        width: 470px;
+    }
+    
+    .subscribe form input.form-control {
+        width: 354px;
+        padding: 12px 15px;
+    }
+    
+    .subscribe form button {
+        padding: 13px 15px;
+    } */
+    /*Servicedesk End*/
+    /*Rollouts*/
+    .servBanner.rollout {
+        padding: 125px 0;
+    }
+    .servBanner.rollout h1 {
+        font-size: 54px;
+    }
+    .servDesk.servRoll {
+        padding: 60px 0;
+    }
+    .servDesk.servRoll .deskInner h2 {
+        font-size: 27px;
+    }
+    /*Rollouts End*/
+    /*Coverage*/
+    .servBanner.coverage {
+        padding: 125px 0;
+    }
+    .servBanner.coverage h1 {
+        font-size: 54px;
+    }
+    .servDesk.coverg {
+        padding: 60px 0;
+    }
+    .servDesk.coverg .deskInner h2 {
+        font-size: 27px;
+    }
+    /*Coverage End*/
+    /* testimonial start */
+    .tph_sec {
+        padding: 30px 20px;
+    }
+    .main_cus {
+        margin: 50px 0px;
+    }
+    .cont_sec p {
+        line-height: 25px;
+    }
+    .cont_sec {
+        background-color: #fff;
+        padding: 30px 30px 20px;
+    }
+    /* testimonial end */
+}
+
+@media(max-width:767px) {
+    .res_img {
+        height: 330px;
+    }
+    .customer_slider .slider {
+        padding-left: 100px;
+    }
+    .customer_slider .slick-slider .slick-track,
+    .customer_slider .slick-slider .slick-list {
+        padding-left: 0px;
+    }
+    .header .hamburger {
+        padding: 10px 20px 10px 0;
+    }
+    .subscribe {
+        padding: 50px 0;
+    }
+    .subscribe h2 {
+        font-size: 25px;
+        padding: 25px 0 20px;
+    }
+    .subscribe form {
+        width: 425px;
+    }
+    .subscribe form input.form-control {
+        width: 312px;
+    }
+    .subscribe form input.form-control {
+        font-size: 15px;
+    }
+    .subscribe form input::placeholder {
+        font-size: 15px;
+    }
+    .subscribe form button {
+        font-size: 15px;
+    }
+    /*Footer    */
+    .contact {
+        padding: 30px 0;
+    }
+    .contact h2 {
+        margin: 30px 0 20px;
+    }
+    .contact ul li {
+        margin-bottom: 10px;
+    }
+    .contact .cont_lines {
+        width: 33.3%;
+        display: inline-block;
+        float: left;
+    }
+    .contact .cont_policy {
+        width: 33.3%;
+        display: inline-block;
+        float: left;
+    }
+    .contact .cont_logo p {
+        margin-right: 0;
+    }
+    .contact .cont_us {
+        margin-left: 0;
+        width: 33.3%;
+        display: inline-block;
+    }
+    .footer_left {
+        display: inline-block;
+        float: left;
+    }
+    /*Footer End    */
+    .banner img.res_img {
+        display: block;
+    }
+    .banner img.ban_img {
+        display: none;
+    }
+    .header .container-fluid>.navbar-collapse,
+    .header .container-fluid>.navbar-header,
+    .header .container>.navbar-collapse,
+    .header .container>.navbar-header {
+        width: initial;
+    }
+    .banner_section h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .banner_section p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .banner_button li a {
+        font-size: 14px;
+        padding: 10px 17px;
+    }
+    .banner_button li {
+        margin-top: 10px;
+    }
+    .banner_section {
+        padding: 79px 59px 57px;
+    }
+    .ser_sec {
+        padding: 40px 0px 40px;
+    }
+    .servives_bx h4 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .impressed_sec {
+        padding: 40px 0px 40px;
+    }
+    .imp_sec {
+        padding-right: 90px;
+    }
+    .imp_sec h2 {
+        font-size: 25px;
+        margin: 20px 0px;
+    }
+    .customer_slider {
+        padding: 40px 0;
+    }
+    .customer_slider h2 {
+        font-size: 25px;
+    }
+    .value_logorow h2 {
+        font-size: 25px;
+        margin: 25px 0px 0px;
+    }
+    .log_row {
+        display: inline-block;
+        margin-top: 30px;
+    }
+    .logo_div {
+        width: 49%;
+    }
+    .logo_div:nth-child(5) {
+        width: 100%;
+    }
+    .logo_div img {
+        margin: 0 auto;
+    }
+    /* about start */
+    .phil_img img.philo_im1 {
+        left: 54px;
+    }
+    .phil_img img.philo_im2 {
+        margin-right: 58px;
+        margin-top: 76px;
+    }
+    .about_sec {
+        padding: 80px 0px;
+    }
+    .about_sec h1 {
+        font-size: 40px;
+    }
+    .it_sec {
+        padding: 40px 0px;
+    }
+    .team {
+        padding: 40px 0px;
+    }
+    .row_photo .res_col {
+        width: 50%;
+        float: left;
+        margin-bottom: 15px;
+    }
+    .content_l {
+        margin-left: 0;
+    }
+    .eng_img {
+        margin-top: 15px;
+    }
+    .eng_img img {
+        margin: 0 auto;
+    }
+    /* about end */
+    /*    Contact*/
+    .soun_sec .col-sm-6:first-child .loc_box {
+        margin-bottom: 20px;
+    }
+    .form_sec form {
+        padding: 0 0px;
+    }
+    .form_sec .org_div {
+        margin-top: 50px;
+    }
+    .form_sec .orgg_sec {
+        float: unset;
+        margin: 0 auto;
+        width: 340px;
+    }
+    .form_sec {
+        padding: 50px 0;
+    }
+    .form_left h2 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    .form_main .form-control {
+        height: 40px;
+    }
+    .form_main label {
+        font-size: 14px;
+    }
+    .form_main textarea.msg_lb {
+        height: 120px;
+    }
+    .contact_sec {
+        padding: 0px 0;
+    }
+    /*    Contact End*/
+    /*Servicedesk*/
+    .servBanner {
+        padding: 100px 0;
+    }
+    .servBanner h1 {
+        font-size: 50px;
+    }
+    .servDesk {
+        padding: 50px 0;
+    }
+    .servDesk .deskInner h2 {
+        padding-top: 20px;
+        font-size: 25px;
+    }
+    .servDesk .deskInner p {
+        padding: 14px 0;
+        line-height: 23px;
+    }
+    .servDesk .deskInner ul li {
+        font-size: 16px;
+    }
+    .servDesk .deskInner ul li:before {
+        top: 8px;
+    }
+    /* .subscribe {
+        padding: 50px 0;
+    }
+    .subscribe h2 {
+        font-size: 25px;
+        padding: 25px 0 20px;
+    }
+    .subscribe form {
+        width: 425px;
+    }
+    .subscribe form input.form-control {
+        width: 312px;
+    }
+    .subscribe form input.form-control {
+        font-size: 15px;
+    }
+    .subscribe form input::placeholder {
+        font-size: 15px;
+    }
+    .subscribe form button {
+        font-size: 15px;
+    } */
+    /*Servicedesk End*/
+    /*Rollouts*/
+    .servBanner.rollout {
+        padding: 100px 0;
+    }
+    .servBanner.rollout h1 {
+        font-size: 50px;
+    }
+    .servDesk.servRoll {
+        padding: 50px 0;
+    }
+    .servDesk.servRoll .deskInner h2 {
+        padding-top: 20px;
+        font-size: 25px;
+    }
+    .servDesk.servRoll .deskInner ul li:before {
+        top: 8px;
+    }
+    /*Rollouts End*/
+    /*Coverage*/
+    .servBanner.coverage {
+        padding: 100px 0;
+    }
+    .servBanner.coverage h1 {
+        font-size: 50px;
+    }
+    .servDesk.coverg {
+        padding: 50px 0;
+    }
+    .servDesk.coverg .deskInner h2 {
+        padding-top: 20px;
+        font-size: 25px;
+    }
+    .servDesk.coverg p {
+        padding: 14px 0 0;
+    }
+    /*Coverage End*/
+    /* testiomonail start */
+    .cont_sec p {
+        padding-left: 40px;
+    }
+    .tph_sec {
+        top: -35px;
+    }
+    .cust_sec {
+        margin-top: 41px;
+    }
+    /* testimonial end */
+}
+
+@media(max-width:560px) {
+    .customer_slider .slider {
+        padding-left: 50px;
+    }
+    .subscribe {
+        padding: 45px 0;
+    }
+    .subscribe h2 {
+        font-size: 22px;
+        padding: 20px 0;
+    }
+    .subscribe h2:before {
+        height: 4px;
+        width: 75px;
+    }
+    .subscribe form {
+        width: 370px;
+    }
+    .subscribe form input.form-control {
+        width: 261px;
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    .subscribe form input::placeholder {
+        font-size: 14px;
+    }
+    .subscribe form button {
+        font-size: 14px;
+        padding: 11px 15px;
+    }
+    /*Footer*/
+    .contact {
+        padding: 25px 0;
+    }
+    .contact .cont_lines,
+    .contact .cont_policy {
+        width: 50%;
+    }
+    .contact .cont_us {
+        width: 100%;
+    }
+    .contact h2 {
+        margin: 22px 0 15px;
+    }
+    .contact .cont_us img {
+        margin-top: 2px;
+        padding: 0;
+    }
+    .contact .cont_logo p {
+        font-size: 15px;
+    }
+    .footer .footer_left {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .footer .footer_right {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-top: 5px;
+    }
+    .contact .cont_us ul li a span br {
+        display: none;
+    }
+    /*Footer End*/
+    .myslider .slick-prev {
+        left: 7px;
+    }
+    .myslider .slick-next {
+        right: 7px;
+    }
+    .myslider .slick-slide img {
+        height: 260px;
+    }
+    .banner_section {
+        padding: 23px 59px 11px;
+    }
+    .banner_section p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .banner_section h1 {
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+    .serv_bx h2 {
+        margin: 20px 0px;
+        font-size: 25px;
+    }
+    .servives_bx h4 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .servives_bx img {
+        margin: 0 auto 15px;
+    }
+    .servives_bx p {
+        font-family: 'CircularStdBook';
+        font-size: 14px;
+    }
+    .servives_bx {
+        min-height: 150px;
+    }
+    .imp_sec {
+        padding-right: 0;
+    }
+    .customer_slider .slider_inner {
+        padding: 15px 15px;
+    }
+    /* about start */
+    .it_section h2 {
+        font-size: 25px;
+        margin: 15px 0px;
+    }
+    .it_sec {
+        padding: 30px 0px;
+    }
+    .team_sec h2 {
+        font-size: 25px;
+        margin: 15px 0px;
+    }
+    .team {
+        padding: 30px 0px;
+    }
+    .philo_sec {
+        padding: 30px 0px;
+    }
+    .philo_sec h2 {
+        font-size: 25px;
+        margin: 15px 0px;
+    }
+    .phil_img img.philo_im2 {
+        display: none;
+    }
+    .phil_img img.philo_im1 {
+        position: relative;
+        left: 0;
+        width: 100%;
+    }
+    .content_l {
+        margin-top: 30px;
+    }
+    .content_l h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .engg_sec {
+        padding: 0px 0px 30px;
+    }
+    .content_eng h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    /* about end */
+    /*    Contact*/
+    .form_sec {
+        padding: 45px 0;
+    }
+    .form_left h2 {
+        font-size: 22px;
+    }
+    .form_sec form {
+        padding: 0 0px;
+    }
+    .form_main .form-control {
+        height: 36px;
+    }
+    .form_main textarea.msg_lb {
+        height: 110px;
+    }
+    .form_sec form button {
+        padding: 8px 34px;
+        font-size: 15px;
+    }
+    .form_sec .org_div {
+        margin-top: 40px;
+    }
+    .orgg_sec {
+        padding: 0px 26px;
+    }
+    .form_main .form-group {
+        margin-bottom: 12px;
+    }
+    .loc_box img {
+        width: 70%;
+        margin-right: 15px;
+    }
+    .loc_contect h3 {
+        font-size: 17px;
+    }
+    .loc_contect p {
+        font-size: 14px;
+    }
+    .loc_contect a {
+        font-size: 14px;
+    }
+    .form_left h2 {
+        margin-bottom: 20px;
+    }
+    .contact_sec {
+        padding: 0px 0;
+    }
+    /*Contact End*/
+    /*Servicedesk*/
+    .servBanner {
+        padding: 90px 0;
+    }
+    .servBanner h1 {
+        font-size: 40px;
+    }
+    .servDesk {
+        padding: 45px 0;
+    }
+    .servDesk .deskInner h2 {
+        font-size: 22px;
+    }
+    .servDesk .deskInner h2:before {
+        height: 4px;
+        width: 75px;
+    }
+    .servDesk .deskInner p {
+        padding: 10px 0;
+        font-size: 15px;
+        line-height: 22px;
+    }
+    /* .subscribe {
+        padding: 45px 0;
+    }
+    .subscribe h2 {
+        font-size: 22px;
+        padding: 20px 0;
+    }
+    .subscribe h2:before {
+        height: 4px;
+        width: 75px;
+    }
+    .subscribe form {
+        width: 370px;
+    }
+    .subscribe form input.form-control {
+        width: 261px;
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    .subscribe form input::placeholder {
+        font-size: 14px;
+    }
+    .subscribe form button {
+        font-size: 14px;
+        padding: 11px 15px;
+    }
+    .servDesk .deskInner ul li {
+        font-size: 14px;
+    } */
+    .servDesk .deskInner ul li:before {
+        width: 4px;
+        height: 4px;
+        top: 7px;
+    }
+    /*Servicedesk End*/
+    /*Rollouts*/
+    .servBanner.rollout {
+        padding: 90px 0;
+    }
+    .servBanner.rollout h1 {
+        font-size: 40px;
+    }
+    .servDesk.servRoll {
+        padding: 45px 0;
+    }
+    .servDesk.servRoll .deskInner h2 {
+        font-size: 22px;
+    }
+    .servDesk.servRoll .deskInner h2:before {
+        height: 4px;
+        width: 75px;
+    }
+    .servDesk.servRoll .deskInner p {
+        padding: 10px 0;
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .servDesk.servRoll .deskInner ul li {
+        font-size: 14px;
+        margin-bottom: 7px;
+    }
+    .servDesk.servRoll .deskInner ul li:before {
+        width: 4px;
+        height: 4px;
+        top: 7px;
+    }
+    .servDesk.servRoll h3 {
+        font-size: 16px;
+        padding: 13px 0 12px;
+    }
+    .servDesk.servRoll span {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    /*Rollouts End*/
+    /*Coverage*/
+    .servBanner.coverage {
+        padding: 90px 0;
+    }
+    .servDesk.coverg {
+        padding: 45px 0;
+    }
+    .servBanner.coverage h1 {
+        font-size: 40px;
+    }
+    .servDesk.coverg .deskInner h2 {
+        font-size: 22px;
+    }
+    .servDesk.coverg .deskInner h2:before {
+        height: 4px;
+        width: 75px;
+    }
+    .servDesk.coverg .deskInner p {
+        font-size: 15px;
+        line-height: 22px;
+        padding: 10px 0 0;
+    }
+    /*Coverage End*/
+    /* testimonial start */
+    .cust_sec {
+        position: relative;
+        padding-left: 0;
+    }
+    .tph_sec {
+        position: initial;
+        width: 100%;
+    }
+    .cust_sec {
+        margin-top: 10px;
+    }
+    .cont_sec {
+        margin-top: 15px;
+    }
+    .cont_sec p {
+        padding-left: 0;
+    }
+    .main_cus {
+        margin: 12px 0px;
+    }
+    .cust_sec p {
+        margin-bottom: 0px;
+    }
+    .cont_sec {
+        padding: 15px 15px;
+    }
+    /* testimonial end */
+}
+
+@media(max-width:414px) {
+    .header .navbar-brand img {
+        margin-top: 15px;
+    }
+    .subscribe {
+        padding: 40px 0;
+    }
+    .subscribe form {
+        width: 290px;
+    }
+    .subscribe form input.form-control {
+        width: 207px;
+    }
+    .subscribe form input.form-control {
+        font-size: 12px;
+        padding: 8px 15px;
+    }
+    .subscribe form input::placeholder {
+        font-size: 12px;
+    }
+    .subscribe form button {
+        font-size: 12px;
+        padding: 9px 10px;
+    }
+    .subscribe h2 {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+    .subscribe h2:before {
+        height: 3px;
+        width: 55px;
+    }
+    /*Footer*/
+    .contact {
+        padding: 20px 0;
+    }
+    .contact .cont_logo p {
+        font-size: 14px;
+    }
+    .footer .footer_inner {
+        padding: 20px 0 30px;
+    }
+    .footer .footer_right p {
+        margin-right: 5px;
+    }
+    /*Footer End*/
+    .banner_button li a {
+        font-size: 12px;
+        padding: 8px 11px;
+    }
+    .banner_section {
+        padding: 33px 30px 11px;
+    }
+    .imp_sec h2 {
+        font-size: 22px;
+        margin: 17px 0px;
+    }
+    .imp_sec p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .customer_slider {
+        padding: 30px 0;
+    }
+    .customer_slider .slider {
+        padding-left: 40px;
+        margin: 30px 0;
+    }
+    /* about start */
+    .about_sec h1 {
+        font-size: 35px;
+        margin-bottom: 0;
+    }
+    .about_sec {
+        padding: 65px 0px;
+    }
+    .orange_line {
+        height: 3px;
+        width: 80px;
+    }
+    .it_sec {
+        padding: 25px 0px;
+    }
+    .philo_sec {
+        padding: 25px 0px;
+    }
+    .philo_row .col-sm-4 {
+        padding: 0;
+    }
+    .philo_row .col-sm-8 {
+        padding: 0;
+    }
+    .engginer_sec .col-sm-7 {
+        padding: 0;
+    }
+    /* about end */
+    /*    Contact*/
+    .form_sec .orgg_sec {
+        width: 263px;
+    }
+    .loc_contect h3 {
+        font-size: 15px;
+    }
+    .loc_contect p {
+        font-size: 13px;
+    }
+    .loc_contect a {
+        font-size: 13px;
+    }
+    .loc_box img {
+        width: 70%;
+        margin-right: 10px;
+    }
+    .loc_box {
+        padding: 12px;
+    }
+    .form_sec {
+        padding: 40px 0;
+    }
+    .form_left h2 {
+        font-size: 20px;
+    }
+    .form_main label {
+        font-size: 13px;
+    }
+    .form_main .form-control {
+        height: 33px;
+    }
+    .form_main textarea.msg_lb {
+        height: 90px;
+    }
+    .form_sec form button {
+        padding: 6px 25px;
+        font-size: 14px;
+    }
+    .form_sec form {
+        padding: 0;
+    }
+    .call_sec img {
+        width: 13%;
+    }
+    .call_sec h4 {
+        font-size: 15px;
+    }
+    .call_sec p {
+        font-size: 14px;
+    }
+    .call_sec a {
+        margin-bottom: 10px;
+    }
+    .call_sec {
+        padding: 20px 0px;
+    }
+    .form_left h2 {
+        padding-left: 15px;
+        margin-bottom: 15px;
+    }
+    .contact_sec {
+        padding: 0px 0;
+    }
+    .frm_section .col-sm-7 {
+        padding: 0;
+    }
+    /*    Contact End*/
+    /*Servicedesk*/
+    .servBanner {
+        padding: 70px 0;
+    }
+    .servDesk {
+        padding: 40px 0;
+    }
+    .servBanner h1 {
+        font-size: 35px;
+    }
+    .servDesk .deskInner h2 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+    .servDesk .deskInner h2:before {
+        height: 3px;
+        width: 55px;
+    }
+    .servDesk .deskInner p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .servDesk .deskInner ul li {
+        font-size: 13px;
+        margin-bottom: 8px;
+        line-height: 17px;
+    }
+    /* .subscribe {
+        padding: 40px 0;
+    }
+    .subscribe form {
+        width: 290px;
+    }
+    .subscribe form input.form-control {
+        width: 207px;
+    }
+    .subscribe form input.form-control {
+        font-size: 12px;
+        padding: 8px 15px;
+    }
+    .subscribe form input::placeholder {
+        font-size: 12px;
+    }
+    .subscribe form button {
+        font-size: 12px;
+        padding: 9px 10px;
+    }
+    .subscribe h2 {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+    .subscribe h2:before {
+        height: 3px;
+        width: 55px;
+    } */
+    /*Servicedesk End*/
+    /*Rollouts*/
+    .servBanner.rollout {
+        padding: 70px 0;
+    }
+    .servBanner.rollout h1 {
+        font-size: 35px;
+    }
+    .servDesk.servRoll {
+        padding: 40px 0;
+    }
+    .servDesk.servRoll .deskInner h2 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+    .servDesk.servRoll .deskInner h2:before {
+        height: 3px;
+        width: 55px;
+    }
+    .servDesk.servRoll .deskInner ul li {
+        font-size: 13px;
+    }
+    .servDesk.servRoll h3 {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+    .servDesk.servRoll span {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    /*Rollouts End*/
+    /*Coverage*/
+    .servBanner.coverage {
+        padding: 70px 0;
+    }
+    .servBanner.coverage h1 {
+        font-size: 35px;
+    }
+    .servDesk.coverg {
+        padding: 40px 0;
+    }
+    .servDesk.coverg .deskInner h2 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+    .servDesk.coverg .deskInner h2:before {
+        height: 3px;
+        width: 55px;
+    }
+    .servDesk.coverg .deskInner p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    /*Coverage End*/
+    /* testimonial start */
+    .cont_sec p {
+        line-height: 20px;
+        font-size: 14px;
+    }
+    /* testimonial end */
+}
+
+@media(max-width:320px) {}

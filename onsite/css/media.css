@@ -1,0 +1,1436 @@
+@media(max-width:1300px){
+    /* index start */
+    .bussiness p {
+        padding: 0px 294px;
+    }
+    @media(max-width:1331px){
+        .rser1 {
+            left: 4%;
+            top: 30%;
+        }
+        .rser3 {
+            top: 30%;
+            right: 4%;
+        }
+        .rser4 {
+            top: 63%;
+            right: 5%;
+        }
+        .rser5 {
+            top: 63%;
+            left: 5%;
+        }
+    }
+    /* .rser2 {
+        left: 37%;
+    }
+    .rser1 {
+        left: 4%;
+    }
+    .rser3 {
+        right: 4%;
+    }
+    .rser5 {
+        left: 4%;
+    }
+    .rser4 {
+        right: 4%;
+    } */
+    .webb {
+        min-height: 283px;
+    }
+    /* index end */
+
+    /* about start */
+    /* about end */
+}
+@media (max-width:1274px){
+    .set {
+        width: 300px;
+    }
+}
+@media(max-width:1199px){
+    /* index start */
+    .banner_section p span {
+        margin-bottom: 17px;
+    }
+    .banner_section h1 {
+        font-size: 75px;
+        margin-bottom: 10px;
+    }
+    .banner_section p {
+        font-size: 18px;
+    }
+    .banner_section {
+        padding: 57px 85px 44px;
+    }
+    .install {
+        padding: 35px 10px;
+        min-height: 169px;
+    }
+    .install h3 {
+        margin-bottom: 4px;
+    }
+    .install p {
+        font-size: 14px;
+    }
+    .services_section {
+        padding: 60px 0px;
+    }
+    .services_section h2 {
+        padding: 12px 0px 22px;
+        font-size: 50px;
+    }
+    .bussiness h2 {
+        font-size: 50px;
+        padding: 12px 0px 20px;
+    }
+    .white_line {
+        margin-bottom: 15px;
+    }
+    .bussiness p {
+        padding: 0px 160px;
+    }
+    .cirlcle_imgwrp {
+        padding: 65px 0;
+    }
+    .cirlcle_imgwrp img.imgcircle{
+width: 74%;
+    }
+    .rser1 {
+        left: 0%;
+        top: 30%;
+    }
+    .rser3{
+        right: 0%;
+        top: 30%;
+    }
+    .rser2 {
+        top: 3%;
+        left: 32%;
+    }
+    .rser5 {
+        top: 65%;
+        left: 3%;
+    }
+    .rser4 {
+        top: 65%;
+        right: 3%;
+    }
+    .rser p {
+        font-size: 15px;
+    }
+    .rser img {
+        margin-bottom: 6px;
+    }
+    .rser h3 {
+        margin-bottom: 6px;
+    }
+    .c1 {
+        padding: 20px 10px;
+        min-height: 206px;
+    }
+    .c1 h3 {
+        margin-bottom: 6px;
+        font-size: 17px;
+    }
+    .computer2 {
+        margin-top: 40px;
+    }
+    .main_buss {
+        padding: 60px 0px;
+    }
+    .tech1 h2 {
+        padding: 12px 0px 20px;
+        font-size: 50px;
+        /* text-align: center; */
+    }
+    .tech1 p {
+        font-size: 15px;
+        margin-top: 5px;
+        margin-bottom: 17px;
+    }
+    .tech_sec {
+        padding: 60px 0px;
+    }
+    .lastest h2 {
+        padding: 12px 0px 20px;
+        font-size: 50px;
+    }
+    .lastest {
+        padding: 60px 0px 83px;
+    }
+    .services_section h2 {
+        padding: 11px 0px 20px;
+        font-size: 40px;
+    }
+    .lastest h3 {
+        font-size: 60px;
+    }
+    .webb h3 {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+    .webb p {
+        font-size: 15px;
+    }
+    .webb {
+        min-height: 250px;
+        padding: 35px 32px
+    }
+    .cloud_inner h2 {
+        font-size: 60px;
+        line-height: 73px;
+    }
+    .gree_sidenav li a {
+        padding: 22px 9px;
+    }
+    /* index end */
+    /* about start */
+    .banner_section h1 {
+        font-size: 70px;
+        margin-bottom: 10px;
+    }
+    .pbottom p{
+        margin-bottom: 10px;
+    }
+    .whoareBox {
+        padding: 60px 0;
+    }
+    .whoare_tp h2 {
+        padding: 14px 0px 20px;
+        font-size: 50px;
+    }
+    .whoareBox_Inr p {
+        font-size: 15px;
+        margin-bottom: 12px;
+        line-height: 20px;
+    }
+    .accor_box {
+        padding-left: 0px;
+        padding: 0px 20px;
+    }
+    .set {
+        width: 258px;
+        margin: 0 8px 15px;
+    }
+    .set > a {
+        padding: 10px 10px;
+        font-size: 18px;
+        min-height: 75px;
+    }
+    .support {
+        padding: 60px 0;
+    }
+    .support_inner h2 {
+        padding: 15px 0px 20px;
+        font-size: 50px;
+    }
+    .serTop h3 {
+        font-size: 18px;
+    }
+    .serBtm p {
+        margin: 7px 0 7px;
+    }
+    .contct_btn {
+        font-size: 12px;
+        padding: 9px 8px 8px;
+        width: 108px;
+    }
+    .sencebx {
+        padding: 60px 0;
+    }
+    .sence_inner h2 {
+        padding: 14px 0px 20px;
+        font-size: 50px;
+    }
+    .secnlft p {
+        font-size: 15px;
+        margin-bottom: 15px;
+        line-height: 20px;
+    }
+    .precBox {
+        padding: 11px 15px;
+        width: 142px;
+        margin-right: 7px;
+    }
+    .temaBx_inner h2 {
+        padding: 16px 0px 20px;
+        font-size: 50px;
+    }
+    .temaBx_inner p {
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+    .temaBx_inner p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .midTmBx h4 {
+        font-size: 18px;
+    }
+    .btmTmBx a {
+        margin-right: 5px;
+    }
+    /* about end */
+    /* web start */
+    .banner_section1 {
+        padding: 25px 85px 44px;
+    }
+    .mainh h2{
+        font-size: 50px;
+        padding: 15px 0px 20px;
+    }
+    .mobile {
+        padding: 60px 0px 60px 30px;
+    }
+    .mobile_rht img {
+        margin-top: -87px;
+    }
+    .mobile_lft h5 {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .webapp {
+        padding: 57px 0px 60px 30px;
+    }
+    /* web end */
+    /* it start */
+    .backup_head1 h2{
+            padding: 15px 0px 10px;
+            font-size: 50px;
+        }
+        .green_line {
+            margin-bottom: 0px;
+        }
+        .backup_head p {
+            font-size: 15px;
+            padding-right: 50px;
+        }
+        .backup {
+            padding: 60px 0px 60px;
+        }
+        .green_tech h2 {
+            font-size: 50px;
+            padding: 60px 0px;
+        }
+        .SUPPORT {
+            padding: 70px 0px;
+        }
+        .SUPPORT p {
+            font-size: 15px;
+        }
+        .circle_ring {
+            padding: 60px 0px;
+        }
+        .grey h2 {
+            padding: 15px 232px 29px;
+            font-size: 20px;
+        }
+        .grey_bg {
+            min-height: 321px;
+        }
+        .grey {
+            padding: 60px 0px;
+        }
+   
+    /* iy end */
+    /* contact start */
+    .faq p{
+margin-bottom: 20px;
+    }
+    .faq {
+        padding: 60px 0px;
+    }
+    .contact {
+        padding: 60px 30px;
+    /* contact end */
+}
+@media(max-width:991px) and (min-width:768px){
+/* about start */
+.install {
+    padding: 15px 10px;
+    min-height: 197px;
+}
+.banner_section h1 {
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+.banner_section {
+    padding: 41px 85px 44px;
+}
+/* .banner_section p {
+    font-size: 16px;
+} */
+.banner_button li a {
+    font-size: 12px;
+    padding: 10px 12px;
+}
+.bussiness p {
+    padding: 0px 60px;
+}
+.cirlcle_imgwrp img.imgcircle {
+    width: 66%;
+}
+.rser img {
+    width: 60px;
+}
+.rser p {
+    font-size: 12px;
+    padding: 0px 35px;
+}
+.rser1 {
+    left: -5%;
+}
+.rser3 {
+    right: -2%;
+}
+.rser4 {
+    right: -2%;
+}
+.rser5 {
+    left: -4%;
+}
+.rser2 {
+    top: 3%;
+    left: 27%;
+}
+.pcom {
+    padding: 0px 6px;
+}
+.c1 {
+    padding: 10px 10px;
+    min-height: 138px;
+    margin-top: 20px
+}
+.lastest {
+    padding: 50px 0px 60px;
+}
+.computer2 {
+    margin-top: 15px;
+}
+.whoareBox {
+    padding: 50px 0;
+}
+.whoare_tp {
+    padding: 0 65px;
+}
+.whoare_tp h2 {
+    padding: 10px 0px 15px;
+    font-size: 40px;
+}
+.set > a {
+    padding: 10px 10px;
+    font-size: 13px;
+    min-height: 60px;
+}
+.set {
+    width: 196px;
+    margin: 0 8px 0px;
+}
+.accor_box {
+    padding: 0px 0px;
+}
+.support_inner h2 {
+    padding: 10px 0px 15px;
+    font-size: 40px;
+}
+.serTop h3 {
+    font-size: 15px;
+}
+.services_bx {
+    padding: 10px 10px;
+}
+.support_inner p {
+    font-size: 14px;
+    line-height: 19px;
+}
+.contct_btn {
+    font-size: 11px;
+    padding: 8px 8px 8px;
+    width: 102px;
+}
+.support {
+    padding: 50px 0;
+}
+.sencebx {
+    padding: 50px 0;
+}
+.sence_inner h2 {
+    padding: 14px 0px 15px;
+    font-size: 40px;
+}
+.precBox h3 {
+    color: #022c66;
+    font-size: 31px;
+}
+.precBox {
+    padding: 5px 5px;
+    width: 98px;
+    margin-right: 7px;
+}
+.teamBx {
+    background: #f1faf2;
+    padding: 50px 0px;
+}
+.temaBx_inner h2 {
+    padding: 12px 0px 15px;
+    font-size: 40px;
+}
+.ourTmBx {
+    min-height: 312px;
+}
+.midTmBx {
+    padding: 20px 10px 0px;
+}
+.cloud_inner h2 {
+    font-size: 46px;
+    line-height: 53px;
+}
+.btn_box .getBtn {
+    padding: 10px 16px 10px;
+}
+.cloud {
+    padding: 50px 0;
+}
+.footer {
+    background: #fff;
+    padding: 50px 0 50px;
+}
+.f_comMenu ul li a {
+    font-size: 12px;
+    padding: 0 9px;
+}
+.footer_btm {
+    padding: 30px 0 0px;
+}
+.btmTmBx a {
+    width: 25px;
+    height: 25px;
+}
+.footer_btm .btmTmBx a {
+    padding-top: 4px;
+}
+.btmTmBx a {
+    margin-right: -1px;
+    margin-top: 7px;
+}
+.f_comMenu ul li a {
+    padding: 0 3px;
+}
+.btmTmBx1 a{
+    margin-right: 5px;
+}
+/* about end */
+/* web start */
+.mainh h2 {
+    font-size: 40px;
+    padding: 15px 0px 20px;
+}
+.webbanner p {
+    margin-bottom: 4px;
+}
+.banner_sectionweb {
+    padding: 24px 85px 44px;
+}
+.banner_sectionweb h1 {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+.banner_section {
+    padding: 24px 45px 44px;
+}
+.mainsec {
+    padding:50px 0px 50px 45px;
+}
+.mobile_top p {
+    font-size: 15px;
+    line-height: 20px;
+}
+/* web end */
+/* it start */
+.grey h2 {
+    padding: 15px 128px 29px;
+    font-size: 18px;
+}
+.progress--circle:before {
+    width: 166px;
+    height: 166px;
+    top: 6px;
+    left: 8px;
+}
+
+.progress--circle {
+    width: 180px;
+    height: 180px!important;
+}
+.banner_section p {
+    font-size: 16px!important;
+}
+.performance_content {
+    padding: 10px;
+}
+.performance_content h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.perf_para p {
+    font-family: 'CircularStdBook';
+    font-size: 14px;
+}
+.perf_btn a {
+    font-size: 13px;
+    padding: 10px 12px;
+    margin-top: 10px;
+}
+.services_section {
+    padding: 50px 0px;
+}
+.main_buss {
+    padding: 50px 0px;
+}
+.backup {
+    padding:  50px 0px;
+}
+.backup_head p {
+    font-size: 14px;
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+.green_tech h2 {
+    font-size: 45px;
+    padding: 50px 0px;
+}
+.tech_sec {
+    padding: 50px 0px;
+}
+.backup_head1 h2 {
+    padding: 15px 0px 10px;
+    font-size: 40px;
+}
+.perform_sec img {
+    /* width: 30%; */
+    margin-right: 5px;
+}
+.tech1 p {
+    font-size: 14px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+.SUPPORT {
+    padding: 50px 0px;
+}
+.circle_ring {
+    padding: 50px 0px;
+}
+.grey {
+    padding: 50px 0px;
+}
+.img_section {
+    padding: 0 150px;
+}
+/* it end */
+/* contact strt */
+.contact {
+    padding: 50px 30px;
+}
+.contact_lft h3 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.contact_rht {
+    padding-left: 0px;
+}
+.accor_box {
+    padding: 7px 0px;
+}
+.faq {
+    padding: 50px 0px;
+}
+.perwidth{
+    width: 100%;
+}
+.buttoncl{
+    margin-left: 15px;
+}
+.lastest h3 {
+    font-size: 40px;
+}
+.c1width{
+    width: 50%;
+}
+.web {
+    padding: 50px 0px;
+}
+.webb {
+    min-height: 287px;
+    padding: 14px 10px;
+}
+.webb h3 {
+    font-size: 15px;
+    margin-bottom: 9px;
+}
+/* contact end */
+}
+@media(max-width:767px){ 
+    .imgcircle{
+        display: none;
+    } 
+    .imgcircle1{
+        display: block;
+    }
+    .header .reshamb{
+        display: block;
+    }
+
+    .deshambr {
+        display: none;
+    }
+    /* about start */
+    .borderdgreen{
+        margin-bottom: 0px!important;
+    }
+    .main_buss {
+        padding: 45px 0px;
+    }
+    .rser img {
+        width: 70px;
+    }
+    .banner_section {
+        padding: 15px 20px 14px;
+    }
+    .banner_section h1 {
+        font-size: 40px;
+        margin-bottom: 0px;
+    }
+    .rser {
+        /* width: 276px; */
+        position: initial;
+        width: 100%;
+        margin-top: 20px
+    }
+    .cirlcle_imgwrp {
+        padding: 0px 0;
+    }
+    .rser2 {
+        top: 5%;
+        left: 28%;
+    }
+    .rser3 {
+        right: -2%;
+        top: 38%;
+    }
+    .rser4 {
+        top: 73%;
+        right: -3%;
+    }
+    .rser1 {
+        left: -2%;
+        top: 38%;
+    }
+    .rser5 {
+        top: 71%;
+        left: 0%;
+    }
+    .computer_section{
+        margin-top: 20px;
+    }
+    .rser h3 {
+        font-family: 'CircularStdMedium';
+        font-size: 18px;
+    }
+    .rser p {
+        font-size: 12px;
+    }
+    .support_row {
+        margin-top: 0px;
+    }
+    .support_row:last-child {
+        margin-bottom: 0px;
+    }
+    .bussiness p {
+        padding: 0px 0px;
+    }
+   .c1width{
+       width: 50%;
+       float: left;
+   }
+   .cirlcle_imgwrp img.imgcircle {
+    width: 105%;
+}
+   .c1 {
+    padding: 20px 10px;
+    min-height: 220px;
+    margin-top: 20px;
+}
+.computer2 {
+    margin-top: 8px;
+}
+.pcom {
+    padding: 0px 8px;
+}
+.ipad_img img {
+    float: initial;
+    margin: 0 auto;
+    width: 42%;
+}
+.lastest h2 {
+    padding: 12px 0px 11px;
+    font-size: 35px;
+}
+.lastest {
+    padding: 45px 0px ;
+}
+.webb {
+    min-height: initial;
+    padding: 22px 32px;
+    margin-bottom: 10px;
+}
+.web {
+    padding: 45px 0px;
+}
+.lastest h3 {
+    font-size: 26px;
+}
+    .install {
+        padding: 25px 10px;
+        min-height: initial;
+        margin-bottom: 20px;
+    }
+    .banner_button li a {
+        color: #fff;
+        font-size: 10px;
+        padding: 8px 8px;
+    }
+    .green_line {
+        width: 70px;
+    }
+    .banner_section p {
+        font-size: 14px;
+    }
+    .whoareBox {
+        padding: 45px 0;
+    }
+    .whoare_tp {
+        padding: 0 50px;
+    }
+    .whoare_tp h2 {
+        padding: 6px 0px 6px;
+        font-size: 35px;
+    }
+    .whoareBox_Inr p {
+        font-size: 15px;
+        margin-bottom: 6px;
+        line-height: 20px;
+    }
+    .accor_box {
+
+        padding: 10px 78px;
+    }
+    .set > a {
+        padding: 10px 10px;
+        font-size: 18px;
+        min-height: 50px;
+    }
+    .support_inner h2 {
+        padding: 15px 0px 15px;
+        font-size: 35px;
+    }
+    .support_inner p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 25px;
+    }
+    .services_bx {
+        margin-bottom: 15px;
+        padding: 10px 15px;
+    }
+    .support {
+        padding: 50px 0;
+    }
+    .sence_inner h2 {
+        padding: 14px 0px 15px;
+        font-size: 35px;
+    }
+    .sencebx {
+        padding: 50px 0;
+    }
+    .secnlft p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .precBox {
+        padding: 11px 15px 0px;
+        width: 114px;
+    }
+    .precBox h3 {
+        font-size: 35px;
+    }
+    .secnrht {
+        margin-top: 20px;
+    }
+    .temaBx_inner h2 {
+        padding: 15px 0px 15px;
+        font-size: 35px;
+    }
+    .teamBx {
+        background: #f1faf2;
+        padding: 50px 0px;
+    }
+    .ourTmBx {
+        margin-bottom: 20px
+    }
+    .midTmBx {
+        padding: 20px 10px 0px;
+    }
+    .cloud_inner h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .btn_box .getBtn {
+        float: right;
+        padding: 10px 20px 10px;
+    }
+    .btn_box {
+        display: block;
+        padding-top: 0px;
+    }
+    .cloud {
+        padding: 50px 0;
+    }
+    .f_comMenu ul {
+        list-style: none;
+        float: right;
+        margin-top: 10px;
+    }
+    .footer_top {
+        padding: 0 0px 25px;
+    }
+    .f_comMenu ul li a {
+        font-size: 12px;
+    }
+    .footer_btm {
+        padding: 20px 0 0px;
+    }
+    .footer {
+        padding: 40px 0 30px;
+    }
+    /* about end */
+    /* web start */
+    .mainh h2 {
+        font-size: 35px;
+        padding: 10px 0px 15px;
+    }
+    .mainsec {
+        padding:30px 0px;
+    }
+    .mobile_lft h5 {
+        font-size: 16px;
+        padding-top: 5px;
+    }
+    .mobile_rht img {
+        margin-top: -43px;
+    }
+    .web_rht img {
+        margin-top: -6px;
+    }
+ .mobile_top {
+     padding: 0px 20px;
+ }
+ .mobile_lft{
+    padding: 0px 20px;
+ }
+    .slider_hg img{
+        height: 220px;
+    }
+    .webbanner p {
+        margin-bottom: 9px;
+    }
+    /* web end */
+    /* IT strat */
+    .services_section h2{
+        padding: 6px 0px 6px;
+        font-size: 35px;
+    }
+    .mgtop {
+        margin-top: 0px;
+    }
+    .performance_content {
+        margin-bottom: 20px;
+    }
+    .performance_content:nth-child(5){
+        margin-bottom: 0px;
+    }
+    .services_section {
+        padding: 45px 0px;
+    }
+    .backup {
+        padding: 45px 0px;
+    }
+    .backup_head1 h2 {
+        padding: 6px 0px ;
+        font-size: 35px;
+    }
+    .green_tech h2 {
+        font-size: 35px;
+        padding: 50px 0px;
+    }
+    .tech_sec {
+        padding: 45px 0px;
+    }
+    .perform_sec {
+        margin-bottom: 25px;
+    }
+    .SUPPORT {
+        padding: 45px 0px;
+    }
+    .SUPPORT p {
+        padding: 10px 5px;
+    }
+    .circle_ring {
+        padding: 45px 0px;
+    }
+    .grey h2 {
+        padding: 15px 15px 29px;
+        font-size: 16px;
+    }
+    .img_section {
+        padding: 0 131px;
+    }
+    .grey {
+        padding: 45px 0px;
+    }
+    /* it end */
+    .banner .contactbanner  {
+        padding: 33px 20px 26px!important;
+    
+    }
+    .contact {
+        padding: 45px 30px;
+    }
+    .contact_lft {
+        padding: 30px 30px;
+    }
+    .contact_rht h3 {
+        margin-top: 20px;
+    }
+    .contact_rht {
+        padding-left:0px;
+    }
+    .faq {
+        padding: 45px 0px;
+    }
+    .faq p {
+        margin-bottom: 11px;
+        padding: 0 15px;
+        font-size: 14px;
+    }
+
+}
+@media(max-width:560px){
+    .c1width{
+        width: 100%;
+    }
+    .c1 {
+        padding: 20px 10px;
+        min-height: initial;
+        margin-top: 20px;
+    }
+    .accor_box {
+        padding: 10px 8px;
+    }
+    .main_buss {
+        padding: 35px 0px;
+    }
+   .myslidermain .banner {
+    height: 177px;
+   }
+    .slick-initialized .slick-slide {
+        height: 180px;
+    }
+    .ipad_img img {
+        margin-top: 20px;
+    }
+    .perform_sec {
+        margin-bottom: 0px;
+    }
+    .webb {
+        padding: 12px 6px;
+    }
+    .web {
+        padding: 30px 0px;
+    }
+    .lastest h3 {
+        /* font-size: 60px; */
+        padding: 10px 6px;
+    }
+    .slick-slide img {
+        height: 100%;
+    }
+
+    .banner_section {
+        padding: 15px 10px 14px;
+    }
+
+    .banner_section h1 {
+        font-size: 30px;
+    }
+    .whoare_tp h2 {
+        padding: 6px 0px 6px;
+        font-size: 30px;
+    }
+    .whoareBox {
+        padding: 30px 0;
+    }
+    .whoare_tp {
+        padding: 0 0px;
+    }
+    .support_inner h2 {
+        padding: 10px 0px 10px;
+        font-size: 30px;
+    }
+    .btmservs {
+        padding: 0 0;
+    }
+    .support {
+        padding: 30px 0;
+    }
+    .sence_inner h2 {
+        padding: 10px 0px 10px;
+        font-size: 30px;
+    }
+    .sence_inner {
+        padding: 0 0px;
+    }
+    .precBox {
+        padding: 5px 1px 0px;
+        width: 85px;
+    }
+    .precBox {
+        padding: 5px 1px 0px;
+        width: 85px;
+    }
+    .senc_btn2 p{
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .temaBx_inner h2 {
+        padding: 10px 0px 10px;
+        font-size: 30px;
+    }
+    .teamBx {
+        background: #f1faf2;
+        padding: 30px 0px;
+    }
+    .temaBx_inner {
+        padding: 0 0px;
+    }
+    .cloud_inner {
+        padding: 2px 0;
+    }
+    .cloud_inner h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .footer_btm .btmTmBx a {
+        padding-top: 4px;
+    }
+    .btmTmBx a {
+        margin-top: 7px;
+    }
+    .btmTmBx a {
+        width: 25px;
+        height: 25px;
+    }
+    .footer {
+        padding: 30px 0 30px;
+    }
+    .set {
+        width: 100%;
+    }
+    /* web start */
+    /* .slider_hgweb {
+        height: 220px;
+    } */
+    /* web end */
+
+    .myslider1 .banner {
+        height: 195px;
+    }
+    /* it start */
+    .mysliderit  .banner  {
+        height: 177px!important;
+    }
+    .services_section h2 {
+        padding: 6px 0px 6px;
+        font-size: 30px;
+    }
+    .performance_content {
+        padding: 10px
+    }
+    .perf_btn a {
+        font-size: 12px;
+        padding: 9px 9px;
+        margin-top: 8px;
+    }
+    .services_section {
+        padding: 35px 0px;
+    }
+    .backup {
+        padding: 35px 0px;
+    }
+    .backup_head1 h2 {
+        padding: 6px 0px;
+        font-size: 28px;
+    }
+    .green_tech h2 {
+        font-size: 30px;
+        padding: 45px 0px;
+    }
+    .SUPPORT {
+        padding: 35px 0px;
+    }
+    .circle_ring {
+        padding: 35px 0px;
+    }
+    .grey {
+        padding: 35px 0px;
+    }
+    .img_section {
+        padding: 0 49px;
+    }
+    /* it enfd */
+    .contact {
+        padding: 35px 20px;
+    }
+    .contact_lft {
+        padding: 20px 20px;
+    }
+    .detail_conact a {
+        font-size: 16px;
+    }
+    .faq {
+        padding: 35px 0px;
+    }
+    .set {
+        margin: 0 0px 15px;
+    }
+    .set:last-child {
+        margin: 0 0px 0px;
+    }
+}
+@media(max-width:414px){
+    .install {
+        padding: 12px 10px;
+    }
+    .bussiness p {
+        font-size: 14px;
+    }
+    .gree_sidenav li a {
+        font-size: 11px;
+    }
+    .green_width {
+        width: 75px;
+    }
+    .ipad_img img {
+        width: 100%;
+    }
+    .lastest h2 {
+        padding: 12px 0px 11px;
+        font-size: 25px;
+    }
+    .lastest h3 {
+        font-size: 20px;
+    }
+    .web {
+        padding: 15px 0px;
+    }
+    .c1 {
+        padding: 13px 8px;
+    }
+    .right_sec {
+        padding-left: 75px;
+    }
+    .gree_sidenav li a {
+        padding: 8px 9px;
+    }
+    .hamburger-box {
+        padding: 8px 9px;
+    }
+    .banner_section p {
+        font-size: 12px;
+    }
+    .banner_section h1 {
+        font-size: 22px;
+    }
+    .whoareBox_Inr p {
+        font-size: 14px;
+    }
+
+    .whoareBox {
+        padding: 15px 0;
+    }
+    .whoare_tp h2 {
+        font-size: 25px;
+    }
+    .set > a {
+        font-size: 14px;
+    }
+
+    .set {
+        width: 100%;
+        margin: 6px 0px;
+    }
+    .support_inner h2 {
+        padding: 10px 0px 10px;
+        font-size: 25px;
+    }
+    .support {
+        padding: 15px 0;
+    }
+    .serTop h3 {
+        font-size: 15px;
+        margin-left: 7px;
+    }
+    .contct_btn {
+        font-size: 10px;
+        padding: 9px 8px 8px;
+        width: 90px;
+    }
+    .sence_inner h2 {
+        padding: 6px 0px 6px;
+        font-size: 25px;
+    }
+    .sencebx {
+        padding: 15px 0;
+    }
+    .precBox h3 {
+        font-size: 20px;
+    }
+    .temaBx_inner h2 {
+        padding: 6px 0px 6px;
+        font-size: 25px;
+    }
+    .teamBx {
+        padding: 15px 0px;
+    }
+    .cloud_inner h2 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .cloud {
+        padding: 15px 0;
+    }
+    .btn_box .getBtn {
+        float: right;
+        padding: 6px 10px 6px;
+        font-size: 12px;
+    }
+    /* web start */
+    .green_line {
+        margin-bottom: 5px;
+    }
+    .mainh h2 {
+        font-size: 25px;
+        padding: 6px 0px 6px;
+    }
+    .myslider1 .banner {
+        height: 160px;
+    }
+    .mainsec {
+        padding: 15px 0px;
+    }
+    .mobile_top {
+        padding: 0px 10px;
+    }
+    .mobile_lft {
+        padding: 0px 10px;
+    }
+    .mobile_rht img {
+        margin-top: -17px;
+    }
+    /* wen end */
+    /* it start */
+    .services_section h2 {
+        padding: 6px 0px 6px;
+        font-size: 25px;
+    }
+    .services_section {
+        padding: 15px 0px;
+    }
+    .performance_content h3 {
+        font-size: 16px;
+        margin-bottom: 1px;
+    }
+    .perf_para p {
+        font-size: 14px;
+    }
+    .backup {
+        padding: 15px 0px;
+    }
+    .backup_head p {
+        font-size: 15px;
+        padding-right: 0px;
+    }
+    .green_tech h2 {
+        font-size: 23px;
+        padding: 45px 0px;
+    }
+    .tech_sec {
+        padding: 15px 0px;
+    }
+    .progress--circle:before {
+        width: 170px;
+        height: 170px;
+    }
+    .progress--circle {
+        width: 190px;
+        height: 190px;
+    }
+    .grey {
+        padding: 15px 0px;
+    }
+    .circle_ring {
+        padding: 15px 0px;
+    }
+    .grey h2 {
+        padding: 11px 0px 11px;
+        font-size: 14px;
+    }
+    /* it end */
+    .contact {
+        padding: 15px 10px;
+    }
+    .contact_lft {
+        padding: 10px 10px;
+    }
+    .contact_lft h3 {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    .contact_lft button {
+        width: 120px;
+        font-size: 12px;
+        padding: 11px 0px;
+        margin: 10px 0px;
+    }
+    .detail_conact a {
+        font-size: 14px;
+    }
+    .contact_rht h3 {
+        font-size: 25px;
+    }
+    .con_detail {
+        padding: 10px 0px;
+    }
+    .faq {
+        padding: 15px 0px;
+    }
+    .backup_head1 h2 {
+        padding: 6px 0px;
+        font-size: 25px;
+    }
+}
+@media(max-width:320px){
+
+}
