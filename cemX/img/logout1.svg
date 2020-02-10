@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.407" height="11.407" viewBox="0 0 11.407 11.407">
+    <defs>
+        <style>
+            .cls-1{fill:#841f27;stroke:#fff;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="ic_exit_to_app_24px" transform="translate(.25 .25)">
+        <path id="Path_2183" d="M7.3 10.629l.854.854 3.03-3.03L8.15 5.424l-.85.854 1.559 1.569H3v1.212h5.859zM12.695 3H4.212A1.212 1.212 0 0 0 3 4.212v2.424h1.212V4.212h8.483v8.483H4.212v-2.424H3v2.424a1.212 1.212 0 0 0 1.212 1.212h8.483a1.215 1.215 0 0 0 1.212-1.212V4.212A1.215 1.215 0 0 0 12.695 3z" class="cls-1" data-name="Path 2183" transform="translate(-3 -3)"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="21" viewBox="0 0 23 21">
+    <defs>
+        <style>
+            .cls-1{stroke:#707070}.cls-2{clip-path:url(#clip-path)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_74" d="M0 0h23v21H0z" class="cls-1" data-name="Rectangle 74" transform="translate(570.257 305.234)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_9" class="cls-2" data-name="Mask Group 9" transform="translate(-570.257 -305.234)">
+        <g id="rupee-indian" transform="translate(574.802 304.788)">
+            <path id="Path_105" d="M17.309 4.846a.473.473 0 0 0-.349-.137h-2.6a5.258 5.258 0 0 0-.972-2.188h3.54a.467.467 0 0 0 .486-.486V.486A.467.467 0 0 0 16.929 0H4.289A.468.468 0 0 0 3.8.486v2.02a.493.493 0 0 0 .486.486h2.2q3.205 0 4.071 1.717H4.289A.468.468 0 0 0 3.8 5.2v1.55a.468.468 0 0 0 .486.486h6.487a2.969 2.969 0 0 1-1.557 1.9 6.856 6.856 0 0 1-3.228.653h-1.7a.493.493 0 0 0-.486.486V12.2a.454.454 0 0 0 .137.334q2.917 3.1 7.565 8.675a.448.448 0 0 0 .38.182h2.962a.441.441 0 0 0 .441-.274.415.415 0 0 0-.061-.517q-4.435-5.439-6.973-8.143a7.7 7.7 0 0 0 4.193-1.671 5.68 5.68 0 0 0 1.96-3.555h2.554a.468.468 0 0 0 .486-.486V5.2a.473.473 0 0 0-.137-.354z" data-name="Path 105" transform="translate(-3.803)"/>
+        </g>
+    </g>
+</svg>

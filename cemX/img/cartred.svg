@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.584" height="14.597" viewBox="0 0 16.584 14.597">
+    <defs>
+        <style>
+            .cls-1{fill:#841f27;stroke:#fff;stroke-width:.2px}
+        </style>
+    </defs>
+    <g id="shopping-cart" transform="translate(.1 .1)">
+        <path id="Path_86" d="M5.278 9.6h8.7a.48.48 0 0 0 .461-.348l1.92-6.719a.48.48 0 0 0-.459-.613H4.171L3.828.376A.48.48 0 0 0 3.359 0H.48a.48.48 0 0 0 0 .96h2.494l1.733 7.8a1.44 1.44 0 0 0 .572 2.761h8.7a.48.48 0 1 0 0-.96h-8.7a.48.48 0 0 1 0-.96zm9.987-6.72L13.62 8.639H5.664L4.384 2.88zm0 0" class="cls-1" data-name="Path 86"/>
+        <path id="Path_87" d="M150 361.44a1.44 1.44 0 1 0 1.44-1.44 1.441 1.441 0 0 0-1.44 1.44zm1.44-.48a.48.48 0 1 1-.48.48.481.481 0 0 1 .48-.48zm0 0" class="cls-1" data-name="Path 87" transform="translate(-145.201 -348.482)"/>
+        <path id="Path_88" d="M362 361.44a1.44 1.44 0 1 0 1.44-1.44 1.441 1.441 0 0 0-1.44 1.44zm1.44-.48a.48.48 0 1 1-.48.48.481.481 0 0 1 .48-.48zm0 0" class="cls-1" data-name="Path 88" transform="translate(-350.418 -348.482)"/>
+    </g>
+</svg>

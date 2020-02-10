@@ -1,0 +1,2325 @@
+@media(max-width:1450px) {}
+
+@media(max-width:1199px) {
+    .searchhd{
+        position:initial;
+        max-width: 100%;
+    opacity: 1;
+    }
+    .pro_tabs a {
+        padding: 20px 38px;
+    }
+    .header .accountDrop {
+        top: 48px;
+        left: 2px;
+    }
+
+    .yello_circle {
+        width: 25px;
+        height: 25px;
+        top: 12px;
+        font-size: 14px;
+    }
+
+    .searchsh {
+        display: none;
+    }
+
+    .searchhd {
+        display: block;
+        width: 100%;
+        padding: 0px 15px;
+    }
+
+    /*press media start for 1199*/
+    .press_left {
+        width: 100%;
+    }
+
+    .press_img {
+        width: 100%;
+    }
+
+    .press_right {
+        margin-right: 25px;
+    }
+
+    /*press media end for 1199*/
+    .about_sec {
+        padding-right: 81px;
+    }
+
+    .main {
+        margin-top: 133.86px;
+    }
+
+    .nav_head li {
+        margin: 0px 2px;
+    }
+
+    .header .navbar-brand {
+        padding-left: 0;
+        margin-right: 0;
+    }
+
+    .header .form-control {
+        padding: 8px 0px;
+    }
+
+    .header .cart_bx a {
+        padding: 33px 18px;
+    }
+
+    .header .nav_head li a {
+        font-size: 15px;
+        padding: 6px 19px;
+    }
+
+    .banner_section h2 {
+        font-size: 35px;
+    }
+
+    p {
+        font-family: 'ProximaNovaRegular';
+        font-size: 17px;
+    }
+
+    .explore {
+        padding-right: 27px;
+    }
+
+    .slider .slick-prev {
+        bottom: 104px;
+    }
+
+    .slider .slick-next {
+        bottom: 104px;
+        left: 231px;
+    }
+
+    .banner_sec h4 {
+        bottom: 118px;
+    }
+
+    .banner_sec h5 {
+        bottom: 118px;
+        left: 209px;
+    }
+
+    .explore {
+        bottom: 111px;
+    }
+
+    .slider__counter {
+        bottom: 104px;
+        left: 144px;
+    }
+
+    .bx11 h2 {
+        font-size: 20px;
+    }
+
+    .bx11 a.addtocart {
+        padding: 7px 16px;
+    }
+
+    .card-body {
+        padding: 15px 15px;
+    }
+
+    .search_box {
+        padding: 0px 15px;
+        position: absolute;
+      bottom: -38px;
+        left: 164px;
+        /* border: 1px solid #841f27; */
+        width: 73%;
+    }
+
+    .header {
+        padding: 0px 0px 38px;
+    }
+
+    /* / product detail page start / */
+    .pro_de {
+        width: 100%;
+    }
+
+    .pro_mid,
+    .pro_last {
+        width: 50%;
+    }
+
+    .pro_fist ul {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    .pro_img {
+        height: 300px;
+    }
+
+    /* / product detail page ends / */
+    /* footer/ locatio/thankyou start */
+    .utra_img img {
+        margin-right: -20px;
+    }
+
+    .utra_right h2 {
+        font-size: 27px;
+    }
+
+    .ambuja img {
+        width: 32%;
+    }
+
+    .ambuja {
+        padding: 75px 60px;
+    }
+
+    .service {
+        padding-left: 25px;
+    }
+
+    .quick {
+        padding-left: 75px;
+    }
+
+    .pop {
+        padding-left: 21px;
+    }
+
+    .utra_right {
+        padding: 80px 70px 85px;
+    }
+
+    /*    thankyou media start*/
+    .thank_inner {
+        width: 850px;
+    }
+
+    .oder_detail h3 {
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    /*    thankyou media end*/
+    /* footer/ locatio/thankyou end */
+    /*    career media start for 1199*/
+    .career {
+        padding: 124px 0px;
+    }
+
+    .career_content p br {
+        display: none;
+    }
+
+    .career_content p {
+        font-size: 19px;
+    }
+
+    /*    career media end*/
+    .contactInner {
+        padding: 80px 120px;
+    }
+
+    /*    payment_method media start for 1199*/
+    .payment_method {
+        width: 71%;
+    }
+
+    .amount {
+        margin-left: 40px;
+    }
+
+    /*    payment_method media end*/
+
+
+    /*    placeorder media start for 1199*/
+
+    .Shipping {
+        padding: 15px 0px 25px 20px;
+    }
+
+    .apply .butn {
+        padding: 10px 40px;
+    }
+
+    .new_address {
+        width: 195px;
+        margin-top: 15px;
+    }
+
+    /*        placeorder media end*/
+}
+
+@media(max-width:991px) {
+    .location_le h4 {
+    font-size: 19px;
+    }
+    .location_le {
+    padding: 20px 15px;
+}
+.location_map h4 {
+    font-size: 20px;
+}
+    .john_arrow{
+        display: block;
+    }
+    .lastbottom {
+        margin-bottom: 26px;
+    }
+    .header .loc_link a {
+        width: 132px;
+    }
+
+    /*press media start for 991*/
+    .press_r_img {
+        width: 100%;
+    }
+
+    .press_right {
+        width: 320px;
+    }
+
+    .press_right {
+        margin-bottom: 25px;
+    }
+
+    /*press media end for 991*/
+    .about_sec {
+        padding-right: 113px;
+    }
+
+    .header .nav_head li a {
+        padding: 6px 7px;
+    }
+
+    .search_box {
+        width: 60%;
+    }
+
+    .banner_section h2 {
+        font-size: 28px;
+    }
+
+    .banner_section p {
+        padding: 0px 39px;
+    }
+
+    .explore {
+        bottom: 66px;
+    }
+
+    .slider .slick-prev {
+        bottom: 59px;
+        left: 45px;
+    }
+
+    .slider .slick-next {
+        bottom: 59px;
+        left: 169px;
+    }
+
+    .slider__counter {
+        font-size: 30px;
+        bottom: 55px;
+        left: 97px;
+    }
+
+    .banner_sec h4 {
+        bottom: 70px;
+        left: 66px;
+    }
+
+    .banner_sec h5 {
+        bottom: 70px;
+        left: 141px;
+    }
+
+    .brd_img1 {
+        height: 100px;
+    }
+
+    .brd_img4 {
+        width: 163px;
+        height: 200px;
+    }
+
+    .discover_tab .col-lg-3 {
+        max-width: 50% !important;
+        float: left;
+        margin-bottom: 15px;
+    }
+
+    .discover ul li {
+        padding-right: 77px;
+    }
+
+    /* / product detail page / */
+    .pro_tabs a {
+        padding: 20px 30px;
+    }
+
+    .reviews_inner,
+    .return_p,
+    .tabs_detail {
+        padding: 25px 40px;
+    }
+
+    .similar_pro {
+        margin-bottom: 70px;
+    }
+
+    .review_content {
+        width: 80%;
+    }
+
+    /* / product detail page ends / */
+    /* footer/ locatio/thankyou start */
+    .utra_img img {
+        width: 75%;
+        margin-right: -25px;
+    }
+
+    .ultr_form .form-group label {
+        padding-top: 14px;
+    }
+
+
+    .location {
+        padding: 50px 0px 75px;
+    }
+
+    .line {
+        display: none;
+    }
+
+
+
+    .utra_right {
+        padding: 80px 70px 85px;
+    }
+
+    .utra_right {
+        padding: 50px 50px;
+    }
+
+    .utra_right h2 {
+        font-size: 21px;
+    }
+
+
+
+    .contact {
+        padding: 40px 0px;
+    }
+
+    .contact_left p {
+        font-size: 32px;
+    }
+
+    .contact_middle p {
+        font-size: 22px;
+    }
+
+    .contact_right p {
+        font-size: 22px;
+    }
+
+    .contact_middle h3 {
+        margin-right: 75px;
+    }
+
+    .contact_right h3 {
+
+        margin-right: 138px;
+    }
+
+    .india_cm p br {
+        display: none;
+    }
+
+    .india_cm {
+        padding-left: 0px;
+        padding-right: 40px;
+
+    }
+
+    .quick {
+        padding-left: 41px;
+    }
+
+    .pop {
+        padding-left: 0px;
+    }
+
+    .footer {
+        padding: 35px 0px 60px;
+    }
+
+    .service {
+        padding-left: 15px;
+    }
+
+    .Popular ul li a {
+        font-size: 15px;
+    }
+
+    .Popular ul li:first-child {
+        font-size: 17px;
+    }
+
+    /*    location media start*/
+    .location {
+        padding: 50px 0px 75px;
+    }
+
+    /*    location media end*/
+
+    /*    thankyou media start*/
+    .thank_inner {
+        width: 700px;
+    }
+
+    .order p {
+        font-size: 23px;
+        line-height: 30px;
+        padding: 5px 0px;
+    }
+
+    .order h6 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .oder_detail h3 {
+        font-size: 21px;
+        line-height: 27px;
+    }
+
+    .oder_detail p {
+        font-size: 21px;
+        line-height: 27px;
+    }
+
+    .oder_detail h4 {
+        font-size: 26px;
+        line-height: 30px;
+        padding-top: 15px;
+    }
+
+    /* .payment {
+        padding: 25px 0px;
+    } */
+
+    .select_pop .modal-dialog {
+        max-width: 700px;
+    }
+
+    .city_select ul {
+        padding-right: 118px;
+    }
+
+    /*    thankyou media end*/
+    /* myorder page start */
+    .profile_lft {
+        width: 100%;
+    }
+
+    .profile_rht {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .profile_page {
+        padding: 50px 0px 70px;
+    }
+
+    .logout {
+        margin-top: 90px;
+    }
+
+    .myorder:last-child {
+        margin-bottom: 80px;
+    }
+
+    .credit p {
+        font-size: 40px;
+    }
+
+    .cart_lft {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .profile_tabs {
+        display: none;
+    }
+
+    /* myorder page ends */
+    /*    career media start for 991*/
+    .career_content h2 {
+        font-size: 55px;
+        line-height: 65px;
+    }
+
+    .career_content p {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+
+    .resume a {
+        font-size: 18px;
+        line-height: 22px;
+        padding: 18px 48px;
+    }
+
+    .career {
+        padding: 115px 0px;
+    }
+
+    /*    career media end*/
+
+    /* product listing start */
+    .res_slidedown {
+        display: none;
+    }
+
+    .pro_list {
+        margin-bottom: 15px;
+    }
+
+    .filter_img {
+        display: inline-block;
+    }
+
+    .sort_list ul li {
+        padding-right: 46px;
+    }
+
+    /* product listing end */
+    .contactInner {
+        padding: 80px 80px;
+    }
+
+    .contactInner .contactDetail p {
+        font-size: 25px;
+    }
+
+    /*    payment_method media start for 991*/
+    .payment_method {
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 25px;
+    }
+
+    .radioTypes {
+        padding-top: 15px;
+        margin-bottom: 0;
+    }
+
+    .payment_method h2 {
+        margin-bottom: 12px;
+    }
+
+    .money {
+        padding-bottom: 25px;
+    }
+
+    /*    payment_method media end*/
+
+    /*        placeorder media start for 991*/
+    .Shipping h4 {
+        padding-top: 5px;
+    }
+
+
+    .tech h2 {
+        padding-bottom: 0px;
+    }
+
+    .shipp {
+        padding: 20px 20px;
+    }
+
+    .pay_method {
+        padding: 20px 40px;
+    }
+
+    .term {
+        padding: 20px 20px;
+    }
+
+    .gift h2 {
+        margin-bottom: 0px;
+    }
+
+    .new_address {
+        padding-bottom: 5px;
+    }
+
+    .new_address h3 {
+        padding-bottom: 5px;
+    }
+
+    /*        placeorder media end*/
+}
+
+
+@media(max-width:767px) {
+    .press_img {
+    height: 260px;
+}
+    .press_inner h2 {
+    font-size: 40px;
+    margin-top: 15px;
+}
+    .location_left h2 {
+    font-size: 15px;
+    }
+    .location_left a::before {
+    left: 15px;
+}
+    .location_left {
+    padding: 8px 15px;
+    }
+    .forpadding {
+        padding: 20px 20px ;
+    }
+    .pro_mid {
+        padding: 20px 20px;
+    }
+    .d_block{
+        display: block!important;
+    }
+    .oder_detail h4 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .order h6 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+    .press_right {
+        width: 100%;
+    }
+
+    .head_modal h2 {
+        font-size: 25px;
+    }
+
+    .select_pop .modal-dialog {
+        max-width: 100%;
+        margin: 35px 35px;
+    }
+
+    .lastbottom {
+        margin-bottom: 30px;
+    }
+
+    .about {
+        padding: 0px 0px;
+    }
+
+    .main {
+        margin-top: 95.86px;
+    }
+
+    .header .hamburger {
+        display: block;
+    }
+
+    .cart_bx {
+        display: flex;
+    }
+
+    .nave_hide {
+        display: none;
+    }
+
+    .search_box {
+        position: initial;
+        width: 100%;
+    }
+
+    .nav_sh {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .header {
+        padding: 0px 0px;
+    }
+
+    .brd_img {
+        width: 50%;
+        float: left;
+        margin-bottom: 25px;
+    }
+
+    .brnd_sec {
+        display: block !important;
+    }
+
+    .banner_section h2 {
+        line-height: 35px;
+    }
+
+    .banner_section p {
+        padding: 10px 4px;
+    }
+
+    .red_main {
+        padding: 180px 0px;
+    }
+
+    .explore {
+        bottom: 26px;
+        padding-right: 23px;
+    }
+
+    .slider .slick-prev {
+        bottom: 23px;
+        left: 18px;
+    }
+
+    .slider .slick-next {
+        bottom: 23px;
+        left: 137px;
+    }
+
+    .banner_sec h4 {
+        bottom: 38px;
+        left: 42px;
+    }
+
+    .banner_sec h5 {
+        bottom: 38px;
+        left: 113px;
+    }
+
+    .slider__counter {
+        bottom: 24px;
+        left: 68px;
+    }
+
+    .popular_sec {
+        padding: 50px 0px 25px;
+    }
+
+    .pop_bx .col-md-6 {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .brd_img1 {
+        height: 165px;
+    }
+
+    .discover ul li {
+        padding-right: 24px;
+    }
+
+    .bx11 h2 {
+        font-size: 18px;
+    }
+
+    .discover_tab {
+        padding: 25px 0px;
+    }
+
+    .about_sec {
+        padding: 40px 128px 40px 0px;
+    }
+
+    /* / product detail page start / */
+    .pro_mid,
+    .pro_last {
+        width: 100%;
+        padding-bottom: 0px;
+        border: none;
+    }
+
+    .pro_fist ul {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    .pro_img {
+        height: 300px;
+    }
+
+    .pro_mid a {
+        margin: 30px 0px 30px;
+    }
+
+    .pro_tabs a {
+        padding: 30px 15px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    /* / product detail page ends / */
+    /* footer/ locatio/thankyou start */
+
+
+    .contact_inner .col-md-4 {
+        width: 33.3%;
+    }
+
+    .utra_right {
+        padding: 40px 15px;
+    }
+
+    .india_cm img {
+        width: 42%;
+        margin-bottom: 10px;
+    }
+
+    .utra_img img {
+        width: 50%;
+
+    }
+
+    /* 
+    .contact_inner {
+        padding: 10px 0px;
+    } */
+
+    .line {
+        width: 64%;
+    }
+
+    .hand_img {
+        padding-top: 70px;
+    }
+
+    .utra_img {
+        left: unsetx;
+    }
+
+    .line {
+        display: block;
+    }
+
+    .utra_img {
+        top: 14%;
+
+    }
+
+    .ambuja {
+        padding: 140px 60px 40px;
+    }
+
+    .ultr_btn {
+        text-align: unset;
+        float: right;
+    }
+
+    .contact_right {
+        margin: 8px 0px;
+    }
+
+    .contact {
+        /* padding: 5px 0px; */
+        margin-left: 0px;
+    }
+
+    .contact_left p {
+        font-size: 26px;
+        margin-left: 12px;
+    }
+
+    .contact_middle p {
+        font-size: 18px;
+        line-height: 24px;
+        margin-right: 12px;
+    }
+
+    .contact_right p {
+        font-size: 18px;
+        line-height: 20px;
+        margin-right: -29px;
+        display: inline-block;
+    }
+
+    .contact_middle h3 {
+        margin-right: 64px;
+
+    }
+
+    .contact_right h3 {
+        margin-right: 77px;
+        line-height: 12px;
+    }
+
+    .footer .col-md-2 {
+        width: 50%;
+        padding: 0px 15px;
+    }
+
+    .footer .col-md-3 {
+        width: 50%;
+        padding: 0px 15px;
+    }
+
+    .footer .col-md-4 {
+        width: 50%;
+        padding: 0px 15px;
+    }
+
+    .pop {
+        padding-left: 50px;
+    }
+
+    .india_cm {
+        padding-right: 0px;
+    }
+
+    .service {
+        padding-left: 50px;
+    }
+
+    .quick {
+        padding-left: 0px;
+    }
+
+    .india_cm p {
+        font-size: 17px;
+    }
+
+    .Popular ul li a {
+        font-size: 16px;
+    }
+
+    .Popular ul li:first-child {
+        font-size: 18px;
+    }
+
+    .location_le {
+        min-width: 160px;
+        max-height: 60px;
+
+    }
+
+    .location_left {
+        min-width: 160px;
+        max-height: 60px;
+    }
+
+    .location_scro {
+        overflow-x: overlay;
+        display: flex;
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+    }
+
+    .map iframe {
+        width: 100%;
+        min-height: 300px;
+    }
+
+    .location {
+        padding: 25px 0px 50px;
+    }
+
+    /*    location media start*/
+    .location {
+        padding: 25px 0px 50px;
+    }
+
+    .location_scro {
+        overflow-x: overlay;
+        display: flex;
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+    }
+
+    .location_le {
+        min-width: 160px;
+        max-height: 60px;
+    }
+
+    .location_left {
+        min-width: 160px;
+        max-height: 60px;
+    }
+
+    .map iframe {
+        width: 100%;
+        min-height: 300px;
+    }
+
+    /*    location media end*/
+
+    /*    thankyou media start*/
+    .order {
+        float: unset;
+    }
+    .border_bottom {
+        padding: 15px 15px;
+    }
+    .shipping {
+        padding: 15px 15px;
+    }
+    .thank_inner {
+        width: 500px;
+    }
+
+    .oder_detail h3 {
+        font-size: 22px;
+    }
+
+    .oder_detail p {
+        font-size: 20px;
+    }
+
+    ..thankyou {
+        padding: 25px 0px;
+        ;
+    }
+
+    /*    thankyou media end*/
+    /* footer/ locatio/thankyou end */
+    /* myorder page start */
+    .order_amount p {
+        text-align: left;
+    }
+
+    .order_amount {
+        margin-top: 20px;
+    }
+
+    .order_status.d-flex {
+        display: block !important;
+    }
+
+    .order_status h6 {
+        padding: 0px 0px;
+    }
+
+    .order_status ul {
+        margin: 10px 0px;
+    }
+
+    .order_amount p span {
+        float: right;
+        text-align: right;
+    }
+
+    .gender {
+        width: 40%;
+    }
+
+    .credit {
+        margin: 30px auto 0px;
+        float: inherit;
+    }
+
+    .order_amount2 .qunatity {
+        justify-content: space-between !important;
+    }
+
+    /* myorder page ends */
+    /*    career media start for 767*/
+    .career {
+        padding: 78px 0px;
+        background-size: 42% 100%;
+    }
+
+    .career_content p {
+        font-size: 16px;
+    }
+
+    .career_content h2 {
+        font-size: 45px;
+    }
+
+    .resume a {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 16px 45px;
+        float: left;
+    }
+
+    
+
+    /*    career media end*/
+    .pdt_sec .col-sm-4 {
+        width: 50%;
+        float: left;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .pdt_boder {
+        border: solid 1px #ced4da;
+    }
+
+    .sort_list ul li {
+        padding-right: 16px;
+    }
+
+    .contactInner {
+        padding: 60px 20px;
+    }
+
+    .contactInner .contactDetail p {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+
+    /*    payment_method media start for 767*/
+    .pay_detail .form-control {
+        display: block;
+    }
+
+    .pay_detail .btnn {
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+
+    .money .col-md-2 {
+        width: 165px;
+    }
+
+    .money .col-md-10 {
+        width: 300px;
+    }
+
+    .amount {
+        width: 300px;
+        margin-left: 0px;
+    }
+
+    /*    payment_method media end*/
+
+    /*        placeorder media start for 767*/
+    .Shipping .col-md-4 {
+        width: 100%;
+    }
+
+    .Shipping {
+        padding: 15px 20px 25px 20px;
+    }
+
+    .gift .col-md-9 {
+        width: 68%;
+    }
+
+    .gift .col-md-3 {
+        width: 25%;
+    }
+
+    .gift .col-md-2 {
+        width: 20%;
+
+    }
+
+    .gift .col-md-6 {
+        width: 45%;
+
+    }
+
+    .gift .col-md-4 {
+        width: 25%;
+    }
+
+  .new_address {
+    width: 90%;
+    padding-bottom: 10px;
+    margin-left: 22px;
+}
+
+    /*        placeorder media end*/
+
+}
+
+@media(max-width:560px) {
+    .header .form-control {
+    padding: 8px 8px 8px 0px;
+}
+    .press_left {
+    margin-bottom: 25px;
+    }
+    .press_content p {
+    font-size: 20px;
+    line-height: 28px;
+    }
+    .press_img {
+    height: initial;
+}
+    .price h3 {
+        font-size: 30px;
+    }
+    .price h3 strike {
+        font-size: 22px;
+        padding: 0px 10px;
+    }
+    .cart_btn {
+        padding: 20px 20px;
+    }
+    .cart_btn11 {
+    padding: 20px 0px;
+}
+    .myorder:last-child {
+        margin-bottom: 35px;
+    }
+    .yello_circle {
+        width: 20px;
+        height: 20px;
+        top: 5px;
+        font-size: 12px;
+        right: 2px;
+    }
+
+    /*press media start 560*/
+    .press_right {
+        width: 100%;
+    }
+
+    .press_r_img {
+        width: 100%;
+    }
+
+    /*press media end 560*/
+
+    .career {
+        padding: 30px 0px;
+    }
+
+    .explore {
+        bottom: 34px;
+    }
+
+    .city_select ul {
+        padding-right: 51px;
+    }
+
+    .about_sec {
+        padding: 40px 0px;
+    }
+
+    .about {
+        background-image: url('');
+    }
+
+    .navbar-brand img {
+        width: 120px;
+    }
+
+    .header .cart_bx a {
+        padding: 19px 19px;
+    }
+
+    .about img {
+        display: none;
+    }
+
+    .btn {
+        padding: 0;
+        background-color: #fff;
+    }
+
+    .header {
+        padding: 0px 0px;
+    }
+
+    .search_box {
+        padding: 0px 0px;
+        position: absolute;
+        left: 0;
+        bottom: -42px;
+    }
+
+    .main {
+        margin-top: 109px;
+    }
+
+    .concrete_img {
+        margin-top: -318px;
+    }
+
+    .red_main {
+        padding: 106px 0px;
+    }
+
+    a {
+        font-size: 15px;
+    }
+
+    .banner_sec {
+        padding: 60px 0px 40px;
+    }
+
+    .slider .slick-next {
+        bottom: -13px;
+    }
+
+    .slider .slick-prev {
+        bottom: -13px;
+    }
+
+    .slider__counter {
+        bottom: -15px;
+    }
+
+    .bx11 h2 {
+        margin: 8px 0px 8px;
+    }
+
+    /*.bx1 {*/
+    /*    padding: 15px 15px;*/
+    /*}*/
+.bx12 {
+    padding: 15px 15px;
+}
+    .discover ul li a {
+        font-size: 15px;
+    }
+
+    .discover ul li {
+        padding-right: 13px;
+    }
+
+    .discover_tab .col-lg-3 {
+        max-width: 100% !important;
+        float: left;
+        margin-bottom: 15px;
+    }
+
+    .discover_tab {
+        padding: 15px 0px;
+    }
+
+    /* / product_detail page  / */
+    .pro_fist,
+    .pro_mid {
+        padding: 0px 25px;
+    }
+
+    .pro_mid a {
+        margin: 30px 0px 0px;
+    }
+
+    .forscroll {
+        overflow-y: auto;
+    }
+
+    .pro_tabs {
+        overflow-x: scroll;
+        width: 561px;
+    }
+
+    .forscroll::-webkit-scrollbar {
+        display: none;
+    }
+
+    .reviews_inner.d-flex {
+        display: block !important;
+    }
+
+    .review_content {
+        width: 100%;
+        margin: 0px;
+    }
+
+    .por_sec2 {
+        margin-top: 0px;
+    }
+
+    .similar_pro {
+        margin-bottom: 40px;
+    }
+
+    .return_p p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    /* / product_detail ends  / */
+    /* footer/ locatio/thankyou start */
+    .contact_left p {
+        font-size: 24px;
+    }
+
+    .utra_img {
+        top: 20%;
+    }
+
+    .contact_inner .col-md-4 {
+        width: 100%;
+    }
+
+    .contact_right {
+        text-align: unset;
+    }
+
+    .contact_left {
+        text-align: unset;
+    }
+
+    .contact_middle {
+        text-align: unset;
+        margin: 10px 0px;
+    }
+    .contact {
+        padding: 30px 0px;
+    }
+    .btn1 {
+        text-align: center;
+    }
+
+
+
+    .contact_middle p {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .contact_right h3 {
+        margin-right: 57px;
+    }
+
+    .contact_right p {
+        font-size: 18px;
+        line-height: 16px;
+    }
+
+    .contact_right {
+        margin: 15px 0px 8px;
+    }
+
+    .contact_middle h3 {
+        font-size: 18px;
+        margin-right: 49px;
+    }
+
+    .contact_middle p {
+        margin-right: -2px;
+    }
+
+    .contact_left p {
+        margin-left: -5px;
+    }
+
+    .contact_right h3 {
+        font-size: 18px;
+    }
+
+    .Popular ul li a {
+        font-size: 15px;
+    }
+
+    .footer {
+        padding: 25px 0px 45px;
+    }
+
+
+    .utra_right {
+        padding: 50px 15px 70px;
+    }
+
+    .footer .col-md-2 {
+        width: 50%;
+    }
+
+    .footer .col-md-3 {
+        width: 50%;
+    }
+
+    .quick {
+        padding-left: 0px;
+    }
+
+    .service {
+        padding-left: 40px;
+    }
+
+    .pop {
+        padding-left: 40px;
+    }
+
+    .ultr_btn {
+        margin-bottom: 40px;
+    }
+
+    .india_cm {
+        padding-right: 0;
+    }
+
+    .Popular ul li a {
+        font-size: 16px;
+    }
+
+    .Popular ul li {
+        padding-top: 5px;
+    }
+
+    .Popular {
+        padding-top: 15px;
+    }
+
+
+
+    .ambuja {
+        padding: 75px 60px;
+    }
+
+    .location_le h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .location_left h2 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .location_left p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .location_left span {
+        top: 10px;
+        left: 8px;
+        font-size: 20px;
+    }
+
+    .location_map h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+
+    .location_left {
+        min-width: 150px;
+    }
+
+    /*location media start*/
+
+
+
+    .location_scro {
+        margin-bottom: 25px;
+    }
+
+    .location_le {
+        min-width: 160px;
+    }
+
+    .location_le h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .location_left {
+        min-width: 160px;
+    }
+
+    .location_left h2 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .location_left p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .location_map h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    /*location media end*/
+
+    /*    thankyou media start*/
+    .thankyou {
+        background: none;
+        padding: 0px;
+    }
+
+
+    .oder_detail h3 {
+        font-size: 19px;
+    }
+
+    .oder_detail p {
+        font-size: 18px;
+    }
+
+    .oder_detail h4 {
+        padding-top: 0;
+    }
+
+    .order {
+        padding-top: 15px;
+    }
+
+    .order h6 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .order p {
+        font-size: 19px;
+    }
+
+    /*    thankyou media end*/
+
+
+
+    /* footer/ locatio/thankyou end */
+    .india_cm img {
+        width: 80%;
+    }
+
+    /* my order page start */
+    .myorder {
+        width: 100%;
+        margin: 0px;
+        margin-bottom: 20px;
+    }
+
+    .profile_rht form {
+        padding: 0px 0px;
+    }
+
+    .faq {
+        padding: 30px 00px;
+    }
+
+    .manage_address {
+        padding: 0px;
+    }
+
+    .address .address_inner {
+        padding: 15px 10px;
+    }
+
+    .credit {
+        width: 100%;
+    }
+
+    .cart_inner.d-flex {
+        display: block !important;
+    }
+
+    .delivery {
+        margin: 10px 0px;
+        justify-content: space-between;
+    }
+
+    /* my order page ends */
+    /*    career start media for 560*/
+    .career {
+        background: none;
+    }
+
+    .career_content {
+        padding-left: 0px;
+    }
+
+    /*    career end media*/
+    .scrollsort {
+        overflow-x: scroll;
+    }
+
+    .scrollsort ul {
+        display: block;
+        min-width: 571px;
+        margin-bottom: 5px;
+    }
+
+    .pro_var_hd h2 {
+        margin-top: 7px;
+    }
+
+    .pdt_sec .col-sm-4 {
+        width: 100%;
+        float: left;
+    }
+
+    .list_pro {
+        padding: 15px 15px;
+    }
+
+    .contactInner .contactDetail h3 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+
+    .contactInner .contactDetail p {
+        font-size: 18px;
+    }
+
+    .contactInner .contactDetail ul li a {
+        font-size: 15px;
+    }
+
+    .contactInner {
+        padding: 50px 0;
+    }
+
+    .contactInner .contactDetail {
+        margin-bottom: 35px;
+    }
+
+    /*    payment_method media start for 560*/
+    .payment_method h2 {
+        font-size: 20px;
+        line-height: 25px;
+        padding: 15px;
+    }
+
+    .radioTypes label {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .pay_detail .form-group label {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .money .col-md-10 {
+        width: 245px;
+    }
+
+    .amount {
+        width: 165px;
+        margin-left: 0px;
+    }
+
+    .choose_bank .dropdown {
+        width: 275px;
+    }
+
+    .choose_bank .dropdown .select span {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .pay_detail .form-control {
+        width: 275px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /*    payment_method media end*/
+
+    /*        placeorder media start for 560*/
+    .Shipping {
+        padding: 5px 20px 20px 20px;
+    }
+
+
+    .gift h2 {
+        font-size: 17px;
+        line-height: 21px;
+        padding-left: 0px;
+    }
+
+    .apply .butn {
+        padding: 10px 35px;
+    }
+
+    .gift .col-md-9 {
+        width: 60%;
+    }
+
+    .tech {
+        padding-top: 0px;
+    }
+
+    .tech h2 {
+        padding-top: 0px;
+        padding-bottom: 5px;
+    }
+
+    .quantity {
+        margin-top: 0px;
+
+    }
+
+    .shipp {
+        width: 385px;
+    }
+
+    .pay_method h2 {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 0;
+        margin: 0;
+    }
+
+    .term .new .form-group {
+        margin-bottom: 0px;
+    }
+
+    .new_address {
+        padding: 10px;
+    }
+
+    /*        placeorder media end*/
+
+}
+
+@media(max-width:414px) {
+    .press_inner h2 {
+    font-size: 35px;
+    margin-top: 12px;
+}
+    .resume a {
+        padding: 12px 39px;
+    }
+    .resume {
+        padding-top: 19px;
+    }
+    .pro_fist, .pro_mid {
+        padding: 0px 15px;
+    }
+    .forpadding {
+        padding: 20px 15px;
+    }
+    .press_content p {
+       font-size: 18px;
+    line-height: 24px;
+    }
+    .reviews_inner, .return_p, .tabs_detail {
+        padding: 25px 25px;
+    }
+    .por_sec2 h2 span a {
+        font-size: 15px;
+    }
+
+    /*    career media start 414*/
+    .career_content p {
+        font-size: 15px;
+    }
+
+    /*    career media start*/
+
+    .explore img {
+        display: none;
+    }
+
+    .select_pop .modal-dialog {
+        margin: 15px 15px;
+    }
+
+    .top_city {
+        float: left;
+        width: 100%;
+    }
+
+    .banner_section h2 {
+        line-height: 29px;
+        font-size: 23px;
+    }
+
+    .banner_sec {
+        padding: 35px 0px 40px;
+    }
+
+    .concrete_img {
+        margin-top: -284px;
+    }
+
+    .slider__counter {
+        font-size: 25px;
+    }
+
+    .explore {
+        bottom: 41px;
+        padding-right: 9px;
+    }
+
+    .banner_sec h5 {
+        bottom: 47px;
+    }
+
+    .banner_sec h4 {
+        bottom: 47px;
+    }
+
+    .brand_sec {
+        padding: 30px 10px;
+    }
+
+    .bx11 a.addtocart {
+        font-size: 14px;
+    }
+
+    .scrollbox {
+        overflow-x: scroll;
+    }
+
+    .scrollbox ul {
+        display: block;
+        min-width: 445px;
+        margin-bottom: 10px;
+    }
+
+    .discover ul li a {
+        font-size: 17px;
+    }
+
+    /* / product detail page / */
+    .pro_img {
+        height: 220px;
+        width: 100%;
+    }
+
+    .pro_fist li {
+        width: 60px;
+        height: 60px;
+    }
+
+    .pro_mid a {
+        font-size: 16px;
+        padding: 10px 23px;
+    }
+
+    .price h3 {
+        font-size: 35px;
+    }
+
+    .price h3 strike {
+        font-size: 20px;
+        padding: 0px 5px;
+    }
+
+    .price h3 span {
+        font-size: 14px;
+    }
+
+    h2 {
+        font-size: 27px;
+    }
+
+    /* / product detail page ends / */
+    /* footer/ locatio/thankyou start */
+    .utra_right {
+        padding: 55px 15px 45px;
+    }
+
+    .utra_right h2 {
+        font-size: 20px;
+    }
+
+    .ambuja img {
+        width: 46%;
+    }
+
+    .ambuja img {
+        margin-right: 15px;
+    }
+
+    .contact_left p {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .contact_middle h3 {
+        font-size: 16px;
+        margin-right: 40px;
+    }
+
+    .contact_middle p {
+        font-size: 16px;
+        line-height: 15px;
+    }
+
+    .contact_right h3 {
+        font-size: 16px;
+    }
+
+    .contact_right p {
+        font-size: 16px;
+        line-height: 13px;
+    }
+
+    .contact_right h3 {
+        margin-right: 47px;
+    }
+
+    .Popular ul li a {
+        font-size: 16px;
+    }
+
+    .Popular ul li {
+        padding-top: 5px;
+
+    }
+
+    .ambuja {
+        padding: 70px 60px;
+    }
+
+    .utra_img img {
+        width: 70%;
+    }
+
+    .utra_img {
+        top: 17%;
+    }
+
+
+
+    .Popular ul li:first-child {
+        font-size: 16px;
+    }
+
+    /*location media start*/
+    .location {
+        padding: 25px 0px 25px;
+    }
+
+    /*location media end*/
+
+
+    /*thankyou media start*/
+    .oder_detail p {
+        font-size: 17px;
+    }
+
+    .order h6 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+
+    .order p {
+        font-size: 16px;
+        padding: 0px;
+    }
+
+    /*thankyou media start*/
+    .india_cm img {
+        width: 45%;
+    }
+
+    .footer .col-md-4 {
+        width: 100%;
+    }
+
+    .footer .col-md-2 {
+        width: 100%;
+    }
+
+    .footer .col-md-3 {
+        width: 100%;
+    }
+
+    .pop {
+        padding-left: 0;
+    }
+
+    .service {
+        padding-left: 0;
+    }
+
+    /* my order page start */
+    .order_status a.track {
+        margin-left: 0px;
+        /* margin-top: 15px; */
+    }
+
+    .address_inner h6 span {
+        display: block;
+        margin: 5px 0px;
+    }
+
+    .deliver_option {
+        margin-left: 10px;
+    }
+
+    /* my order page ends */
+    .pro_list .unstyled li {
+        margin: 10px 0
+    }
+
+    .breadcrum li {
+        margin: 0px 3px;
+    }
+
+    .list_pro1 {
+        padding: 20px 10px 0px;
+    }
+
+    .pro_var_hd h2 span {
+        padding-left: 0;
+        display: block;
+    }
+
+    .price h3 {
+        font-size: 20px;
+    }
+
+    .price h3 strike {
+        font-size: 16px;
+    }
+
+    .compPolicy h3 {
+        font-size: 22px;
+    }
+
+    .compPolicy ul li {
+        font-size: 16px;
+    }
+
+    .compPolicy .returnBox {
+        padding: 10px 0;
+    }
+
+    .compPolicy {
+        padding: 24px 0;
+    }
+
+    .contactInner form textarea {
+        height: 110px;
+    }
+
+    .contactInner {
+        padding: 40px 0;
+    }
+
+    .contactInner .contactDetail h3 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+
+    .contactInner .contactDetail p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .contactInner .contactDetail {
+        margin-bottom: 30px;
+    }
+
+    .contactInner .contactDetail ul li {
+        padding: 0 15px;
+    }
+
+    /*    payment_method media start for 414*/
+    .payment_method h2 {
+        padding: 10px;
+    }
+
+    .radioTypes {
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+
+    .choose_bank .dropdown {
+        width: 220px;
+        margin-left: 10px;
+    }
+
+    .pay_detail .form-control {
+        width: 220px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .choose_bank .dropdown .select span {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .pay_detail .btnn {
+        padding: 10px 30px;
+
+    }
+
+    .money .col-md-2 {
+        width: 150px;
+    }
+
+    .money .col-md-10 {
+        width: 150px;
+    }
+
+    .percent p {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 6px 14px;
+        width: 65px;
+
+    }
+
+    .amount p {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 5px 15px;
+        width: 125px;
+    }
+
+    /*    payment_method media end*/
+
+    /*        placeorder media start for 414*/
+    .gift h2 {
+        font-size: 16px;
+        line-height: 20px;
+        padding-left: 0;
+
+    }
+
+    .gift .col-md-9 {
+        width: 83%;
+    }
+
+    .apply .butn {
+        margin-left: 15px;
+    }
+
+    .tech h2 {
+        font-size: 15px;
+        padding-top: 0;
+    }
+
+    .gift .col-md-4 {
+        width: 50%;
+    }
+
+    .gift .col-md-6 {
+        width: 50%;
+    }
+
+    .valuebox2 {
+        margin-left: 60px;
+    }
+
+    .quantity {
+        margin-top: 10px;
+        margin-left: 56px;
+    }
+
+    .shipp {
+        width: 320px;
+    }
+
+    .payment_method h2 {
+        font-size: 15px;
+        line-height: 20px;
+        padding-left: 0;
+        padding-bottom: 0;
+    }
+
+
+    .gift .col-md-2 {
+        margin-top: 5px;
+    }
+
+    .gift .col-md-6 {
+        margin-top: 5px;
+    }
+
+    /*        placeorder media end*/
+}
