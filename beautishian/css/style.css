@@ -1,0 +1,2845 @@
+@font-face {
+    font-family: 'AvenirNext';
+    src: url(../fonts/AvenirNext.otf);
+}
+
+@font-face {
+    font-family: 'AvenirNextCyrThin';
+    src: url(../fonts/AvenirNextCyrThin.ttf);
+}
+
+@font-face {
+    font-family: 'AvenirNextMedium';
+    src: url(../fonts/AvenirNextMedium.otf);
+}
+
+@font-face {
+    font-family: 'AvenirNextLTPro-Bold';
+    src: url(../fonts/AvenirNextLTPro-Bold.otf);
+}
+
+@font-face {
+    font-family: 'AvenirNextLTPro-Demi';
+    src: url(../fonts/AvenirNextLTPro-Demi.otf);
+}
+
+@font-face {
+    font-family: 'StratosLCWebSemiBold';
+    src: url(../fonts/StratosLCWebSemiBold.ttf);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+button,
+a {
+    transition: all 0.35s ease 0s;
+    text-decoration: none;
+}
+
+a {
+    outline: medium none !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+form label {
+    margin-bottom: 0;
+}
+
+.nopadding {
+    padding: 0;
+}
+
+.boxs {
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+.container-fluid {
+    padding: 0 45px;
+}
+
+/*Header Start*/
+
+.header {
+    padding: 27px 0;
+    position: fixed;
+    background: #fff;
+    z-index: 999;
+    border-bottom: 1px solid #ccc;
+}
+
+.fixed_header {
+    position: fixed;
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.3);
+}
+
+.header .menuBar ul li {
+    float: left;
+    margin: 3px 10px 0;
+    border-bottom: 1px solid transparent;
+}
+
+.header .menuBar ul li a {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 16px;
+    color: #000000;
+    text-decoration: none;
+    position: relative;
+    padding-bottom: 5px;
+}
+
+.header .menuBar ul li a:hover {
+    color: #fe5a1d;
+}
+
+.header .menuBar ul li a:after {
+    position: absolute;
+    content: '';
+    width: 0%;
+    height: 1px;
+    left: 0;
+    bottom: 0;
+    background: #fe5a1d;
+    transition: width 0.3s;
+}
+
+.header .menuBar ul li a:hover:after {
+    width: 100%;
+    transition: width 0.3s;
+}
+
+.header .logo {
+    display: inline-block;
+    float: left;
+    width: 164px;
+}
+
+.header .menuBar {
+    display: inline-block;
+    float: right;
+}
+
+/*Header End*/
+
+/*Index Page Start*/
+
+/*Banner Start*/
+
+.banner {
+    background: url('../img/banner.png') no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    margin-top: 80px;
+    padding: 70px 0 80px
+}
+
+.banner .appointInner {
+    width: 440px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 4px;
+}
+
+.banner .appointInner h2 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 29px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.banner .appointInner form .form-group {
+    position: relative;
+}
+
+.banner .appointInner form label {
+    display: block;
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #000000;
+}
+
+.banner .appointInner form input {
+    height: auto;
+    padding: 9px 15px 9px 40px;
+    line-height: 22px;
+    box-shadow: none;
+    border: 1px solid #ccc;
+    font-family: 'AvenirNext';
+    font-size: 14px;
+}
+
+.banner .appointInner form input:focus {
+    border: 1px solid #ccc;
+}
+
+.banner .appointInner form span {
+    position: absolute;
+    bottom: 12px;
+    left: 12px;
+}
+
+.banner .appointInner form button {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 21px;
+    line-height: 29px;
+    color: #fff;
+    background: #fe5a1d;
+    height: auto;
+    padding: 7px 5px;
+    margin-top: 10px;
+    display: inline-block;
+    border: 1px solid #fe5a1d;
+}
+
+.banner .appointInner form button:focus {
+    box-shadow: none;
+    outline: none;
+    border: 1px solid #fe5a1d;
+}
+
+
+.banner .appointInner p {
+    padding: 30px 0px 15px;
+    color: #fe5a1d;
+    font-family: 'AvenirNextMedium';
+    font-family: AvenirNext;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+}
+
+/*Banner End*/
+
+.discTreatment .treatmentInner {
+    padding: 80px 0px 30px;
+}
+
+.discTreatment .treatmentInner h2 {
+    font-family: 'StratosLCWebSemiBold';
+    font-size: 50px;
+    line-height: 63px;
+    letter-spacing: normal;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.discTreatment .treatmentInner .workBeautishian h2 {
+    /*    text-align: left;*/
+}
+
+.discTreatment .treatmentBoxs {
+    padding: 0 10px;
+    margin-bottom: 50px;
+}
+
+.discTreatment .treatmentBoxs .treatmentDesign {
+    position: relative;
+    height: 472px;
+    box-shadow: 1px 3px 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.discTreatment .treatmentBoxs .treatmentDesign img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.discTreatment .treatmentBoxs .treatmentName {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    width: 100%;
+    height: 205px;
+    text-align: center;
+    clip-path: polygon(-200% 100%, 100% 115%, 101% 0%);
+    padding: 0 15px;
+}
+
+.discTreatment .treatmentBoxs .treatmentName div {
+    margin-top: 35px;
+}
+
+.discTreatment .treatmentBoxs .treatmentName h3 {
+    font-family: 'StratosLCWebSemiBold';
+    font-size: 40px;
+    line-height: 44px;
+    letter-spacing: 0.24px;
+    color: #fff;
+}
+
+.discTreatment .treatmentBoxs .treatmentName p {
+    font-family: AvenirNext;
+    font-size: 15px;
+    /*    line-height: 44px;*/
+    letter-spacing: 0.09px;
+    color: #000000;
+    margin-top: 10px;
+}
+
+/*Become Partner Section Start*/
+
+.partner {
+    background: url('../img/partner.png') no-repeat center center;
+    background-size: cover;
+    padding: 50px 0;
+}
+
+.partner .partnerInner {
+    text-align: center;
+}
+
+.partner .partnerInner h2 {
+    font-family: 'AvenirNextLTPro-Bold';
+    font-size: 37px;
+    line-height: 44px;
+    letter-spacing: 0.22px;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.partner .partnerInner p {
+    font-family: AvenirNext;
+    font-size: 21px;
+    line-height: 31px;
+    letter-spacing: 0.04px;
+    color: #000000;
+    margin: 20px 0;
+}
+
+.partner .partnerInner a {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 23px;
+    letter-spacing: 0.14px;
+    text-align: left;
+    color: #fff;
+    background: #fe5a1d;
+    border-radius: 4px;
+    padding: 22px 24px;
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+/*Become Partner Section End*/
+
+/*Partners Sections Start*/
+
+.partnersSec {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.partnersSec .partnersLogo ul li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.partnersSec .partnersLogo ul li:last-child {
+    margin-right: 0;
+}
+
+.partnersSec .partnersContent p {
+    font-family: AvenirNext;
+    font-size: 16px;
+    line-height: 27px;
+    letter-spacing: 0.48px;
+    color: #000000;
+    margin-top: 50px;
+}
+
+.discTreatment .workBeautishian .treatmentBoxs .treatmentName {
+    clip-path: unset;
+    height: 169px;
+}
+
+.discTreatment .workBeautishian .treatmentBoxs .treatmentName div {
+    margin-top: 0;
+
+}
+
+.discTreatment .workBeautishian .treatmentBoxs .treatmentName h3 {
+    font-size: 30px;
+    line-height: 44px;
+    letter-spacing: 0.18px;
+}
+
+/*Partners Sections End*/
+
+/*Browse City Section Start*/
+
+.browseCity {
+    background: rgba(247, 247, 247, 0.6);
+    /*    padding: 50px 0px;*/
+}
+
+.browseCity .browseInner .locationMap img {
+    height: 100%;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.browseCity .browseBtm ul li a:hover {
+    color: #fe5a1d;
+}
+
+.browseCity .browseTop h2 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+    /*    margin-bottom: 30px;*/
+}
+
+.browseCity .browseBtm ul li {
+    width: 25%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.browseCity .browseBtm ul li a {
+    font-family: 'AvenirNextMedium';
+    font-size: 18px;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+}
+
+.browseCity .browseBtm ul li img {
+    display: none;
+}
+
+.browseCity .cityAvailabel {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+.browseCity .cityAvailabel:last-child {
+    border-bottom: none;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.browseCity .cityAvailabel .browseTop {
+    width: 30%;
+    float: left;
+}
+
+.browseCity .cityAvailabel .browseBtm {
+    width: 70%;
+    float: left;
+}
+
+.browseCity .browseInner .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.browseCity .browseInner .locationDtl {
+    padding: 30px 20px 30px 0px;
+}
+
+
+
+/*Browse City Section End*/
+
+/*Index Page End*/
+
+/*Footer Start*/
+
+.footer {
+    background: #fe5a1d;
+    padding: 50px 0;
+}
+
+.footer .leftContent h2 {
+    font-family: 'AvenirNextMedium';
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: normal;
+    color: #fff;
+}
+
+.footer .leftContent p {
+    font-family: 'AvenirNext';
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.footer .socialApp a {
+    display: block;
+    float: right;
+    margin-bottom: 30px;
+}
+
+.footer .socialApp a:last-child {
+    margin-bottom: 0;
+}
+
+.footer .feetMenu h3 {
+    font-family: 'AvenirNextMedium';
+    font-size: 21px;
+    line-height: 29px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.footer .feetMenu ul li a {
+    font-family: 'AvenirNext';
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+    margin-bottom: 5px;
+    display: inline-block;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 2px;
+    position: relative;
+}
+
+.footer .feetMenu ul li a:after {
+    position: absolute;
+    content: '';
+    width: 0%;
+    height: 1px;
+    background: #fff;
+    left: 0%;
+    bottom: 0;
+    transition: width .3s;
+}
+
+.footer .feetMenu ul li a:hover:after {
+    width: 100%;
+    transition: width .3s;
+}
+
+.footer .feetMenu .menuBox .talktoUs {
+    margin-top: 20px;
+}
+
+.footer .feetMenu .footMenu ul li a {
+    margin-bottom: 9px;
+}
+
+.footer .copyright {
+    margin-top: 50px;
+}
+
+.footer .copyright p {
+    font-family: 'AvenirNext';
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+}
+
+.footer .socialIcon {
+    margin-top: 30px;
+    text-align: right;
+}
+
+.footer .socialIcon ul li {
+    display: inline-block;
+    margin-right: 11px;
+}
+
+.footer .socialIcon ul li a {
+    height: 34px;
+    width: 34px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.footer .socialIcon ul li:last-child {
+    margin-right: 0;
+}
+
+.footer .socialIcon ul li i {
+    font-size: 22px;
+    color: #000;
+    border: 1px solid #000;
+    font-size: 20px;
+    height: 34px;
+    width: 34px;
+    border-radius: 50%;
+    line-height: 34px;
+    color: #000;
+}
+
+.footer .socialIcon ul li a:hover i {
+    color: #fe5a1d;
+    background: #fff;
+    border: 1px solid #fe5a1d;
+}
+
+/*Footer End*/
+
+/*Personal Details Page Start*/
+
+.header.personalDtl .menuBar ul li a i {
+    margin-left: 7px;
+    font-size: 13px;
+}
+
+.header.personalDtl .menuBar ul li.myAccount {
+    position: relative;
+}
+
+.header.personalDtl .menuBar ul li.myAccount .accountDrop {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 130px;
+    padding: 10px 20px;
+    background: #fff;
+    border-radius: 4px;
+    border: 2px solid #ccc;
+    display: none;
+}
+
+.header.personalDtl .menuBar ul li.myAccount .accountDrop a {
+    padding: 3px 0;
+    display: inline-block;
+    margin-bottom: 2px;
+}
+
+
+.persnldetails {
+    margin-top: 80px;
+}
+
+.persnldetails .detailsInner {
+    padding: 50px 100px;
+}
+
+.persnldetails .detailsInner .detailsForm {
+    padding-right: 40px;
+}
+
+/*Custom Radio Start*/
+
+.radioTypes input {
+    display: none;
+}
+
+.radioTypes input[type="radio"]:checked + label,
+.radioTypes input[type="radio"]:not(:checked) + label {
+
+    position: relative;
+    padding-left: 30px;
+}
+
+.radioTypes input[type="radio"]:not(:checked) + label:before,
+.radioTypes input[type="radio"]:checked + label:before {
+    position: absolute;
+    content: '';
+    height: 20px;
+    width: 20px;
+    top: 0;
+    left: 0;
+    background: transparent;
+    border: 2px solid rgba(0, 0, 0, 0.78);
+    border-radius: 50%;
+}
+
+.radioTypes input[type="radio"]:checked + label:before {
+    border: 2px solid #fe5a1d;
+}
+
+.radioTypes input[type="radio"]:checked + label:after,
+.radioTypes input[type="radio"]:not(:checked) + label:after {
+    position: absolute;
+    content: '';
+    height: 12px;
+    width: 12px;
+    top: 4px;
+    left: 4px;
+    background: #fe5a1d;
+    border: 2px solid #fe5a1d;
+    border-radius: 50%;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.radioTypes [type="radio"]:not(:checked) + label:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+}
+
+.radioTypes [type="radio"]:checked + label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+/*Custom Radio End*/
+
+.persnldetails .detailsForm h2 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #000;
+}
+
+.persnldetails form .detailsForm label {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 14px;
+    line-height: 19px;
+    color: #2b2b2b;
+}
+
+.persnldetails form .detailsForm input {
+    border: none;
+    border-bottom: 1px solid #fe5a1d;
+    border-radius: 0;
+    outline: none;
+    box-shadow: none;
+    height: auto;
+    padding: 10px 0;
+    color: #898989;
+    line-height: 22px;
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+}
+
+.persnldetails .detailsForm .form-group label {
+    margin-right: 130px;
+    color: rgba(0, 0, 0, 0.78);
+}
+
+
+.persnldetails .detailsForm .form-group p.payText {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.persnldetails .detailsForm .form-group p {
+    margin-top: 15px;
+    font-family: 'AvenirNextMedium';
+    font-size: 14px;
+    line-height: 19px;
+    color: #2b2b2b;
+}
+
+.persnldetails .detailsForm .paymentsCard h2 {
+    margin-top: 25px;
+}
+
+.persnldetails .detailsForm .paymentsCard .radioTypes label {
+    font-family: 'AvenirNextMedium';
+    font-size: 18px;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.78);
+    margin-right: 50px;
+}
+
+.persnldetails .detailsForm .promoCodes h2 {
+    margin-top: 40px;
+}
+
+.persnldetails .detailsForm .btmPayments h3 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(43, 43, 43, 0.8);
+    margin-bottom: 10px;
+}
+
+.persnldetails .detailsForm .btmpayInner p a {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 14px;
+    line-height: 19px;
+    color: #2b2b2b;
+}
+
+.persnldetails .detailsForm .btmpayInner p a:hover {
+    color: #fe5a1d;
+}
+
+.persnldetails .detailsForm .btmPayments .btmpayInner {
+    margin-top: 30px;
+}
+
+.persnldetails .detailsForm .btmPayments .btmpayInner label {
+    font-family: AvenirNext;
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(43, 43, 43, 0.8);
+}
+
+/*Custom Checkbox Start*/
+
+.checkboxType input {
+    display: none;
+}
+
+.checkboxType input[type="checkbox"]:checked + label,
+.checkboxType input[type="checkbox"]:not(:checked) + label {
+    position: relative;
+    padding-left: 30px;
+}
+
+.checkboxType input[type="checkbox"]:checked + label:before,
+.checkboxType input[type="checkbox"]:not(:checked) + label:before {
+    position: absolute;
+    content: '';
+    height: 18px;
+    width: 18px;
+    border-radius: 2px;
+    top: 0;
+    left: 0;
+    border: 2px solid rgba(75, 81, 93, 0.8);
+}
+
+.checkboxType input[type="checkbox"]:checked + label:before {
+    border: 2px solid #fe5a1d;
+}
+
+.checkboxType input[type="checkbox"]:checked + label:after {
+    position: absolute;
+    content: '';
+    left: 7px;
+    top: 3px;
+    height: 10px;
+    width: 5px;
+    background: #fff;
+    border-bottom: 2px solid #fe5a1d;
+    border-right: 2px solid #fe5a1d;
+    transform: rotate(45deg);
+}
+
+/*Custom Checkbox End*/
+
+.persnldetails .paymentBox {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.persnldetails .paymentBox .paymentDate {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.persnldetails .paymentBox .paymentTop {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.persnldetails .paymentBox .paybox {
+    padding: 15px 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.persnldetails .paymentBox .paymentTop h2 {
+    font-family: 'AvenirNextMedium';
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 41px;
+    color: #000000;
+}
+
+.persnldetails .paymentBox .paymentDate li {
+    font-family: AvenirNext;
+    font-size: 35px;
+    line-height: 40px;
+    color: #000000;
+    display: inline-block;
+    float: left;
+    padding: 0 7px 0px 2px;
+    border-right: 2px solid #707070;
+}
+
+.persnldetails .paymentBox .paymentDate li:last-child {
+    padding-right: 0;
+    border-right: none;
+}
+
+.persnldetails .paymentBox .paymentDate li p {
+    font-family: AvenirNext;
+    font-size: 14px;
+    padding-left: 7px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.persnldetails .paymentBox .paymentDate li p span {
+    display: block;
+}
+
+.persnldetails .paymentBox .paymentDetail .payLeft {
+    width: 70%;
+    display: inline-block;
+    float: left;
+}
+
+.persnldetails .paymentBox .paymentDetail .payAmount {
+    display: inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+.persnldetails .paymentBox .paymentDetail .payLeft p,
+.persnldetails .paymentBox .paymentDetail .payAmount p {
+    font-family: 'AvenirNextMedium';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    color: #000000;
+}
+
+.persnldetails .paymentBox .orderTotal .payLeft p,
+.persnldetails .paymentBox .orderTotal .payAmount p {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 16px;
+    line-height: 22px;
+    color: #000;
+}
+
+.persnldetails .paymentBox .paymentDetail .orderTotal {
+    padding: 15px 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.persnldetails .paymentBox .buynowBtn {
+    padding-top: 200px;
+    padding-bottom: 30px;
+}
+
+.persnldetails .paymentBox .buynowBtn a {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    padding: 8px 0;
+    border-radius: 4px;
+    background: #fe5a1d;
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    color: #fff;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.persnldetails .detailsForm .cardDetail {
+    margin-top: 15px;
+}
+
+/*Personal Details Page End*/
+
+/*Confirmation Page Start*/
+
+.confirmation {
+    margin-top: 80px;
+    padding: 50px 0;
+}
+
+.confirmation .confirmTop {
+    background: url('../img/confirm.png') no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    padding: 65px;
+}
+
+.confirmation .confirmTop .confirmDtl .schedule p {
+    font-family: 'AvenirNextMedium';
+    font-size: 20px;
+    line-height: 27px;
+    color: #fff;
+    display: inline-block;
+    float: left;
+}
+
+.confirmation .confirmTop .confirmDtl .schedule p img {
+    display: inline-block;
+    float: left;
+    margin-right: 15px;
+}
+
+.confirmation .confirmTop .confirmDtl .schedule p span {
+    font-size: 30px;
+    font-family: 'AvenirNextLTPro-Demi';
+}
+
+.confirmation .confirmTop .confirmDtl .scheduleDtl p {
+    font-size: 18px;
+    width: 50%;
+}
+
+.confirmation .confirmTop .confirmDtl {
+    display: inline-block;
+    float: left;
+}
+
+.confirmation .confirmTop .confirmImg {
+    display: inline-block;
+    float: left;
+}
+
+.confirmation .confirmTop .confirmRight {
+    display: inline-block;
+    float: left;
+}
+
+.confirmation .confirmTop .confirmRight .scheduleBtn a {
+    width: 193px;
+    background: #fff;
+    padding: 7px 0;
+    display: block;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px solid #fff;
+    text-decoration: none;
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    margin-bottom: 10px;
+    border: transparent;
+}
+
+.confirmation .confirmTop .confirmRight .scheduleBtn a:last-child {
+    margin-bottom: 0;
+}
+
+.confirmation .confirmTop .confirmInner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.confirmation .confirmTop .confirmInner .confirmLeft {
+    display: flex;
+    align-items: center;
+}
+
+.confirmation .confirmTop .confirmInner .confirmLeft .confirmDtl {
+    margin-left: 30px;
+    padding-right: 100px;
+}
+
+.confirmation .confirmTop .confirmDtl .schedule {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #fff;
+}
+
+.confirmation .confirmTop .confirmDtl .schedule:last-child {
+    border-bottom: none;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.nail_sec h4 {
+    font-family: 'AvenirNextLTPro-Bold';
+    line-height: 27px;
+    text-align: left;
+    color: #000000;
+    margin-top: 40px;
+    border-bottom: 1px solid #ccc;
+    font-size: 20px;
+}
+
+.arched h4 {
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    color: #000000;
+}
+
+.arched p {
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.book_btn a {
+    border-radius: 4px;
+    border: solid 1px #707070;
+    background-color: #fff;
+    font-family: 'AvenirNextMedium';
+    font-size: 10px;
+    line-height: 14px;
+    text-align: left;
+    color: #000000;
+    padding: 5px 17px;
+    float: right;
+}
+
+.confirmationBtm .nailmain {
+    padding-right: 0px;
+    width: 48%;
+    float: left;
+}
+
+.confirmationBtm .nailmain:nth-child(even) {
+    float: right;
+}
+
+.confirmationBtm .arched {
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 0px;
+}
+
+.confirmation .confirmationBtm {
+    padding: 50px 0;
+}
+
+/*Confirmation Page End*/
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button,
+input::-webkit-clear-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+
+
+
+.main {
+    margin-top: 80px;
+}
+
+/* search start */
+.header .menuBar ul li a.sor_icon {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    justify-items: center;
+}
+
+.header .menuBar ul li a i {
+    margin-left: 8px;
+}
+
+.invite_btn {
+    margin-left: 16px;
+}
+
+.search_btn button {
+    box-shadow: 3px 2px 6px 0 rgba(0, 0, 0, 0.1);
+    margin-top: 28px;
+    font-family: 'AvenirNext';
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.38;
+    color: #fff;
+    background: #fe5a1d;
+    height: auto;
+    padding: 9px 61px;
+    float: right;
+    border: navajowhite;
+    border-radius: 2px;
+}
+
+.ser_frm label {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 18px;
+    line-height: 29px;
+    text-align: left;
+    color: #000000;
+}
+
+input[type=date].form-control,
+input[type=time].form-control,
+input[type=datetime-local].form-control,
+input[type=month].form-control {
+    line-height: 28px;
+}
+
+.ser_frm .form-control {
+    height: auto;
+    /* opacity: 0.2; */
+    border-radius: 2px;
+    box-shadow: 3px 2px 6px 0 rgba(0, 0, 0, 0.1);
+    border: solid 1px #ddd;
+    background-color: #fafafa;
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0.08px;
+    text-align: left;
+    color: #000000;
+    padding: 4px 10px 4px 35px;
+}
+
+.ser_frm .form-control::placeholder {
+    opacity: 0.4;
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0.08px;
+    text-align: left;
+    color: #000000;
+
+}
+
+.ser_frm input[type=date].form-control,
+input[type=time].form-control,
+input[type=datetime-local].form-control,
+input[type=month].form-control {
+    line-height: 28px;
+    color: #000000;
+    opacity: 0.4;
+    box-shadow: 3px 2px 6px 0 rgba(0, 0, 0, 0.1);
+    border: solid 1px #ddd;
+    background-color: #fafafa;
+}
+
+.ser_frm .form-group {
+    position: relative;
+
+}
+
+.ser_frm img {
+    position: absolute;
+    /*    top: 45px;*/
+    bottom: 12px;
+    left: 10px;
+}
+
+.hd_bt_line {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.16);
+}
+
+.search_section {
+    background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
+    padding: 40px 0px;
+}
+
+/* search end */
+/* filter start */
+.filter_sec h2 {
+    font-family: 'AvenirNextMedium';
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align: left;
+    color: #4b4b4b;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.filter {
+    padding: 30px 0px;
+    background-color: #fff;
+    margin-top: 10px;
+}
+
+.filter_sec a {
+    font-size: 18px;
+    line-height: 1.39;
+    color: #272727;
+    float: right;
+    display: flex;
+}
+
+.filter_sec a img {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.eros_rt h2 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 22px;
+    line-height: 1.36;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.eros_row .eros_rt p {
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 12px;
+}
+
+.eros_rt ul li.col_yel {
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    text-align: left;
+    color: #fe5a1d;
+    margin-bottom: 12px;
+}
+
+.eros_rt ul li {
+    display: inline-block;
+    padding-right: 6px;
+}
+
+.eros_rt ul li.last_rev {
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    line-height: 19px;
+    text-align: left;
+    color: #000000;
+}
+
+.eros_rt .loc_row li a {
+    font-family: 'AvenirNextMedium';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+    text-align: left;
+    color: #fe5a1d;
+    padding-right: 25px;
+}
+
+.loc_row li img {
+    margin-right: 8px;
+}
+
+.eros_lt {
+    height: 242px;
+    position: relative;
+}
+
+.eros_lt img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.eros_row {
+    border: 1px solid #707070;
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+.eros_rt {
+    padding: 20px 25px 20px 100px;
+    position: relative;
+    min-height: 242px;
+}
+
+.eros_rt img {
+    font-family: 'AvenirNextMedium';
+    font-size: 14px;
+    line-height: 19px;
+    text-align: left;
+    color: #000000;
+}
+
+.eros_rt a.venue {
+    display: inline-block;
+    background-color: #fe5a1d;
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 20px;
+    line-height: 27px;
+    text-align: left;
+    color: #fff;
+    padding: 9px 43px;
+}
+
+.eros_rt a.quick {
+    font-family: 'AvenirNextMedium';
+    font-size: 14px;
+    line-height: 19px;
+    text-align: left;
+    color: #000000;
+    margin-left: 97px;
+}
+
+.eros_rt a.quick:hover {
+    color: #fe5a1d;
+}
+
+.quick_lin {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.eros_rt h2 a {
+    float: right;
+}
+
+.logo_sm {
+    height: 115px;
+    width: 109px;
+    position: absolute;
+    top: 26%;
+    right: -55px;
+    border-radius: 4px;
+}
+
+.logo_sm img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.new_lb {
+    height: 32px;
+    width: 200px;
+    background-color: #fe5a1d;
+    position: top;
+    position: absolute;
+    top: 19px;
+    left: -56px;
+    transform: rotate(-44deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* overflow: hidden; */
+}
+
+.new_lb h2 {
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 16px;
+}
+
+/* filter end */
+
+/* store start */
+
+.store_sec img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+
+.store_re_lt h3 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 30px;
+    line-height: 41px;
+    text-align: left;
+    color: #000000;
+}
+
+.store_loret ul li {
+    display: inline-block;
+}
+
+.store_loret ul li.col_yel {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 19px;
+    line-height: 26px;
+    text-align: left;
+    color: #efd358;
+}
+
+.store_re_lt img {
+    width: 16px;
+}
+
+.store_loret p {
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.lor_row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.store_loret {
+    text-align: right;
+}
+
+.store_re_lt p {
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    color: #000000;
+}
+
+.store_loret a {
+    display: inline-block;
+    font-family: 'AvenirNextMedium';
+    font-size: 10px;
+    line-height: 14px;
+    text-align: left;
+    color: #fff;
+    padding: 2px 12px;
+    border-radius: 10px;
+    background-color: #00a21f;
+}
+
+.store_rev {
+    padding: 30px 0px 100px;
+}
+
+.nail_sec h4 {
+    font-family: 'AvenirNextLTPro-Bold';
+    line-height: 27px;
+    text-align: left;
+    color: #000000;
+    margin-top: 40px;
+    border-bottom: 1px solid #ccc;
+    font-size: 20px;
+}
+
+.arched h4 {
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    color: #000000;
+}
+
+.arched p {
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.arched {
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 0px;
+}
+
+.book_btn a {
+    border-radius: 4px;
+    border: solid 1px #707070;
+    background-color: #fff;
+    font-family: 'AvenirNextMedium';
+    font-size: 10px;
+    line-height: 14px;
+    text-align: left;
+    color: #000000;
+    padding: 5px 17px;
+    float: right;
+}
+
+.nailmain {
+    padding-right: 45px;
+}
+
+.orange_sec {
+    background-color: #fe5a1d;
+    padding: 40px 20px 50px;
+    width: 100%;
+    margin-top: -54px;
+    position: relative;
+}
+
+.orange_sec h3 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    padding: 18px 0px 5px;
+}
+
+.orange_sec p {
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    line-height: 19px;
+    text-align: left;
+    color: #fff;
+    margin: 5px 0px;
+}
+
+.days_list ul li {
+    font-family: 'AvenirNext';
+    font-size: 14px;
+    line-height: 19px;
+    text-align: left;
+    color: #fff;
+    margin: 5px 0px 10px;
+}
+
+.days_list ul li span {
+    float: right;
+}
+
+.location_sec {
+    width: 310px;
+    height: 375px;
+    margin-top: 13px;
+}
+
+.location_sec iframe {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.orange_sec h6 {
+    font-family: 'AvenirNext';
+    font-size: 11px;
+    line-height: 15px;
+    text-align: right;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.triangle {
+    position: absolute;
+    top: 0px;
+    left: -24px;
+}
+
+.triangle-0 {
+    width: 20px;
+    height: 20px;
+    border-bottom: solid 12px #fe5a1d;
+    border-right: solid 12px #fe5a1d;
+    border-left: solid 12px transparent;
+    border-top: solid 12px transparent;
+}
+
+.reiv_re_lt ul li.col_yel {
+    font-size: 26px;
+}
+
+.reiv_re_lt ul li img {
+    width: 22px;
+    margin-left: 6px;
+}
+
+.store_review {
+    margin-bottom: 100px;
+}
+
+.store_review .store_loret ul li img {
+    width: 16px;
+}
+
+.sort_sec a.sort {
+    display: inline-block;
+    font-family: 'AvenirNextMedium';
+    font-size: 10px;
+    line-height: 14px;
+    text-align: left;
+    color: #000000;
+    opacity: 0.7;
+    border-radius: 2px;
+    border: solid 1px #000000;
+    background-color: #fff;
+    padding: 1px 8px;
+}
+
+.sort_sec a img {
+    display: inline-block;
+    margin-left: 7px;
+}
+
+.sort_sec {
+    text-align: right;
+    margin-top: 10px;
+    position: relative;
+}
+
+.filDrop_content {
+    text-align: left;
+    width: 180px;
+    padding: 10px 12px;
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    margin-top: 1px;
+    display: none;
+    position: absolute;
+    top: 25px;
+    right: 0;
+    z-index: 9;
+}
+
+.filDrop_content a {
+    display: block;
+    color: #000000;
+    opacity: 0.7;
+    font-family: 'AvenirNextMedium';
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.day_r img {
+    display: inline-block;
+}
+
+.day_r h4 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 20px;
+    line-height: 27px;
+    text-align: left;
+    color: #000000;
+}
+
+.day_r p {
+    font-family: 'AvenirNext';
+    font-size: 10px;
+    line-height: 14px;
+    text-align: left;
+    color: #000000;
+}
+
+.day_r {
+    display: flex;
+    align-items: center;
+}
+
+.rev_con p {
+    font-family: 'AvenirNext';
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    color: #000000;
+}
+
+.face_img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.face_img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.lourev_row {
+    padding: 25px 0px;
+    border-bottom: 1px solid #ccc;
+}
+
+.lourev_row:last-child {
+    border-bottom: none;
+}
+
+.choo_sec {
+    box-shadow: 0 -2px 4px 0 rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    width: 1104px;
+}
+
+.mid_choose {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.choo_sec p {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 20px;
+    line-height: 27px;
+    text-align: left;
+    color: #606060;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.choo_sec p span a {
+    background-color: #fe5a1d;
+    display: inline-block;
+    text-align: left;
+    color: #fff;
+    float: right;
+    padding: 13px 42px;
+}
+
+.choose_sec {
+    display: none;
+}
+
+.book_btn a:hover {
+    background-color: #fe5a1d;
+    color: #fff;
+    border: 1px solid #fe5a1d;
+}
+
+/* store :end */
+
+/*Vishal css start from here*/
+
+.my_booking {
+    margin-top: 80px;
+    padding: 50px 0;
+}
+
+.my_booking .booking_area {
+    border: 1px solid #ccc;
+    padding: 40px 30px;
+    min-height: 589px;
+    position: relative;
+
+}
+
+.my_booking .booking_area .booking_area_inner {
+    padding: 0px 15px;
+    margin-bottom: 20px;
+}
+
+.my_booking .booking_text {
+    border-bottom: 1px solid #ccc;
+}
+
+.booking_area .booking_text_1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.booking_area .booking_text h3 {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 22px;
+    color: #000;
+    line-height: 30px;
+}
+
+.booking_area .booking_text p {
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    color: #000;
+    line-height: 22px;
+}
+
+.booking_area .booking_text span {
+    font-family: 'AvenirNextMedium';
+    font-size: 16px;
+    line-height: 22px;
+    color: #000;
+}
+
+.booking_area .booking_text span a {
+    margin-left: 10px;
+}
+
+.booking_area .booking_text {
+    padding: 13px 0;
+}
+
+.booking_area .venues a {
+    font-family: 'AvenirNextMedium';
+    font-size: 12px;
+    line-height: 16px;
+    color: #fe5a1d;
+    text-decoration: none;
+}
+
+.booking_area .booking_text_1 .fa-times {
+    color: #fe5a1d;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.booking_area .venues {
+    margin-top: 8px;
+    margin-bottom: 35px;
+}
+
+.booking_area .total_rder h3 {
+    font-family: 'AvenirNextMedium';
+    color: #fff;
+}
+
+.booking_area .total_rder span {
+    color: #fff;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.booking_area .total_rder {
+    border-radius: 2px;
+    background-color: #fe5a1d;
+    margin-top: 155px;
+    padding: 9px 15px;
+    border-bottom: none;
+}
+
+.my_booking .booking_area .bok {
+    padding: 0;
+}
+
+.my_booking .booki {
+    padding: 40px 20px;
+}
+
+.booking_area_inner .bok_text label {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 14px;
+    line-height: 19px;
+    color: #fe5a1d;
+    margin-top: 28px;
+}
+
+.booking_area_inner .bok_border {
+    position: relative;
+    border-bottom: 1px solid #fe5a1d;
+}
+
+.booking_area_inner .bok_border span {
+    position: absolute;
+    bottom: 18px;
+    left: 0;
+}
+
+.bok_text input.icon_set {
+    position: relative;
+    /* margin-left: 20px; */
+}
+
+.booking_area_inner .form-group .form-control {
+    border: none;
+    height: auto;
+    padding: 10px 22px 10px 30px;
+    box-shadow: none;
+}
+
+.booking_area_inner .form-group {
+    margin-bottom: 0px;
+}
+
+.booking_area_inner .form-control:focus {
+    box-shadow: none;
+}
+
+.checkbtn button {
+    font-family: 'AvenirNextMedium';
+    background-color: #fe5a1d;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 13px 15px;
+    border-right: 2px;
+    color: #fff;
+    height: auto;
+
+}
+
+.booking_area_inner .checkbtn button.checkbtn_inner {
+    padding: 13px 25px;
+}
+
+.booking_area_inner .checkbtn {
+    margin-top: 207px;
+    margin-bottom: 0px;
+}
+
+.booking_area .booking_area_inner .appo p {
+    margin-bottom: 7px;
+}
+
+/*Vishal css end here
+
+
+/* deepanshu start */
+
+/*middle content start*/
+.option_list {
+    margin-top: 80px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.option_left {}
+
+.option_left ul {
+    list-style-type: none;
+}
+
+.option_left ul li {
+    margin-bottom: 5px;
+}
+
+.option_left ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    background: #fbfbfb;
+    display: inline-block;
+    width: 250px;
+    border-radius: 6px;
+    padding: 13px 0px 13px 13px;
+    font-family: 'AvenirNextMedium';
+
+}
+
+
+.option_left ul li a:hover {
+    color: #fff;
+    background: #fe5a1d;
+    /*    border-color: #fe5a1d;*/
+}
+
+
+
+.option_left ul li a.active {
+    color: #fff;
+    background: #fe5a1d;
+    border-color: #fe5a1d;
+}
+
+
+.option_right h3 {
+    font-size: 25px;
+    font-family: 'AvenirNextLTPro-Demi';
+    line-height: 34px;
+    color: #000000;
+    font-weight: 600;
+    border-bottom: 2px solid #000000;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.option_right form .form-group label {
+    font-size: 14px;
+    font-family: 'AvenirNextLTPro-Demi';
+    line-height: 19px;
+    color: #2b2b2b;
+    font-weight: 600;
+    padding: 5px 0px;
+}
+
+.option_right form .form-control {
+    font-size: 16px;
+    font-family: 'AvenirNextMedium';
+    line-height: 22px;
+    color: #898989;
+    border: 0px;
+    box-shadow: none;
+    border-bottom: 1px solid #fe5a1d;
+    border-radius: 0;
+    padding: 7px 0px;
+    height: auto;
+}
+
+.option_right form .form-group .btn {
+    font-size: 16px;
+    font-family: 'AvenirNextMedium';
+    line-height: 22px;
+    color: #ffffff;
+    font-weight: 500;
+    background: #fe5a1d;
+    padding: 7px 44px;
+    float: right;
+    margin-top: 52px;
+}
+
+.option_right form .form-group .btn:focus {
+    outline: none;
+    box-shadow: unset;
+}
+
+.method_inner h3 {
+    font-size: 25px;
+    font-family: 'AvenirNextLTPro-Demi';
+    line-height: 34px;
+    color: #000000;
+    font-weight: 600;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+.method_inner label {
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    font-family: 'AvenirNextMedium';
+}
+
+.offer_inner {
+    margin-top: 30px;
+}
+
+.coupons_card {
+    padding: 15px;
+    border: solid 1px #707070;
+    display: flex;
+    align-items: center;
+}
+
+.nav-tabs {
+    border-bottom: 0;
+}
+
+.copan_middle h2 {
+    font-size: 22px;
+    font-family: 'AvenirNextLTPro-Demi';
+    line-height: 30px;
+    margin-left: 8px;
+    color: #000000;
+}
+
+.copan_middle p {
+    font-size: 16px;
+    font-family: 'AvenirNextMedium';
+    line-height: 22px;
+    margin-left: 8px;
+    padding: 15px 0px;
+}
+
+.copan_middle p span {
+    font-family: 'AvenirNextLTPro-Demi';
+}
+
+
+.copan_right p {
+    font-size: 36px;
+    font-family: 'AvenirNextMedium';
+    line-height: 49px;
+    color: #ffffff;
+    background: #fe5a1d;
+    /*    width: 202px;*/
+    padding: 27px 10px 27px 10px;
+    float: right;
+}
+
+
+.copan_middle ul li {
+    float: left;
+    padding: 0px 3px;
+}
+
+.copan_middle ul li:first-child {
+    font-size: 14px;
+    font-family: 'AvenirNextLTPro-Demi';
+    line-height: 19px;
+    color: #fe5a1d;
+    margin-left: 5px;
+    margin-right: 10px;
+
+}
+
+.copan_middle ul li:last-child {
+    font-size: 14px;
+    font-family: 'AvenirNext';
+    line-height: 19px;
+    color: #000000;
+    margin-left: 10px;
+}
+
+.booking h2 {
+    font-size: 17px;
+    font-family: 'AvenirNextMedium';
+    line-height: 44px;
+    color: #000000;
+}
+
+.booking_upper {
+    padding: 5px 15px 5px 15px;
+    background-color: #f7f7f7;
+    border: solid 1px #ccc;
+}
+
+.upper_left h5 {
+    font-size: 17px;
+    line-height: 27px;
+    color: #000000;
+    font-family: 'AvenirNextMedium';
+}
+
+.upper_mid img {
+    display: inline-block;
+}
+
+.upper_mid p {
+    display: inline-block;
+    font-size: 13px;
+    line-height: 27px;
+    color: #000000;
+    font-family: 'AvenirNextMedium';
+}
+
+.upper_right a {
+    font-size: 12px;
+    font-family: 'AvenirNextMedium';
+    line-height: 27px;
+    color: #fe5a1d;
+    float: right;
+    text-decoration: none;
+}
+
+.booking_lower {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-top: 0;
+    background-color: #f7f7f7;
+}
+
+.lowwer_list {
+    padding-top: 12px;
+}
+
+.lowwer_list ul li {
+    position: relative;
+    font-size: 12px;
+    font-family: 'AvenirNext';
+    line-height: 16px;
+    padding: 1px 0px;
+    color: #000000;
+}
+
+.lowwer_list ul li:before {
+    content: '';
+    position: absolute;
+    left: -15px;
+    top: 5px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #fe5a1d;
+}
+
+.charges {
+    text-align: right;
+}
+
+.charges h4 {
+    font-size: 13px;
+    font-family: 'AvenirNextMedium';
+    line-height: 38px;
+    color: #000000;
+    margin-right: 25px;
+}
+
+.booking {
+    margin-bottom: 15px;
+}
+
+.charges p {
+    font-size: 12px;
+    font-family: 'AvenirNextMedium';
+    line-height: 18px;
+    color: #000000;
+    margin-right: 71px;
+}
+
+.charges a {
+    font-size: 12px;
+    font-family: 'AvenirNextMedium';
+    line-height: 18px;
+    color: #fff;
+    text-decoration: none;
+    background: #fe5a1d;
+    padding: 6px 11px;
+    display: inline-block;
+    margin-top: 13px;
+    border-radius: 4px;
+}
+
+.charges a:hover {
+    border-radius: 4px;
+}
+
+.pay_btn .btn {
+    font-size: 16px;
+    line-height: 22px;
+    color: #ffffff;
+    font-family: 'AvenirNextMedium';
+    background: #fe5a1d;
+    padding: 7px 60px;
+    float: right;
+    margin-top: 45px;
+    text-transform: uppercase;
+}
+
+.pay_btn .btn:focus {
+    outline: none;
+    box-shadow: unset;
+}
+
+.remove a {
+    text-decoration: none;
+    color: #fe5a1d;
+    font-size: 14px;
+    font-family: 'AvenirNextLTPro-Demi';
+    line-height: 19px;
+    text-transform: uppercase;
+    display: inline-block;
+    float: right;
+    margin-top: 12px;
+}
+
+input.card_input {
+    display: block !important;
+    margin-top: -4px;
+}
+
+.card_detail {
+    margin-bottom: 20px;
+}
+
+.pay_btn .btn1 {
+    font-size: 16px;
+    line-height: 22px;
+    color: #ffffff;
+    font-family: 'AvenirNextMedium';
+    background: #fe5a1d;
+    padding: 8px 42px;
+    float: right;
+    margin-top: 45px;
+    border: 1px transparent;
+    border-radius: 4px;
+}
+
+.pay_btn .btn1:focus {
+    outline: none;
+    box-shadow: unset;
+}
+
+/* deepanshu end */
+
+
+
+/* about tab start */
+.about_beauty_text p {
+    font-family: 'AvenirNextMedium';
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000;
+}
+
+.about_beauty_text .about_last {
+    margin: 30px 0;
+}
+
+.about_beauty_text .about_last p {
+    margin: 8px 0px;
+}
+
+/* about tab end */
+
+.eros_row .eros_rt1 p {
+    margin-top: 12px;
+}
+
+.eros_rt ul li.col_red {
+    color: #fe5a1d;
+}
+
+
+/*privacy policy css start from here*/
+
+.privacy {
+    margin-top: 80px;
+    padding: 50px 0;
+}
+
+.privacy .privacy_all h3 {
+    font-family: 'AvenirNextMedium';
+    font-size: 22px;
+    line-height: 32px;
+    color: #000;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.privacy .privacy_all p {
+    font-family: 'AvenirNext';
+    font-size: 18px;
+    line-height: 28px;
+    color: #000;
+    margin-top: 15px;
+}
+
+/*privacy policy end here*/
+
+/*login page*/
+
+.login {
+
+    margin-top: 80px;
+    padding: 50px 0 230px;
+}
+
+.login_outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login_outer .col_text_left p {
+    font-family: 'AvenirNextMedium';
+    font-size: 17px;
+    color: #000;
+    line-height: 27px;
+    margin-top: 15px;
+}
+
+.login_outer .col_text_left {
+    padding-right: 85px;
+
+}
+
+.login_outer .col_text_left img {
+    width: 95%;
+}
+
+.form_all .inner_text h3 {
+    font-family: 'StratosLCWebSemiBold';
+    font-size: 40px;
+    letter-spacing: 0.24px;
+    line-height: 44px;
+    color: #fe5a1d;
+}
+
+.booking_area_inner .log_text label {
+    color: #2b2b2b;
+}
+
+.booking_area_inner .form-group .log_email {
+    font-family: 'AvenirNextMedium';
+    padding: 10px 0;
+    color: #898989;
+    line-height: 22px;
+}
+
+.booking_area_inner .log_check label {
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+.form_all_area .log_btn {
+    margin-top: 35px;
+}
+
+.form_all_area .log_btn button {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 20px;
+    line-height: 24px;
+    padding: 8px 73px;
+    color: #fff;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 3px 2px 6px 0 rgba(0, 0, 0, 0.1);
+    background-color: #fe5a1d;
+    border: none;
+    float: right;
+
+}
+
+/*login page end*/
+
+
+
+/*css invite frient start*/
+.invite_inner h5 {
+    font-size: 25px;
+    font-family: 'AvenirNextMedium';
+    line-height: 34px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.option_right .invite_input .form-control {
+    border: solid 1px #ccc;
+    font-family: 'AvenirNextMedium';
+    background-color: #fbfbfb;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+    padding: 12px 15px;
+}
+
+.option_right .invite_btn .btn3 {
+    font-size: 20px;
+    font-family: 'AvenirNextMedium';
+    line-height: 27px;
+    color: #ffffff;
+    padding: 13px 30px;
+    background: #fe5a1d;
+    border: transparent;
+    border-radius: 2px;
+}
+
+.option_right .invite_btn .btn3:focus {
+    outline: none;
+    box-shadow: unset;
+}
+
+.invite_icon h2 {
+    font-size: 25px;
+    font-family: 'AvenirNextMedium';
+    line-height: 34px;
+    color: #000000;
+    margin: 20px 0px;
+}
+
+
+
+.invite_icon ul li {
+    float: left;
+    height: 59px;
+    width: 59px;
+    margin-right: 27px;
+}
+
+.invite_icon ul li a img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+/*css invite friend end*/
+
+
+/* modal :start */
+.signin .modal-dialog {
+    width: 722px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100%;
+    margin: 30px auto;
+}
+
+
+.modal_rht {
+    padding: 70px 60px 80px;
+}
+
+.closed {
+    position: absolute;
+    top: 15px;
+    right: 17px;
+    z-index: 9;
+}
+
+
+.sign_modelcontent {
+    border-radius: 0;
+    position: relative;
+}
+
+.login_btn button {
+    font-family: 'AvenirNextLTPro-Demi';
+    font-size: 20px;
+    line-height: 24px;
+    padding: 8px 73px;
+    color: #fff;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 3px 2px 6px 0 rgba(0, 0, 0, 0.1);
+    background-color: #fe5a1d;
+    border: none;
+    float: right;
+    margin-top: 50px;
+}
+
+.log_text a {
+    font-family: 'AvenirNextMedium';
+    padding: 10px 0;
+    color: #898989;
+    line-height: 22px;
+}
+
+.log_text a:hover {
+    color: #fe5a1d;
+}
+
+.psd_hide {
+    display: none;
+}
+
+/* modal end */
+
+
+
+/*Button Hover */
+
+.btnHover {
+
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.btnHover:before {
+    content: '';
+    position: absolute;
+    left: -100%;
+    top: 0;
+    background: #fe321d;
+    width: 100%;
+    height: 100%;
+    transition: all 0.4s;
+    z-index: -1;
+}
+
+.btnHover:hover:before {
+    left: 0;
+}
+
+.option_left ul li {
+    width: 100%;
+}
+
+.option_left ul li a {
+    width: 100%;
+}
+
+
+/*Button Hover End*/
+
+
+/*Get Listed Page Start*/
+
+.getListed .accordion-container {
+    position: relative;
+    height: auto;
+    margin-bottom: 50px;
+    width: 100%;
+    float: none;
+}
+
+.getListed .accordion-container > h2 {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.getListed .set {
+    position: relative;
+    width: 100%;
+    height: auto;
+    /*    background-color: #fff;*/
+}
+
+.getListed .set > a {
+    display: block;
+    padding: 20px 0;
+    text-decoration: none;
+    /*     border-top: 1px solid #ddd; */
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    font-family: 'AvenirNextMedium';
+
+    font-size: 22px;
+    color: #000;
+}
+
+.getListed .set > a i {
+    float: left;
+    margin-right: 15px;
+    transition: all 0.3s;
+    font-size: 28px;
+}
+
+.getListed .set > a i.rotate {
+    transform: rotate(-180deg);
+}
+
+.getListed .set > a.active {
+    color: #000;
+    font-family: 'AvenirNextMedium';
+
+}
+
+.getListed .set:first-child a {
+    /* 	border-top: none; */
+}
+
+.getListed .content {
+    /*    background-color: #fff;*/
+    display: none;
+    padding-bottom: 30px;
+}
+
+.getListed .content p {
+    padding: 10px 0px;
+    margin: 0;
+    color: #5C6881;
+    font-family: 'AvenirNext';
+    /*     font-family: 'RobotoLight'; */
+    font-size: 18px;
+}
+
+.getListed {
+    margin-top: 81px;
+}
+
+/*Get Listed Page Start*/
+
+
+.browseCity .locationMap {
+    height: 370px;
+}
+
+.browseCity .locationMap li a img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.option_list .col-sm-9.rgtBoxs {
+    padding-left: 100px;
+}
+
+
+.booking_area .booking_text .hard_para {
+    width: 380px;
+}
+
+.booking_area_last {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 0px 20px 40px;
+}
+
+
+
+
+
+.eros_detail {
+    padding: 20px 25px 20px 80px;
+}
+
+i.heartColor {
+    color: red;
+}
+
+
+a.productWishlist {
+    /*    z-index: 999;*/
+    color: #ccc;
+    font-size: 20px;
+}
+
+.eros_rt h2 a i.fa {
+    color: #ccc;
+    font-size: 35px;
+}
+
+#product-wishlist-heart i.heartColor {
+    color: red;
+}
+
+.store_lore2 ul {
+    float: right;
+}
+
+.store_lore2 li {
+    float: left;
+    padding: 6px 0px;
+    margin-right: 2px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.store_lore2 ul li a {
+    color: #000000;
+    background: #fff;
+
+}
+
+.store_lore2 ul li a i.fa {
+    font-size: 18px;
+}
+.career_head{
+    padding: 0px;
+}
+.addcode a {
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    color: #fe5a1d;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: 'AvenirNextLTPro-Demi';
+    text-decoration: none;
+}
+.promoCodes{
+    position: relative;
+}
+img.small{
+    width: 70%;
+}
+.appointInner a{
+   font-family: 'AvenirNextLTPro-Demi';
+  font-size: 14px;
+  font-weight: 600
+  line-height: 19px;
+  color: #fe5a1d;
+        margin-top: 15px;
+    display: inline-block;
+
+}
