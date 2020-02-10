@@ -1,0 +1,2148 @@
+
+@media(max-width:1199px){
+    .head_inner {
+        padding: 20px 0px
+    }
+    .main {
+        margin-top: 86px;
+    }
+    .banner_con h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .home_banner {
+        padding: 120px 0px;
+    }
+    .per_sec h2 {
+        font-size: 35px;
+    }
+    .des_con h2 {
+        font-size: 40px;
+    }
+    .design_sec {
+        padding: 80px 0px;
+    }
+    .brand_sec h2 {
+        font-size: 35px;
+    }
+    .br_logo ul li {
+        width: 232px;
+    }
+    .mask_sec {
+        padding: 25px 25px;
+        top: 119px;
+    }
+      /*    Account Setup Page Start*/
+
+      .profileStatus h2 {
+        font-size: 36px;
+    }
+
+    .setupAccount .setupBox h3 {
+        font-size: 20px;
+    }
+
+    .setupAccount .setupBox p {
+        font-size: 15px;
+    }
+
+    .setupAccount .setupBox label {
+        font-size: 16px;
+    }
+
+    .setupAccount .setupBox .form-control {
+        font-size: 15px;
+    }
+
+    .setupAccount .setupForm button {
+        padding: 7px 28px;
+        font-size: 16px;
+    }
+
+    .profileStatus.setupAccount h2 {
+        margin-bottom: 20px;
+    }
+
+    .profileStatus .backBtn a {
+        font-size: 20px;
+    }
+
+    .profileStatus .backBtn {
+        top: 8px;
+    }
+
+    /*    Account Setup Page End*/
+
+    /*    Payment Success Page Start*/
+
+    .orderSuccess .orderBtm h2 {
+        margin: 25px 0;
+        font-size: 34px;
+    }
+
+    .orderSuccess .orderBtm p {
+        font-size: 20px;
+    }
+
+    .orderSuccess .orderBtm a {
+        font-size: 16px;
+    }
+
+    .orderSuccess .orderBtm p {
+        margin-bottom: 25px;
+    }
+
+    /*    Payment Success Page End*/
+    /* faq start */
+    .search_box_left .form-control {
+        width: 74%;
+    }
+    /* faq end */
+      /* mensdetail pages start */
+      .mensection {
+        padding: 150px 0px;
+    }
+    .labeltag {
+        font-size: 20px;
+    }
+    .modal_rht {
+       padding: 0px 15px 0px 35px;
+    }
+    .btndiv {
+        margin-top: 25px;
+    }
+    .modal_rht .form-group {
+        margin: 15px 0px;
+        border-radius: 4px;
+        /* border: solid 1px #d4dae3; */
+    }
+    /* mensdetail pages ends */
+    /* guide start */
+    .guide_right ul li a {
+        padding: 7px 0px;
+    }
+ .latest {
+        padding: 50px 0px;
+    }
+    /* guide end */
+      /*    Style Profile Page Start*/
+
+      .barLine {
+        width: 600px;
+    }
+
+    .wearOption .wearboxBtm h3 {
+        font-size: 18px;
+    }
+
+    .wearOption .wearboxBtm .optionInner p {
+        font-size: 15px;
+    }
+
+    .selectOptions [type="radio"]:checked + label,
+    .selectOptions [type="radio"]:not(:checked) + label {
+        font-size: 16px;
+    }
+
+    .selectOptions [type="checkbox"]:checked + label,
+    .selectOptions [type="checkbox"]:not(:checked) + label {
+        font-size: 16px;
+    }
+
+    .wearOption .wearboxBtm .optionInner {
+        min-height: 281px;
+    }
+
+    .wearOption .wearboxTop h2 {
+        font-size: 20px;
+    }
+
+    .barLine span .statsTxt,
+    .barLine span .fitTxt,
+    .barLine span .styleTxt {
+        font-size: 18px;
+    }
+
+    .wearOption .wearboxBtm .optionInner {
+        width: 33%;
+    }
+
+    .budgetInner {
+        width: 25%;
+    }
+
+    .wearOption .wearboxBtm .optionInner {
+        min-height: 245px;
+    }
+
+    .budgetOptn.spendBox .budgetInner {
+        min-height: 235px;
+    }
+
+    .wearOption .colorSelect {
+        padding-right: 0;
+    }
+
+    .wearOption .colorSelect .colorInner {
+        width: 249px;
+    }
+
+    .wearOption .colorSelect .colorInner .colorBox {
+        width: 249px;
+        height: 50px;
+    }
+
+    .selectThis input:not(:checked) + label,
+    .selectThis input:checked + label {
+        width: 83px;
+        font-size: 15px;
+    }
+
+    .wearOption .outfitWear .brandsColl {
+        height: 234px;
+        width: 180px;
+    }
+
+    .profileForm .innerForm label {
+        font-size: 16px;
+    }
+
+    .profileForm .innerForm input {
+        font-size: 15px;
+    }
+
+    .comments textarea {
+        height: 250px;
+    }
+
+    .wearOption button {
+        padding: 7px 28px;
+        font-size: 16px;
+    }
+
+    .wearOption .optionsTwo,
+    .wearOption .officeDress,
+    .wearOption .dryClean,
+    .wearOption .brandsBox,
+    .wearOption .budgetOptn,
+    .wearOption .colorSelect,
+    .profileForm,
+    .comments {
+        margin-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    /*    Style Profile Page End*/
+     /*    Guide Inner Men Page Start*/
+
+     .categaory h2 {
+        font-size: 34px;
+        line-height: 40px;
+        margin-bottom: 12px;
+        margin-top: 25px;
+    }
+
+    .hd_line h3 {
+        font-size: 22px;
+    }
+
+    .stylist_hd h2 {
+        font-size: 16px;
+        margin-top: 40px;
+    }
+
+    .guide_inner {
+        padding: 40px 0px 30px;
+    }
+
+    .read_sec {
+        padding: 30px 0px 50px;
+    }
+
+    /*    Guide Inner Men Page End*/
+     /* contact strat */
+     .contactPage {
+        padding: 0px 0 30px;;
+        margin-top: 176px;
+    }
+    .contactaddress {
+        margin-top: 25px;
+        padding-left: 30px;
+    }
+    .ContactForm .telcontact select {
+        width: 24%;
+        display: inline-block;
+    }
+    .ContactForm form .Formsection select {
+        padding: 12px 10px;
+    }
+    /* contact end */
+    .checkinput label span {
+        width: 18px;
+        height: 18px;
+        margin-right: 7px;
+    }
+    .checkinput label {
+        font-size: 14px;
+    }
+    .forget a {
+        font-size: 14px;
+    }
+    .btndiv button {
+        font-size: 16px;
+        padding: 9px 27px;
+    }
+    .modal_rht .form-control {
+        font-size: 15px;
+        padding: 11px 16px;
+    }
+    .heading {
+        font-size: 35px;
+    }
+    .welcomename h4 {
+        font-size: 30px;
+    }
+} 
+@media(max-width:991px){
+    .onlyread_img {
+        height: 130px;
+    }
+    .wr_con p {
+        font-size: 14px;
+    }
+    .bodyfit1 {
+        width: 46%;
+        float: left;
+        margin-right: 27px;
+    }
+    .head_inner {
+        padding: 15px 0px;
+    }
+    .main {
+        margin-top: 76px;
+    }
+    .banner_con h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .home_banner {
+        padding: 100px 0px;
+    }
+    .per_sec h2 {
+        font-size: 30px;
+    }
+    .personal_section {
+        padding: 55px 0px;
+    }
+    .quiz_sec p {
+        font-size: 15px;
+        line-height: 22px
+    }
+    .quiz_sec h4 {
+        margin-bottom: 15px;
+    }
+    .brand_section {
+        padding: 55px 0px;
+    }
+    .bran_logo_sec {
+        padding: 30px 0px;
+    }
+    .mask_sec h3 {
+        font-size: 25px;
+    }
+    .mask_sec {
+        padding: 20px 20px;
+        top: 100px;
+    }
+    .custom_sec h2 {
+        font-size: 30px;
+        line-height: 46px;
+        margin-bottom: 10px;
+        margin-top: 15px;
+    }
+    .f_inner .col-sm-8{
+        width: 100%;
+        float: left;
+    }
+    .f_ryt {
+        padding: 15px 0px 50px;
+    }
+    .f_lft {
+        padding: 50px 0px 0;
+    }
+      /*    Account Setup Page Start*/
+
+      .profileStatus.setupAccount h2 {
+        margin-bottom: 10px;
+    }
+
+    .profileStatus h2 {
+        font-size: 31px;
+    }
+
+    .setupAccount .setupBox h3 {
+        font-size: 18px;
+    }
+
+    .setupAccount .setupBox label {
+        font-size: 15px;
+    }
+
+    .profileStatus .backBtn a {
+        font-size: 18px;
+    }
+
+    .setupAccount .setupForm button {
+        padding: 5px 24px;
+        font-size: 15px;
+    }
+
+    .setupAccount .setupForm {
+        padding: 0 30px;
+    }
+
+    /*    Account Setup Page End*/
+
+    /*    Payment Success Page Start*/
+
+    .orderSuccess .orderBtm h2 {
+        margin: 20px 0;
+        font-size: 30px;
+    }
+
+    .orderSuccess .orderBtm p {
+        font-size: 18px;
+    }
+
+    .orderSuccess .orderBtm p {
+        margin-bottom: 15px;
+    }
+
+    .orderSuccess .orderBtm a {
+        padding: 10px 25px;
+        font-size: 15px;
+    }
+
+    /*    Payment Success Page End*/
+    /* faq start */
+    .search_box_left .form-control {
+        width: 66%;
+    }
+
+    .privacy h2 {
+        font-size: 27px;
+    }
+    /* faq end */
+     /* mensdetail pages start */
+     .mensection {
+        padding: 120px 0px;
+    }
+    .mens_collection h1 {
+        font-size: 50px;
+        line-height: 59.7px;
+    }
+    .halfwidth {
+        width: 50%;
+    }
+    .outercover {
+        display: block;
+    }
+    .signin .modal-dialog {
+        margin: 30px auto;
+    }
+    .modal_rht {
+        padding: 20px 15px;
+    }
+    /* mensdetail pages ends */
+    
+    .banner_content h2 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .guide_right h3 {
+        font-size: 16px;
+        line-height: 18px;
+        padding: 5px 0px;
+    }
+
+    .guide_right ul li a {
+        font-size: 15px;
+        line-height: 17px;
+        padding: 2px 0px;
+    }
+
+    .latest_inner_img {
+        min-height: 355px;
+    }
+    .only_co {
+        min-height: 118px;
+    }
+
+    .only_co p {
+        font-size: 16px;
+        line-height: 22px !important;
+    }
+     /*    Style Profile Page Start*/
+
+     .barLine {
+        width: 529px;
+    }
+
+    .barLine span .statsTxt,
+    .barLine span .fitTxt,
+    .barLine span .styleTxt {
+        font-size: 16px;
+    }
+
+    .barLine .stepOne,
+    .barLine .stepTwo,
+    .barLine .stepThree {
+        height: 18px;
+        width: 18px;
+    }
+
+    .barLine .stepOne:after,
+    .barLine .stepTwo:after {
+        left: 9px;
+        top: 9px;
+    }
+
+    .barLine .stepThree:after {
+        left: 2px;
+        top: 2px;
+    }
+
+    .profileStatus {
+        padding: 40px 0;
+    }
+
+    .wearOption .wearboxBtm .optionInner p {
+        font-size: 14px;
+    }
+
+    .selectOptions [type="radio"]:checked + label,
+    .selectOptions [type="radio"]:not(:checked) + label {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+
+    .selectOptions [type="radio"]:not(:checked) + label:before,
+    .selectOptions [type="radio"]:checked + label:before {
+        width: 18px;
+        height: 18px;
+    }
+
+    .selectOptions [type="radio"]:not(:checked) + label:after,
+    .selectOptions [type="radio"]:checked + label:after {
+        width: 5px;
+        height: 10px;
+        left: 9px;
+        top: 9px;
+    }
+
+    .wearOption .wearboxBtm .optionInner {
+        width: 50%;
+    }
+
+    .wearOption .wearboxBtm .optionInner {
+        min-height: 230px;
+    }
+
+    .wearOption .wearboxTop h2 {
+        font-size: 18px;
+    }
+
+    .wearOption .wearboxBtm h3 {
+        font-size: 16px;
+    }
+
+    .wearOption .wearboxTop {
+        margin-bottom: 10px;
+    }
+
+    .wearOption {
+        margin-top: 45px;
+    }
+
+    .profileStatus h2 {
+        margin-bottom: 35px;
+    }
+
+    .wearOption .brandsBox {
+        padding-right: 0;
+    }
+
+    .wearOption .brandsColl {
+        margin-right: 25px;
+        margin-bottom: 25px;
+    }
+
+    .wearOption .brandsColl,
+    .wearOption .brandsBox .brandsInner {
+        width: 195px;
+    }
+
+    .budgetInner {
+        width: 33%;
+    }
+
+    .budgetOptn.spendBox .budgetInner {
+        min-height: 213px;
+    }
+
+    .budgetOptn.avoidClothing .budgetInner {
+        width: 33%;
+    }
+
+    .wearOption .outfitWear .brandsColl {
+        margin-right: 25px;
+        margin-bottom: 25px;
+    }
+
+    .selectOptions [type="checkbox"]:checked + label,
+    .selectOptions [type="checkbox"]:not(:checked) + label {
+        font-size: 15px;
+    }
+
+    .selectOptions [type="checkbox"]:not(:checked) + label:before {
+        width: 16px;
+        height: 16px;
+    }
+
+    .selectOptions [type="checkbox"]:not(:checked) + label:after {
+        left: 8px;
+        top: 8px;
+    }
+
+    .wearOption button {
+        font-size: 15px;
+    }
+
+    .comments textarea {
+        height: 220px;
+    }
+
+    .wearOption {
+        padding: 0 30px;
+    }
+
+    .wearOption .selectOptions {
+        margin-top: 15px;
+    }
+
+    .wearOption .budgetOptn h2 {
+        margin-bottom: 10px;
+    }
+    .only_img {
+        height: 250px;
+    }
+    .latest_inner_img a p {
+        font-size: 15px;
+    }
+    /*    Style Profile Page End*/
+      /*    Guide Inner Men Page Start*/
+
+      .categaory a {
+        font-size: 18px;
+    }
+
+    .categaory h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 10px;
+        margin-top: 20px
+    }
+
+    .categaory p.para {
+        font-size: 15px;
+    }
+
+    .hd_line p {
+        font-size: 15px;
+    }
+
+    .stylist_hd h2 {
+        font-size: 15px;
+        margin-top: 35px;
+    }
+
+    .read1sec a {
+        font-size: 19px;
+        margin-bottom: 30px;
+    }
+
+    .read_sec {
+        padding: 20px 0px 30px;
+    }
+
+    .guide_inner {
+        padding: 40px 0px 20px;
+    }
+
+    /*    Guide Inner Men Page End*/
+     /* contact start */
+     .dw_frm .col-sm-6{
+        width: 100%;
+        padding-right: 0;
+            }
+            .ContactForm .telcontact input {
+                width: 73%;
+            }
+            .contactaddress {
+                padding-left: 0px;
+            }
+            /* contact end */
+            .innerlabel {
+                height: 208px;
+            }
+}
+@media(max-width:767px){  
+    .innre_start p {
+    margin-top: 15px;
+}
+    .f_links:first-child{
+        padding-left:0px;
+    }
+    .custom_sec  .inner_customlft p {
+    margin-bottom: 15px;
+}
+    .bodyfit {
+        margin-right: 0;
+        margin: 10px 15px 10px;
+    }
+    .heading {
+        font-size: 25px;
+    }
+
+    .header .hamburger{
+        display: block;
+    }
+    .head_mid{
+        display: none;
+    }
+    .cutomised_section {
+        padding: 160px 0px 60px;
+    }
+        .quiz_sec img {
+            margin: 18px auto 18px;
+        }
+    .banner_con {
+        padding-left: 20px;
+    }
+    .banner_con h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .banner_con p {
+        font-size: 14px;
+    }
+    .home_banner {
+        padding: 70px 0px;
+    }
+    .personal_section {
+        padding: 45px 0px;
+    }
+    .des_con h2 {
+        font-size: 32px;
+    }
+    .brand_sec h2 {
+        font-size: 30px;
+    }
+    .brand_section {
+        padding: 45px 0px 10px;
+    }
+    .brand_pic2 {
+        margin-top: 0;
+    }
+    .brand_pic3 {
+        margin-top: 0;
+    }
+    .brand_pic1 {
+        margin-top: 0;
+    }
+    .myslider .slick-list {
+        padding: 70px 0px;
+    }
+    .myslider .slick-prev {
+        left: 16px;
+    }
+    .myslider  .slick-next {
+        left: 76px;
+    }
+    .br_logo ul li {
+        width: 49%;
+    }
+    .br_logo1 ul li {
+        margin: 15px 0px;
+    }
+    .mask_section {
+        height: 315px;
+    }
+    .mask_section img.conerban{
+        object-fit: cover;
+        width: 100%;
+        min-height: 100%;
+    }
+    .mask_sec ul li {
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 10px;
+    }
+    .mask_sec {
+        top: 212px;
+        width: 406px;
+    }
+    .custom_sec p br{
+        display: none;
+    }
+    .myslider_custom .slick-prev {
+        left: 4px;
+        top: 0;
+    }
+    .myslider_custom .slick-next {
+        top: 0;
+        left: 69px;
+
+    }
+    .myslider_custom  .slick-list {
+        padding: 50px 0px 0;
+    }
+    .custom_sec p {
+        margin-bottom: 35px;
+    }
+    .brand_sec p {
+        margin-bottom: 20px;
+    }
+    .innre_start {
+        width: 450px;
+        padding: 40px 0px;
+    }
+    .started_section {
+        padding: 80px 0px;
+    }
+    .copyright {
+        font-size: 16px;
+        margin-top: 15px;
+        margin-bottom: 19px;
+    }
+    .f_lft {
+        padding: 40px 0px 0;
+    }
+    .f_links ul li {
+        margin-bottom: 10px;
+    }
+    .footer_bottom p {
+        font-size: 14px;
+    }
+    .f_ryt {
+        padding: 15px 0px 30px;
+    }
+      /*    Account Setup Page Start*/
+
+      .profileStatus h2 {
+        font-size: 28px;
+    }
+
+    .setupAccount .setupForm {
+        padding: 0 15px;
+    }
+
+    .setupAccount .setupBox {
+        margin-top: 23px;
+        padding-bottom: 25px;
+    }
+
+    .setupAccount .setupBox.shippingAddress {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .profileStatus .backBtn a {
+        font-size: 16px;
+    }
+
+    .profileStatus .backBtn {
+        top: 6px;
+    }
+
+    .setupAccount .setupForm .firstBox input,
+    .setupAccount .setupForm .receiveBox select {
+        width: 230px;
+    }
+
+    .profileStatus .backBtn a {
+        font-size: 14px;
+    }
+
+    .profileStatus .backBtn {
+        top: 4px;
+    }
+
+    .setupAccount .setupBox h3 {
+        font-size: 16px;
+    }
+
+    .setupAccount .setupBox p {
+        font-size: 14px;
+    }
+
+    .setupAccount .setupBox label {
+        font-size: 14px;
+    }
+
+    .setupAccount .setupBox {
+        margin-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .profileStatus.setupAccount h2 {
+        margin-bottom: 0px;
+    }
+
+    /*    Account Setup Page End*/
+
+    /*    Payment Success Page Start*/
+
+    .orderSuccess .topImg img {
+        width: 100px;
+    }
+
+    .orderSuccess .orderBtm h2 {
+        font-size: 27px;
+    }
+
+    .orderSuccess .orderBtm a {
+        margin-top: 20px;
+    }
+
+    /*    Payment Success Page End*/
+    /* faq start */
+    .search_box_left .form-control {
+        width: 70%;
+    }
+
+    .search_box_right {
+        text-align: left;
+        margin-top: 25px;
+        padding-right: 16px;
+    }
+
+    .privnav {
+        display: none;
+    }
+    /* faq end */
+      /* mensdetail pages start */
+      .mensection {
+        padding: 80px 0px;
+    }
+    .heading {
+        font-size: 30px;
+        line-height: 36.5px;
+    }
+    .ybs .row {
+        display: block;
+    }
+    .wear {
+        padding: 50px 0px 40px;
+    }
+    .ybs {
+        padding: 50px 0px 0px;
+    }
+    .radiopic,
+    .shaperadio {
+        margin-top: 40px;
+    }
+    .labeltag {
+        font-size: 22px;
+    }
+    .halfwidth {
+        width: 100%;
+    }
+    .bodytype {
+        padding: 20px 0px;
+    }
+    .welcomename h4 {
+        font-size: 24px;
+        line-height: 29.5px;
+    }
+    .welcomename,
+    .bodytype,
+    .leftbtn {
+        margin-left: 0;
+    }
+    .welcomename {
+        margin-top: 20px;
+    }
+    .bodyfit {
+        width: 44%;
+    }
+    .fullwidth {
+        width: 100%;
+    }
+    .labeltag2 {
+        /* min-height: initial; */
+    }
+    .modal_rht .form-control {
+        padding: 20px 20px;
+    }
+    /* mensdetail pages ends */
+    .privnav {
+        display: none;
+    }
+
+    .phoneview_left {
+        display: block;
+    }
+
+    .phoneview_right {
+        display: block;
+        padding-left: 25px;
+    }
+
+    .guide_right h3 {
+        font-size: 18px;
+        line-height: 20px;
+        padding: 10px 0px;
+    }
+
+    .guide_right ul li a {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 5px 0px;
+    }
+
+
+    .guide_right {
+
+        margin: 35px 0px;
+    }
+
+    .latest {
+        padding: 0px 0px;
+    }
+
+    .latest_inner_img {}
+
+    .only_co {
+        min-height: 122px;
+    }
+
+    .guide_right .col-xs-6 {
+        padding: 0px;
+    }
+    /*    Style Profile Page Start*/
+
+    .barLine {
+        width: 350px;
+    }
+
+    .barLine span .statsTxt,
+    .barLine span .fitTxt,
+    .barLine span .styleTxt {
+        font-size: 14px;
+        left: -7px;
+        bottom: -30px;
+    }
+
+    .wearOption .wearboxBtm .optionInner {
+        min-height: 235px;
+    }
+
+    .budgetInner {
+        width: 50%;
+    }
+
+    .wearOption .budgetOptn h2 {
+        margin-bottom: 10px;
+    }
+
+    .wearOption .colorSelect h2 {
+        margin-bottom: 20px;
+    }
+
+    .wearOption .colorSelect .colorInner p {
+        font-size: 15px;
+    }
+
+    .wearOption .colorSelect .colorInner,
+    .colorSelect .coloroption,
+    .wearOption .colorSelect .colorInner .colorBox {
+        width: 195px;
+    }
+
+    .wearOption .colorSelect .colorInner {
+        margin: 0 20px 20px 0;
+    }
+
+    .selectThis input:not(:checked) + label,
+    .selectThis input:checked + label {
+        width: 65px;
+        font-size: 14px;
+    }
+
+    .wearOption .colorSelect .colorInner .colorBox {
+        height: 45px;
+    }
+
+
+    .wearOption .colorSelect.patterns .colorInner .colorBox {
+        height: 200px;
+    }
+
+    .budgetOptn.avoidClothing .budgetInner {
+        width: 50%;
+    }
+
+    .wearOption {
+        padding: 0 15px;
+    }
+
+    .comments textarea {
+        height: 190px;
+    }
+
+
+    /*    Style Profile Page End*/
+      /*    Guide Inner Men Page Start*/
+
+      .categaory h2 {
+        font-size: 25px;
+        line-height: 30px;
+        margin-top: 15px;
+    }
+
+    .categaory p.para {
+        line-height: 23px;
+    }
+
+    .categaory h4 {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .hd_line h3 {
+        font-size: 19px;
+        margin-top: 35px;
+    }
+
+    .hd_line p {
+        font-size: 14px;
+        line-height: 23px;
+        padding: 10px 15px;
+    }
+
+    .read1sec a {
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+
+    .read_row .col-sm-3 {
+        width: 50%;
+        float: left;
+        display: inline-block;
+    }
+
+    .guide_inner {
+        padding: 30px 0px 20px;
+    }
+
+    .categaory p.para {
+        padding: 10px 15px;
+    }
+
+
+    /*    Guide Inner Men Page End*/
+    /* contact start */
+.contactPage {
+    margin-top: 80px;
+}
+
+.contactaddress .Addressbox {
+    min-height: 100px;
+}
+/* contact end */
+.wtw .col-sm-3{
+    width: 50%;
+    float: left;
+}
+.innerlabel {
+    height: 300px;
+}
+}
+@media(max-width:560px){
+    .mask_sec ul li img {
+    top: 5px;
+    left: 2px;
+}
+    .bodyfit {
+        width: 100%;
+        margin: 10px 0px 10px;
+    }
+    .only_img {
+        height: initial;
+    }
+    .only_co {
+        min-height: initial;
+        padding: 20px 20px;
+    }
+    .latest_inner_img a h3{
+        padding-top: 0px;
+    }
+    /*.mask_sec ul li img {*/
+    /*    display: none;*/
+    /*}*/
+    .mask_sec {
+        width: 384px;
+        top: 185px;
+    }
+    .banner_con h1 {
+        font-size: 35px;
+        line-height: 43px;
+    }
+    .banner_con h2 {
+        font-family: 'RalewayBold';
+        font-size: 15px;
+    }
+    .banner_conbtn a {
+        padding: 7px 15px;
+        display: inline-block;
+        font-size: 15px;
+    }
+    .per_sec h2 {
+        font-size: 25px;
+    }
+    .personal_section {
+        padding: 30px 0px;
+    }
+    .des_con h2 {
+        font-size: 27px;
+    }
+    .design_sec {
+        padding: 65px 0px;
+    }
+    .brand_section {
+        padding: 30px 0px 10px;
+    }
+    .brand_sec p br{
+        display: none;
+    }
+    .mask_sec h3 {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .custom_sec h2 {
+        margin-top: 0;
+    }
+    
+
+   
+    /* faq start */
+    .search_box_left .form-control {
+        width: 59%;
+    }
+        .privacy h2{
+    padding: 20px 15px;
+    }
+    /* faq end */
+       /* mensdetail pages start */
+       .mensection {
+        padding: 60px 0px;
+    }
+    .mens_collection h1 {
+        font-size: 40px;
+        line-height: 49.7px;
+    }
+    .overlay::before {
+        top: 45%;
+        left: 45%;
+    }
+    .backpage {
+        font-size: 17px;
+        line-height: 19.6px;
+    }
+    .inner_heading {
+        font-size: 18px;
+        line-height: 18.6px;
+    }
+    /* .bodyfit {
+        width: 42%;
+    } */
+    .fullwidth {
+        width: 100%;
+    }
+    .bodyfit label p {
+        font-size: 15px;
+    }
+    .width250 {
+        width: 100%;
+    }
+    .width120 {
+        width: 100%;
+    }
+    .sign_para p {
+        padding-top: 15px;
+    }
+    .modal_rht .form-control {
+        padding: 15px 15px;
+    }
+    /* mensdetail pages ends */
+    .privacy h2 {
+        padding: 20px 15px;
+    }
+
+    .guide_right .col-xs-6 {
+        width: 100%;
+    }
+
+    .phoneview_left {
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    .box_a .col-xs-6 {
+        width: 100%;
+    }
+
+    .box_a {
+        padding-top: 75px;
+    }
+
+    .banner_content h2 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .banner_content p {
+        font-size: 15px;
+        padding: 15px 0px 5px 0px;
+    }
+
+    .banner_content h2 {
+        padding: 5px 0px 15px 0px;
+    }
+
+    .guide_sec .slick-next:before {
+        display: none;
+    }
+
+    .guide_sec .slick-prev:before {
+        display: none;
+    }
+
+    .guide_sec .slick-dots {
+        bottom: 90px;
+    }
+
+    .guide_sec .slick-dots li button:before {
+        font-size: 25px;
+        border: 0px;
+    }
+    .phoneview_right {
+        padding-left: 0px;
+    }
+    .guide_sec .col-xs-12{
+        padding: 0px;
+    }
+     /*    Style Profile Page Start*/
+
+     .profileStatus h2 {
+        font-size: 20px;
+    }
+
+    .barLine {
+        width: 285px;
+    }
+
+
+    /*    Style Profile Page End*/
+
+    /*    Account Setup Page Start*/
+
+    .profileStatus h2 {
+        font-size: 20px;
+    }
+
+    .profileStatus .backBtn {
+        top: 2px;
+    }
+
+    .profileStatus h2 {
+        margin-bottom: 25px;
+    }
+
+    .barLine span .statsTxt,
+    .barLine span .fitTxt,
+    .barLine span .styleTxt {
+        bottom: -25px;
+    }
+
+    .wearOption {
+        margin-top: 25px;
+    }
+
+    .wearOption .wearboxTop h2 {
+        font-size: 16px;
+    }
+
+    .wearOption .wearboxBtm .optionInner p {
+        font-size: 13px;
+    }
+
+    .selectOptions [type="radio"]:checked + label,
+    .selectOptions [type="radio"]:not(:checked) + label {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    .profilePage .form-group {
+        margin-bottom: 12px;
+    }
+
+    .wearOption .brandsColl,
+    .wearOption .brandsBox .brandsInner {
+        width: 162px;
+    }
+
+    .wearOption .brandsColl {
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .wearOption .budgetOptn h2 {
+        line-height: 24px;
+    }
+
+    .wearOption .wearboxBtm h3 {
+        font-size: 15px;
+    }
+
+    .wearOption .colorSelect .colorInner {
+        margin: 0 15px 15px 0;
+    }
+
+
+    .wearOption .colorSelect .colorInner,
+    .colorSelect .coloroption,
+    .wearOption .colorSelect .colorInner .colorBox {
+        width: 162px;
+    }
+
+    .selectThis input:not(:checked) + label,
+    .selectThis input:checked + label {
+        width: 54px;
+    }
+
+    .wearOption .outfitWear .brandsColl {
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .wearOption .outfitWear .brandsColl {
+        height: 200px;
+        width: 154px;
+    }
+
+    .comments p {
+        font-size: 14px;
+    }
+
+    .comments textarea {
+        height: 150px;
+    }
+
+    .wearOption button {
+        padding: 6px 28px;
+    }
+
+    /*    Account Setup Page End*/
+
+    /*    Payment Success Page Start*/
+    .orderSuccess .topImg img {
+        width: 90px;
+    }
+
+    .orderSuccess .orderBtm h2 {
+        font-size: 24px;
+    }
+
+    .orderSuccess .orderBtm p {
+        font-size: 16px;
+    }
+
+    .orderSuccess .orderBtm a {
+        padding: 8px 20px;
+        font-size: 14px;
+        margin-top: 13px;
+    }
+
+    /*    Payment Success Page End*/
+     /*    Guide Inner Men Page Start*/
+
+     .categaory h2 br {
+        display: none;
+    }
+
+    .categaory h2 {
+        font-size: 21px;
+        line-height: 27px;
+        margin-top: 10px;
+    }
+
+    .categaory p.para {
+        padding: 10px 10px;
+    }
+
+    .categaory h4 {
+        font-size: 16px;
+    }
+
+    .hd_line p {
+        padding: 10px 10px;
+        line-height: 22px;
+    }
+
+    .hd_line h3 {
+        font-size: 18px;
+        margin-top: 28px;
+    }
+
+    .stylist_hd h2 {
+        font-size: 14px;
+        margin-top: 25px;
+    }
+
+    .read1sec a {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    .wr_con p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .read_img
+    {
+        height: auto;
+        width: 100%;
+    }
+
+    /*    Guide Inner Men Page End*/
+    /* contact start */
+.ContactForm {
+    margin-top: 27px;
+}
+.ContactForm .telcontact select {
+    width: 23%;
+}
+.contactaddress .col-xs-6{
+    width: 100%;
+}
+.contactaddress .Addressbox {
+    min-height: initial;
+}
+/* contact end */
+.innerlabel {
+    height: 242px;
+}
+
+}
+@media(max-width:414px){
+    .innre_start img.rect_rgt {
+    width: 40%;
+}
+.innre_start img.rect_lft {
+    width: 40%;
+}
+.innre_start {
+    padding: 40px 15px;
+}
+    .onlyread_img {
+        height: initial;
+    }
+    .wr_con p{
+        width: 100%
+    }
+    .welcomename h4 {
+        font-size: 18px;
+    }
+    .custom_sec h2 {
+        font-size: 24px;
+        margin-bottom: 0;
+    }
+    .inner_customlft p{
+        margin-bottom: 15px;
+    }
+    .custom_sec p {
+        font-size: 15px;
+    }
+    .mask_sec {
+        width: 91%;
+        top: 185px;
+        padding: 20px 18px;
+    }
+    .custom_sec h2 {
+        font-size: 26px;
+    }
+    .banner_con h1 {
+        font-size: 31px;
+        line-height: 30px;
+        margin-bottom: 21px;
+    }
+    .banner_con {
+        padding-left: 0px;
+    }
+    .banner_con h2 {
+        font-size: 12px;
+    }
+    .per_sec h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .des_con h2 {
+        font-size: 22px;
+    }
+    .brand_sec h2 {
+        font-size: 24px;
+        line-height: 18px;
+    }
+    .brand_sec p {
+        font-size: 15px;
+    }
+    .myslider .slick-list {
+        padding: 70px 0px 0px;
+        height: 504px!important;
+    }
+    .br_logo1 ul li {
+        margin: 15px 0px;
+    }
+    .innre_start h5 {
+        font-size: 25px;
+    }
+    .innre_start p {
+        font-size: 14px;
+        margin-top: 16px;
+    }
+    .nextbtn1 {
+        margin-top: 18px;
+    }
+    .copyright {
+        font-size: 14px;
+        margin-bottom: 19px;
+    }
+    .head_rht ul li a img{
+        width: 25px;
+    }
+    .header .hamburger {
+        width: 17px;
+    }
+    .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+        width: 20px;
+        height: 2px;
+    }
+  /*    Account Setup Page Start*/
+
+  .profileStatus {
+    padding: 30px 0;
+}
+
+.profileStatus h2 {
+    font-size: 20px;
+}
+
+.profileStatus .backBtn a {
+    font-size: 13px;
+}
+
+.profileStatus .backBtn {
+    top: 0px;
+}
+
+.setupAccount .setupBox h3 {
+    font-size: 14px;
+}
+
+.setupAccount .setupBox p {
+    font-size: 13px;
+}
+
+.setupAccount .setupBox label {
+    font-size: 13px;
+}
+
+.setupAccount .setupForm .firstBox input,
+.setupAccount .setupForm .receiveBox select {
+    width: 100%;
+}
+
+.setupAccount .setupBox .form-control {
+    font-size: 13px;
+}
+
+.setupAccount .setupBox .form-control {
+    height: 32px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.setupAccount .setupForm button {
+    padding: 4px 16px;
+    font-size: 14px;
+}
+
+.setupAccount .setupBox p {
+    line-height: 1.3;
+}
+
+.setupAccount .setupBox.shippingAddress .leftInfo,
+.setupAccount .setupBox.shippingAddress .rightInfo {
+    width: 100%;
+}
+
+/*    Account Setup Page End*/
+
+/*    Payment Success Page Start*/
+
+.orderSuccess .topImg img {
+    width: 70px;
+}
+
+.orderSuccess .orderBtm h2 {
+    font-size: 22px;
+    margin: 15px 0;
+}
+
+.orderSuccess .orderBtm p {
+    font-size: 14px;
+}
+
+.orderSuccess .orderBtm a {
+    padding: 7px 15px;
+    margin-top: 10px;
+}
+
+.orderSuccess {
+    /*        padding: 30px 0;*/
+}
+
+/*    Payment Success Page End*/
+/* faq start */
+.search_box_left .form-control {
+    width: 46%;
+    font-size: 14px;
+            padding: 20px 4px;
+}
+.privacy h2 {
+    font-size: 18px;
+}
+    .privacy p {
+    font-size: 15px;
+        padding-bottom: 8px;
+    }
+    .search_box_left i.fa{
+        padding: 10px 5px;
+    }
+    .search_box_left button {
+            padding: 8px 30px;
+    }
+/* faq end */
+  /* mensdetail pages start */
+  .mens_collection h1 {
+    font-size: 35px;
+    line-height: 44.7px;
+}
+.mens_collection h1 br {
+    display: none;
+}
+.line {
+    width: 90px;
+    height: 3px;
+    background-color: #f84f4f;
+    margin-bottom: 10px;
+}
+.heading {
+    font-size: 20px;
+    line-height: 25.5px;
+}
+.wear,
+.ybs {
+    padding: 40px 0px 30px;
+}
+.inner_heading {
+    font-size: 16px;
+}
+.labeltag2 {
+    /* width: 100%; */
+    font-family: 'RalewaySemiBold';
+    font-size: 15px;
+}
+.wtw .col-sm-3 {
+    width: 100%;
+    float: left;
+}
+.innerlabel {
+    height: initial;
+}
+.radiopic,
+.shaperadio {
+    margin-top: 20px;
+}
+.nextbtn {
+    margin-top: 30px;
+}
+.bodyfit {
+    width: 100%;
+}
+.btndiv button {
+    padding: 8px 28px;
+}
+.btndiv button.active {
+    margin-right: 10px;
+}
+.checkdiv {
+    display: block;
+}
+.forget {
+    margin-top: 20px;
+}
+.modal_rht .form-control {
+    padding: 10px 10px;
+}
+/* mensdetail pages ends */
+.privacy h2 {
+    font-size: 18px;
+}
+
+.privacy p {
+    font-size: 15px;
+    padding-bottom: 8px;
+}
+
+.search_box_left i.fa {
+    padding: 10px 5px;
+}
+
+.search_box_left button {
+    padding: 8px 30px;
+}
+ /*    Style Profile Page Start*/
+
+ .profileStatus h2 {
+    font-size: 18px;
+    padding: 0 30px;
+}
+
+.barLine {
+    width: 210px;
+}
+
+.barLine span .statsTxt,
+.barLine span .fitTxt,
+.barLine span .styleTxt {
+    font-size: 13px;
+}
+
+.barLine span .fitTxt {
+    left: 0;
+}
+
+.wearOption .wearboxTop h2 {
+    font-size: 14px;
+}
+
+.wearOption .wearboxBtm .optionInner {
+    width: 100%;
+    min-height: auto;
+}
+
+.selectOptions [type="radio"]:checked + label,
+.selectOptions [type="radio"]:not(:checked) + label {
+    font-size: 13px;
+}
+
+.selectOptions [type="radio"]:not(:checked) + label:before,
+.selectOptions [type="radio"]:checked + label:before {
+    width: 16px;
+    height: 16px;
+}
+
+.selectOptions [type="radio"]:not(:checked) + label:after,
+.selectOptions [type="radio"]:checked + label:after {
+    width: 4px;
+    height: 8px;
+    left: 8px;
+    top: 8px;
+}
+
+.wearOption .optionsTwo,
+.wearOption .officeDress,
+.wearOption .dryClean,
+.wearOption .brandsBox,
+.wearOption .budgetOptn,
+.wearOption .colorSelect,
+.profileForm,
+.comments {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.wearOption .brandsColl,
+.wearOption .brandsBox .brandsInner {
+    width: 115px;
+}
+
+.wearOption .wearboxBtm h3 {
+    font-size: 14px;
+}
+
+.budgetOptn.spendBox .budgetInner {
+    width: 100%;
+    min-height: auto;
+}
+
+.wearOption .colorSelect .colorInner,
+.colorSelect .coloroption,
+.wearOption .colorSelect .colorInner .colorBox {
+    width: 100%;
+}
+
+.selectThis input:not(:checked) + label,
+.selectThis input:checked + label {
+    width: 33.3%;
+}
+
+.budgetOptn.avoidClothing .budgetInner {
+    width: 100%;
+}
+
+.wearOption .outfitWear .brandsColl {
+    width: 100%;
+    height: 100%;
+    margin-right: 0;
+}
+
+.wearOption .brandsColl input:checked + label,
+.wearOption .brandsColl input:checked + label img,
+.wearOption .brandsColl input:not(:checked) + label,
+.wearOption .brandsColl input:not(:checked) + label img {
+    width: 100%;
+    height: 100%;
+}
+
+.budgetOptn.stitchFix .budgetInner {
+    width: 100%;
+}
+
+.budgetOptn.stitchFix .budgetInner:last-child {
+    margin-top: 0;
+}
+
+.profileForm p {
+    font-size: 14px;
+}
+
+.profileForm .innerForm label {
+    font-size: 14px;
+}
+
+.wearOption button {
+    font-size: 14px;
+}
+
+.comments textarea {
+    height: 120px;
+}
+
+.profileForm .innerForm input, .comments textarea {
+    font-size: 13px;
+}
+.comments p {
+font-size: 13px;
+}
+.selectThis input:not(:checked) + label, .selectThis input:checked + label
+{
+    line-height: 36px;
+    height: 36px;
+}
+
+
+
+/*    Style Profile Page End*/
+
+/*    Account Setup Page Start*/
+
+.profileStatus {
+    padding: 30px 0;
+}
+
+.profileStatus h2 {
+    font-size: 18px;
+}
+
+.profileStatus .backBtn a {
+    font-size: 13px;
+}
+
+.profileStatus .backBtn {
+    top: 0px;
+}
+
+.setupAccount .setupBox h3 {
+    font-size: 16px;
+}
+
+.setupAccount .setupBox p {
+    font-size: 14px;
+}
+
+.setupAccount .setupBox label {
+    font-size: 14px;
+}
+
+.setupAccount .setupForm .firstBox input,
+.setupAccount .setupForm .receiveBox select {
+    width: 100%;
+}
+
+.setupAccount .setupBox .form-control {
+    font-size: 13px;
+}
+
+.setupAccount .setupBox .form-control {
+    height: 32px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.setupAccount .setupForm button {
+    padding: 4px 16px;
+    font-size: 14px;
+}
+
+.setupAccount .setupBox p {
+    line-height: 1.3;
+}
+
+.setupAccount .setupBox.shippingAddress .leftInfo,
+.setupAccount .setupBox.shippingAddress .rightInfo {
+    width: 100%;
+}
+
+/*    Account Setup Page End*/
+
+/*    Payment Success Page Start*/
+
+.orderSuccess .topImg img {
+    width: 70px;
+}
+
+.orderSuccess .orderBtm h2 {
+    font-size: 22px;
+    margin: 15px 0;
+}
+
+.orderSuccess .orderBtm p {
+    font-size: 14px;
+}
+
+.orderSuccess .orderBtm a {
+    padding: 7px 15px;
+    margin-top: 10px;
+}
+
+.orderSuccess {
+    /*        padding: 30px 0;*/
+}
+
+/*    Payment Success Page End*/
+  /*    Guide Inner Men Page Start*/
+
+  .categaory a {
+    font-size: 16px;
+}
+
+.categaory h2 {
+    font-size: 19px;
+    line-height: 23px;
+}
+
+.categaory p.name_title {
+    padding-bottom: 10px;
+}
+
+.guide_inner {
+    padding: 20px 0px 10px;
+}
+
+.categaory p.para {
+    font-size: 13px;
+    line-height: 21px;
+}
+
+.categaory h4 {
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 10px;
+}
+
+.hd_line h3 {
+    font-size: 14px;
+    margin-top: 18px;
+}
+
+.hd_line p {
+    line-height: 21px;
+    font-size: 13px;
+}
+.stylist_hd h2 {
+font-size: 13px;
+margin-top: 15px;
+}
+.read1sec a {
+font-size: 13px;
+margin-bottom: 10px;
+}
+.read_row .col-sm-3
+{
+    display: block;
+    width: 100%;
+}
+.read_sec {
+padding: 20px 0px 10px;
+}
+
+
+/*    Guide Inner Men Page End*/
+/* contact start */
+.contactPage {
+    margin-top: 120px;
+}
+.ContactForm .telcontact select {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.ContactForm .telcontact input {
+    width: 100%;
+    margin-left: 0;
+}
+/* contact end */
+
+}
+.btndiv {
+    margin-top: 0px;
+}
+.forget a {
+    float: left;
+    margin-bottom: 15px;
+}
+.checkinput label {
+    margin-bottom: 15px;
+}
+@media(max-width:320px){
+
+}
