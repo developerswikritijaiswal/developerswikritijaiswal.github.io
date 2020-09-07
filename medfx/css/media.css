@@ -1,0 +1,409 @@
+@media(max-width:1199px) {
+    .money {
+        padding: 120px 0px 120px 75px;
+    }
+    .money_img {
+        width: 360px;
+        margin-top: -400px;
+    }
+    .invest_con p {
+        font-size: 16px;
+    }
+    .byposition {
+        bottom: 15px;
+    }
+    .home {
+        padding-bottom: 30px;
+    }
+    .detail_inner,
+    .whowe,
+    .feature,
+    .news {
+        padding: 50px 0px;
+    }
+    .feature h1 {
+        font-size: 60px;
+        line-height: 60px;
+        right: -115px;
+        top: 120px;
+    }
+    .teambk1 {
+        right: 30px;
+    }
+    .slider .slick-next {
+        right: 35%;
+        left: initial;
+    }
+    .team_con {
+        margin-bottom: 0px;
+    }
+    .foot_rht {
+        padding-left: 40px;
+    }
+    .foot_mid li {
+        margin-left: 25px;
+    }
+    .footer {
+        padding: 40px 0px;
+    }
+    .new_head h1 {
+        font-size: 40px;
+        line-height: 51px;
+    }
+    .slider_lft h3 {
+        font-family: 'ProductSansBold';
+        font-size: 28px;
+        line-height: 30px;
+    }
+    /*vishu*/
+    .bredcrum h1 {
+    font-size: 35px;
+    line-height: 43px;
+    }
+    .content {
+    padding: 50px 0px;
+    }
+    .top_head {
+    padding: 40px 0px;
+    }
+    h4.cfdtitle1 {
+    font-size: 35px;
+    line-height: 43px;
+}
+h4.cfdtitle2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+.islamicright img {
+    margin-left: 140px;
+}
+.swapys {
+    width: 100%;
+}
+.swapschrg_left {
+    width: 100%;
+        padding-left: 33%;
+}
+.islamicright img {
+    margin-left: 49px;
+}
+.swaps {
+    padding-bottom: 122px;
+}
+
+
+}
+
+@media(max-width:991px) {
+    .head_rht li {
+        margin-left: 14px;
+    }
+    .head_lft a img {
+        width: 150px;
+    }
+    .whowe_rht {
+        padding-top: 40px;
+    }
+    .teambk1 {
+        right: 183px;
+    }
+    .slider_rht {
+        padding-top: 30px;
+    }
+    .slider_rht img {
+        width: 100%;
+    }
+    .slider .slick-prev,
+    .slider .slick-next {
+        top: initial;
+        bottom: -40px;
+        z-index: 1;
+    }
+    .slider .slick-prev {
+        right: 50%;
+    }
+    .slider .slick-next {
+        right: 40%;
+    }
+    .foot_mid li {
+        display: block;
+        margin-left: 0px;
+        width: 49%;
+        float: left;
+    }
+    .foot_rht li {
+        display: block;
+        width: 100%;
+    }
+    .money_img {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .money {
+        padding: 70px 0px 70px 50px;
+    }
+    /*vishu*/
+    .top_head {
+        padding: 33px 0px;
+    }
+    .bredcrum h1 {
+    font-size: 33px;
+    line-height: 39px;
+    }
+    .content {
+    padding: 40px 0px;
+    }
+    .risk p {
+    padding-bottom: 25px;
+    }
+    .risk h4 {
+    padding-bottom: 10px;
+    }
+    h4.cfdtitle1 {
+    font-size: 33px;
+    line-height: 39px;
+}
+h4.cfdtitle2 {
+    font-size: 28px;
+}
+.downloadbtn1 {
+    margin-top: 35px;
+}
+.displyno h4{
+    margin-bottom: 10px;
+}
+.islamicleft h4.cfdtitle1 {
+    font-size: 26px;
+}
+.swapschrg_left {
+    padding-left: 23%;
+}
+.swapschrg_left h4.cfdtitle2 {
+    font-size: 23px;
+}
+.swapschrg_ryt p {
+    padding: 9% 17% 13% 11%;
+}
+.swapschrg_left {
+    margin-top: 90px;
+}
+.swaps {
+    padding-bottom: 102px;
+}
+
+
+
+}
+
+@media(max-width:767px) {
+    .clip {
+        clip-path: polygon(0 30%, 100% 0%, 100% 99%, 0% 100%);
+        bottom: -3px;
+        width: 100%;
+        height: 240px;
+        left: 0;
+        right: initial;
+        top: initial;
+    }
+    .foot_mid {
+        padding-top: 30px;
+    }
+    .foot_rht {
+        padding-left: 0px;
+        padding-top: 50px;
+    }
+    .money_inner {
+        width: 100%;
+    }
+    .foot_rht li {
+        display: block;
+        width: 49%;
+    }
+    .feature h1 {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: rotate(0deg);
+        text-align: center;
+        display: block;
+        padding-bottom: 20px;
+    }
+    .rectangle {
+        display: none;
+    }
+    .teambk1 {
+        right: 95px;
+    }
+    .moneydark {
+        right: -44px;
+    }
+    .feature {
+        padding-bottom: 0px;
+    }
+    .hidein {
+        display: none;
+    }
+    /*vishu*/
+    .bredcrum h1 {
+    font-size: 30px;
+    }
+    h4.cfdtitle1 {
+    font-size: 30px;
+}
+h4.cfdtitle2 {
+    font-size: 23px;
+    line-height: 28px;
+
+}
+.risk p {
+    padding-bottom: 18px;
+}
+.swapschrg_left h4.cfdtitle2 {
+    margin-bottom: 15px;
+}
+.swapschrg_left {
+    padding-left: 0;
+    text-align: center;
+}
+.swapschrg_ryt p {
+    padding-bottom: 47px;
+}
+.islamicright img {
+    margin: 0 auto;
+    display: block;
+}
+.noright, .noleft{
+    padding: 0;
+}
+.islamicleft {
+    padding-top: 40px;
+}
+.swaps {
+    padding-bottom: 62px;
+}
+
+}
+
+@media(max-width:560px) {
+    .team_inner .row {
+        padding: 0px 0px;
+    }
+    .money {
+        padding: 20px;
+    }
+    .heading {
+        font-family: 'ProductSansBlack';
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .money p {
+        margin: 10px 0px;
+    }
+    .darkblue,
+    .lightblue,
+    .moneydark,
+    .moneylight {
+        display: none;
+    }
+    .new_btm {
+        padding: 20px 20px 45px 20px;
+    }
+    .slider .slick-next {
+        right: 30%;
+    }
+    .slider .slick-prev {
+        right: 60%;
+    }
+    .feature h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .new_head {
+        padding: 10px 10px;
+    }
+    .new_head h1 {
+        font-size: 30px;
+        line-height: 41px;
+    }
+    .team_img {
+        width: 250px;
+        margin: 0px auto;
+        float: initial;
+        position: relative;
+    }
+    .teambk1 {
+        right: 16px;
+    }
+    /*vishu*/
+    .top_head {
+    padding: 22px 0px;
+}
+    .downbtn {
+    padding: 21px 1px;
+    }
+    .formbtn {
+    width: 100%;
+    }
+
+
+
+
+}
+
+@media(max-width:414px) {
+    .sidepadding {
+        padding: 0px 0px;
+    }
+    .heading {
+        font-size: 24px;
+    }
+    .money a {
+        font-size: 16px;
+    }
+    .whowe {
+        padding-bottom: 0px;
+    }
+    .team_img {
+        width: 190px;
+    }
+    .teambk1 {
+        right: 0px;
+    }
+    .team_img .teammain {
+        position: relative;
+        height: 198px;
+    }
+    .copyright {
+        background-color: #002c55;
+        padding: 20px 0px;
+    }
+    .copyright p {
+        font-size: 15px;
+        line-height: 15px;
+        color: #fff;
+        text-align: center;
+    }
+    .sidenav_inner {
+        width: 100%;
+    }
+    /*vishu*/
+    .risk h4 {
+    font-size: 21px;
+    }
+    .risk p {
+    font-size: 17px;
+    }
+    .bredcrum h1 {
+    font-size: 28px;
+}
+h4.cfdtitle1 {
+    font-size: 28px;
+}
+
+
+
+
+
+}
+
+@media(max-width:320px) {}

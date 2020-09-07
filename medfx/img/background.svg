@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="598" height="634" viewBox="0 0 598 634">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:#fff}.cls-1{stroke:#707070}.cls-2{clip-path:url(#clip-path)}.cls-3{opacity:.1}.cls-5,.cls-6{stroke:none}.cls-6{fill:#3e83c2}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_126" d="M0 0h598v634H0z" class="cls-1" data-name="Rectangle 126" transform="translate(768 747)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_10" class="cls-2" data-name="Mask Group 10" transform="translate(-768 -747)">
+        <g id="Group_51" class="cls-3" data-name="Group 51" transform="translate(0 -3463)">
+            <g id="Group_50" data-name="Group 50" transform="rotate(29 -7684.18 4434.811)">
+                <g id="Polygon_4" class="cls-4" data-name="Polygon 4">
+                    <path d="M296.139 337.5H99.861l-98.124-168 98.124-168h196.278l98.124 168-98.124 168z" class="cls-5" transform="translate(-117.139 -.037)"/>
+                    <path d="M100.722 3L3.474 169.5 100.722 336h194.556l97.248-166.5L295.278 3H100.722M99 0h198l99 169.5L297 339H99L0 169.5 99 0z" class="cls-6" transform="translate(-117.139 -.037)"/>
+                </g>
+                <g id="Polygon_5" class="cls-4" data-name="Polygon 5">
+                    <path d="M295.388 337.5H99.612l-97.876-168 97.876-168h195.776l97.876 168-97.876 168z" class="cls-5" transform="translate(-116.639 230.808)"/>
+                    <path d="M100.474 3L3.472 169.5 100.474 336h194.052l97.002-166.5L294.526 3H100.474M98.75 0h197.5L395 169.5 296.25 339H98.75L0 169.5 98.75 0z" class="cls-6" transform="translate(-116.639 230.808)"/>
+                </g>
+                <g id="Polygon_6" class="cls-4" data-name="Polygon 6">
+                    <path d="M295.388 337.5H99.612l-97.876-168 97.876-168h195.776l97.876 168-97.876 168z" class="cls-5" transform="translate(-116.639 413.967)"/>
+                    <path d="M100.474 3L3.472 169.5 100.474 336h194.052l97.002-166.5L294.526 3H100.474M98.75 0h197.5L395 169.5 296.25 339H98.75L0 169.5 98.75 0z" class="cls-6" transform="translate(-116.639 413.967)"/>
+                </g>
+            </g>
+            <g id="Group_49" data-name="Group 49" transform="rotate(29 -7668.124 4863.65)">
+                <g id="Polygon_4-2" class="cls-4" data-name="Polygon 4">
+                    <path d="M296.139 337.5H99.861l-98.124-168 98.124-168h196.278l98.124 168-98.124 168z" class="cls-5" transform="translate(-117.139 -.037)"/>
+                    <path d="M100.722 3L3.474 169.5 100.722 336h194.556l97.248-166.5L295.278 3H100.722M99 0h198l99 169.5L297 339H99L0 169.5 99 0z" class="cls-6" transform="translate(-117.139 -.037)"/>
+                </g>
+                <g id="Polygon_5-2" class="cls-4" data-name="Polygon 5">
+                    <path d="M295.388 337.5H99.612l-97.876-168 97.876-168h195.776l97.876 168-97.876 168z" class="cls-5" transform="translate(-116.639 230.808)"/>
+                    <path d="M100.474 3L3.472 169.5 100.474 336h194.052l97.002-166.5L294.526 3H100.474M98.75 0h197.5L395 169.5 296.25 339H98.75L0 169.5 98.75 0z" class="cls-6" transform="translate(-116.639 230.808)"/>
+                </g>
+                <g id="Polygon_6-2" class="cls-4" data-name="Polygon 6">
+                    <path d="M295.388 337.5H99.612l-97.876-168 97.876-168h195.776l97.876 168-97.876 168z" class="cls-5" transform="translate(-116.639 413.967)"/>
+                    <path d="M100.474 3L3.472 169.5 100.474 336h194.052l97.002-166.5L294.526 3H100.474M98.75 0h197.5L395 169.5 296.25 339H98.75L0 169.5 98.75 0z" class="cls-6" transform="translate(-116.639 413.967)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
