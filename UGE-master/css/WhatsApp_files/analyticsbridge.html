@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!-- saved from url=(0056)https://extension.mixmax.com/public/analyticsbridge.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <script type="text/javascript">
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";}}();
+  </script>
+  <script>
+    {
+      const conditionallyAnonymousCall = (method, args, mixmaxAnonymize, didReady) => {
+        if (mixmaxAnonymize) {
+          if (!analytics.initialize) {
+            // Bail otherwise - don't recurse infinitely if the API changes.
+            if (!didReady) {
+              analytics.ready(() =>
+                conditionallyAnonymousCall(method, args, mixmaxAnonymize, true)
+              );
+            }
+            return;
+          }
+
+          // This function can be called multiple times, and serves to (re-)configure the
+          // analytics.js instance. We use it to conditionally enable/disable storage/identity
+          // functionality to conditionally anonymize user data.
+          analytics.initialize(
+            {},
+            {
+              user: {
+                // Don't read the anonymousId out of localStorage.
+                localStorageFallbackDisabled: true,
+                // Don't read the userID out of the cookies.
+                persist: false,
+              },
+            }
+          );
+        }
+
+        try {
+          analytics[method].apply(analytics, args);
+        } finally {
+          if (mixmaxAnonymize) {
+            // This function can be called multiple times, and serves to (re-)configure the
+            // analytics.js instance. We use it to conditionally enable/disable storage/identity
+            // functionality to conditionally anonymize user data. This call resets the
+            // localStorageFallbackDisabled and persist to their defaults, so that the next call can
+            // track all that information for product metrics.
+            analytics.initialize({}, {});
+          }
+        }
+      };
+
+      const isAcceptableSource = (e) =>
+        (e.origin === 'https://mail.google.com' ||
+          e.origin === 'chrome-extension://ocpljaamllnldhepankaeljmeeeghnid') &&
+        e.currentTarget === window &&
+        (!window.parent || e.source === window.parent) &&
+        e.data.type === '__MIXMAX_MESSAGING_ANALYTICS';
+
+      // Forward all postMessage calls that have data in the form {method:, arguments:} with the
+      // appropriate type field directly to Segment.
+      window.addEventListener('message', (e) => {
+        if (!isAcceptableSource(e)) return;
+
+        const method = e.data.method,
+          inputArgs = e.data.arguments,
+          args = inputArgs ? Array.from(inputArgs) : [],
+          options = args[args.length - 1],
+          mixmaxAnonymize = !!(options && options.mixmaxAnonymize);
+
+        if (mixmaxAnonymize) delete options.mixmaxAnonymize;
+
+        // If a callback ID is provided, set up a callback to postMessage to the origin, which will
+        // in turn call the original callback
+        if (e.data.callbackProxyId) {
+          args.push(() => {
+            e.source.postMessage({
+              callbackProxyId: e.data.callbackProxyId
+            }, e.origin);
+          });
+        }
+
+        if (analytics[method]) {
+          conditionallyAnonymousCall(method, args, mixmaxAnonymize, false);
+        }
+      });
+
+      /**
+       * Let the parent window know that we've loaded and are ready to receive messages.
+       *
+       * HACK: Hardcode the unchanging chrome extension ID here since utils/Environment is
+       * not available here.
+       *
+       * The user will see an error in the console when this message is sent if they do not yet have
+       * v4.0.0 of the extension. This shouldn't be a problem.
+       */
+      window.parent.postMessage({ method: 'load' }, 'chrome-extension://ocpljaamllnldhepankaeljmeeeghnid');
+    }
+  </script>
+<script data-mixmax-globals="">MIXMAX_STORAGE = {"has_been_onboarded_deepanshu.designoweb@gmail.com_production":true,"has_used_Gmail_2018_deepanshu.designoweb@gmail.com_production":true,"onboarding_started_deepanshu.designoweb@gmail.com_production":true,"extensionVersion":"4.7.4"};</script></head>
+<body>
+
+
+</body></html>

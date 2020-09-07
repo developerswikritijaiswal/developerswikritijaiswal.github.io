@@ -1,0 +1,1658 @@
+@media(max-width:2200px){
+.people {
+    transform: rotate(-21deg);
+    top: 17%;
+    right: 7%;
+}
+}
+@media(max-width:1920px){
+	.people {
+    transform: rotate(-20deg);
+    top: 15%;
+    right: 10%;
+}
+}
+@media(max-width:1560px){
+.stellenBanner .personImg {
+top: -10.5%;
+right: 7.2%;
+width: 500px;
+}
+	
+}
+@media(max-width:1367px){
+.people {
+    transform: rotate(-10deg);
+}
+
+}
+@media(max-width:1199px){
+h2.main {
+    font-size: 35px;
+    line-height: 45px;
+}
+	.konsole {
+    bottom: -17%;
+    right: -11%;
+    transform: scale(0.7);
+
+}
+	.people {
+    transform: rotate(-20deg);
+     top: 22%; 
+    right: 15%;
+}
+	.rightCulture {
+    top: 2%;
+    width: 175px;
+}
+	.leftCulture {
+    top: 40%;
+    width: 175px;
+}
+	.happyIn h2{
+		font-size: 60px;
+	}
+	.gamesInner a {
+    width: 175px;
+    height: 175px;
+}
+	.gamesName {
+    margin: 40px 0px;
+}
+	.marginAll {
+    margin-bottom: 65px;
+}
+	.gameSlidIn .slick-prev{
+		left: 1%;
+	}
+	.gameSlidIn .slick-next{
+		right: 1%;
+	}
+	.pressentLeft {
+    width: 290px;
+    min-height: 310px;
+    padding: 65px 45px 45px 55px;
+}
+	.hiringIn ul li a {
+    padding: 11px 175px;
+
+}
+	
+	/*jyoti footer css*/
+.footerRight ul li{
+padding-right: 43px;
+}
+/*contact css*/
+
+		/*jyoti footer end*/
+	.CultureBox ul li {
+    min-width: 262px;
+}
+	.meetTeamIn ul li {
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+	.knowBtnn {
+    padding-top: 23%;
+}
+	.strongIn ul li {
+    margin-right: 90px;
+}
+	.strongIn ul{
+		text-align: center;
+	}
+	/*jyoti media start*/
+.slideItem {
+width: 309px !important;
+}
+.news_img img{
+width: 231px!important;
+overflow: hidden;
+}
+	.people.people2 {
+    width: 370px;
+    bottom: 15%;
+    right: 17%;
+}
+	.personImg.personImg2 {
+    width: 285px;
+}
+	.mobile.mobilenew{
+		transform: scale(.7);
+	}
+	.konsole.konsole2.konsole2new {
+    position: absolute;
+    bottom: -23%;
+    right: -13%;
+    transform: scale(0.5);
+}
+	.gameBoy.gameBoy2.gameBoy233 {
+    width: 262px;
+    left: 25%;
+    transform: scale(.8);
+    bottom: -4%;
+}
+	
+	/*jyoti media end*/
+}
+@media(max-width:991px){
+
+   /* Home Page Start*/
+   .container {
+    max-width: 100%;
+    padding: 0 30px;
+}
+.nav-item {
+    margin-right: 25px;
+}
+.nav-link {
+    font-size: 16px;
+}
+.bannerBox .searchBox {
+    padding: 0px;
+}
+.servicesSlider .serviceSlide .serviceImages
+{
+    height: 60px;
+    width: 60px;
+}
+.getappInner .col-sm-4, 
+.getappInner .col-sm-8
+{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.getappLeft
+{
+    text-align: center;
+}
+.homeSliders.slick-prev {
+    left: 43%;
+}
+.homeSliders .slick-next {
+    right: 43%;
+}
+ /* Home Page End*/
+.stellenBanner .star, .stellenBanner .partial2{
+display:none;
+}
+.stellenBanner .partial {
+left: 0;
+top: 18%;
+width: 115px;
+}
+.topCookie {
+top: 58%;
+left: 10%;
+}
+h2.main {
+    font-size: 30px;
+    line-height: 40px;
+}
+	.happyCustomer {
+    padding: 0px 30px;
+}
+	.happyIn h2 {
+    font-size: 45px;
+}
+.rightCulture {
+    top: 10%;
+    width: 135px;
+}
+	.leftCulture {
+    top: 44%;
+    width: 135px;
+}
+	.topspace.marginAll {
+		margin-bottom: 50px;
+	}
+	.gamesName .col-sm-3{
+		flex: 0 0 50%;
+    max-width: 50%;
+	}
+	.gamesName .col-sm-3:nth-child(3),.gamesName .col-sm-3:nth-child(4){
+		margin-top: 50px;
+	}
+	.customerIn .customAll p{
+		font-size: 21px;
+	}
+	.pressetImg {
+    display: flex;
+    justify-content: center;
+}
+	.pressentLeft {
+
+    padding: 65px 55px 45px 70px;
+}
+	.hiringIn ul li a {
+    padding: 11px 15px;
+}
+	.paddingPara {
+    padding: 30px 60px 35px;
+    text-align: center;
+}
+	.gamesName {
+    margin: 35px 0px 0px;
+}
+	.posicon{
+    bottom: -65px;
+}
+.dtls_rytimg {
+    height: 127px;
+    bottom: 60%;
+    top: initial;
+}   
+.posicon2 {
+    bottom: initial;
+    height: 60px;
+    top: -20px;
+    }
+    .imprint_rytimg img{
+        height: 100%;
+    }
+	/*jyoti footer css*/
+.footer{
+padding:46.7px 15px 0px 15px;
+}
+.footerRight ul li{
+padding-right: 34px;
+}
+/*news dtls page css*/
+.newsdtl_content{
+width: 75%;
+}
+/*contact page css*/
+.contact-form{
+padding: 40px 45px;
+}
+.applycheckbox label{
+font-size: 13px;
+}
+.sales_ryt {
+padding-right: 0;
+}
+.man_img {
+height: 92px;
+}
+/* .con_lftimg{
+height: 100px;
+} */
+/*news slick css*/
+.newsSlider .slick-prev {
+left: 40%;
+}
+	.talentIn{
+		width: 100%;
+	}
+	.leftCulture.leftCulture2 {
+    width: 135px;
+}
+	h2.mainHeading{
+		font-size: 25px;
+	}
+	.bootIn a{
+		height: 125px;
+		width: 125px;
+	}
+	.bootIn {
+    display: inline-block;
+    margin-right: 45px;
+    margin-top: 45px;
+}
+	.customerSay.customerSay2 .customerIn .customAll p {
+    font-size: 27px;
+}
+	.cultureIn p {
+    padding: 25px 95px;
+}
+.CultureBox ul li {
+    min-width: 50%;
+    display: flex;
+    justify-content: center;
+}
+	.CultureBox ul li a{
+		min-width: 270px;
+		width: auto;
+	}
+	.CultureBox ul li:nth-child(2), .CultureBox ul li:nth-child(5) {
+    margin: 0px;
+    margin-bottom: 40px;
+}
+	.meetTeamIn ul li{
+		width: 20%;
+	}
+	.meetTeamIn ul li:nth-child(4n + 4){
+		margin-right: 0;
+	}
+	.teamImg {
+    width: 130px;
+    margin: 0 auto;
+}
+	.meetTeamIn ul li.marginzero {
+     margin-bottom: 25px; 
+}
+	.meetTeamIn ul{
+		display: block;
+		width: 100%;
+		float: left;
+		text-align: center;
+	}
+	.knowRight {
+    padding: 40px 0px;
+    position: relative;
+}
+	.strongIn ul li {
+    margin-right: 50px;
+}
+	.firstImage {
+    width: 100px;
+}
+	.SecondImage {
+    position: absolute;
+    bottom: 36%;
+    left: 10%;
+}
+}
+@media(max-width:767px){ 
+    
+    /* Sidenav Start */
+    .navbar-expand-md{
+      flex-direction: row-reverse;
+    }
+    .header
+    {
+        padding: 15px 0;
+    }
+
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+        position: absolute;
+        left: 0;
+    }
+
+.navbar-expand-md .navbar-collapse {
+    position: fixed;
+    width: 100%;
+       top: -113%;
+    left: 0px;
+    background: var(--whiteColor);
+    height: 100%;
+    transition: all 0.3s ease;
+    display: initial !important;
+    margin-top: 68px;
+/*    padding: 20px 12px 0px 12px;*/
+    z-index: 9;
+    box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5);
+text-align: center
+    } 
+	.nav-link {
+    font-size: 18px;
+		line-height: 33px;
+		padding-top: 10px !important;
+		padding-bottom: 6px !important;
+	text-transform: uppercase !important;
+
+	}
+	.nav-item{
+		border-bottom: 1px solid #e7e7e7;
+	}
+	.header{
+		z-index: 999;
+	}
+	.headerUl .nav-link::after {
+    bottom: -5px;
+}
+    .nav-link:hover, .nav-link:focus
+    {
+        border-bottom: none;
+    }
+    .navbar-expand-md .navbar-nav {
+        flex-direction: column;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin-bottom: 5px;
+    }
+    .headerBox 
+    {
+        display: block !important;
+        float: left !important;
+    }
+    .navbar-expand-md .navbar-nav .nav-link
+    {
+        padding: 0;
+		display: inline-block;
+    }
+
+    .navbar-expand-md .navbar-nav .dropdown-menu
+    {
+        position: relative;
+        background: transparent;
+        border: none;
+        padding-bottom: 0;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu.show
+    {
+        transition: all 0.3s ease;
+    }
+    
+    .dropdown-item
+    {
+        color: #fff;
+    }
+    .userBox {
+        margin-left: 0;
+        position: relative;
+        margin-right: 0px;
+    }
+    .nav-item
+    {
+        margin-right: 0;
+    }
+    .headerBox
+    {
+        width: 100%;
+    }
+    .selContBox li {
+width: 46%;
+}
+.stellenCont .imprint_content.btmStl {
+padding: 0;
+}
+h2.mainHeading{
+font-size: 18px;
+}
+.stellenCont .container {
+padding: 0 15px;
+}
+.topspace {
+margin-top: 68px;
+}
+h2.main {
+font-size: 35px;
+}
+.bannerInner h2 span{
+padding: 0 10px;
+}
+	.hiringIn ul li a span.hirPara{
+		display: none;
+	}
+	.hiringIn ul li a span:first-child{
+		min-width: auto;
+	}
+	.hiringIn ul li a .rem{
+		display: none;
+	}
+	.rightCulture {
+    top: 13%;
+		width: 125px;
+
+}
+	.happyIn h2 {
+    font-size: 34px;
+}
+	.happyCustomer {
+    padding: 0px 0px;
+}
+	.happyCustomer p {
+    padding-top: 15px;
+}
+	.leftCulture {
+    top: 43%;
+    width: 125px;
+}
+	.customerIn .customAll p {
+    font-size: 18px;
+}
+	h2.main {
+    font-size: 25px;
+}
+	.konsole {
+    bottom: -24%;
+    right: -24%;
+    transform: scale(0.5);
+}
+	.pixel {
+    transform: scale(1);
+}
+	.people {
+    transform: rotate(-20deg);
+    top: 35%;
+    right: 18%;
+    width: 200px;
+}
+	.gameBoy {
+    position: absolute;
+    bottom: -1%;
+    left: 25%;
+    transform: scale(.9);
+}
+    /* Sidenav End */
+	/*jyoti footer css*/
+.logofooter{
+max-width: 100%;
+flex: 100%;
+text-align: center;
+}
+.footerAll{
+flex-direction: column-reverse;
+text-align:center;
+}
+.footerLeft{
+margin: 60px 0px;
+position: relative;
+}
+.footer_layer {
+display: block;
+margin-top: 65px;
+}
+/*news dtls page css*/
+.newsdtl_content {
+width: 100%;
+}
+.dtls_lftimg{
+bottom: 40%;
+}
+.dtls-button{
+padding:0px 85px;
+}
+.sales_dtls{
+margin-bottom: 40px;
+}
+p.mainHeading br {
+display: block!important;
+}
+.showmail{
+display: inline-block;
+}
+.hidemail{
+display: none;
+}
+ul.cntct_lst li {
+display: block;
+padding-right: 0;
+}
+ul.cntct_lst {
+margin: 20px 0px;
+}
+li.cntc-mail {
+margin-bottom: 20px;
+}
+.con_lftimg {
+bottom: inherit;
+top: 25%;
+}
+.con_rytimg{
+height: 100px;
+bottom: initial;
+top: 27%!important;
+}
+.applycheckbox .form-group{
+margin-bottom: 0px;
+}
+.applycheckbox label{
+padding-bottom: 0px;
+display: inline-flex;
+}
+.applycheckbox .form-group label:before {
+
+padding: 8px;
+height: 8px;
+top: 0px;
+}
+/*apply css*/
+.file-input{
+margin:0px 0px 15px 0px;
+}
+.modal-body .paddingRight {
+padding-right: 15px;
+}
+col-md-6 .linkdinurl{
+margin-top:15px;
+}
+/*23 css*/
+.imprint_rytimg{
+top:41.5%;
+height: 100px;
+}
+.slideItem {
+    width: 351px !important;
+    margin: 0 auto;
+}
+	.gSlidImg {
+    width: auto;
+    margin: 0 auto;
+}
+.popIner.popIner2 .paddingPara {
+    padding: 30px 20px 34px;
+}
+	.rightCulture.rightCulturenew {
+    top: 30%;
+    width: 125px;
+}
+	talentIcon {
+    padding-top: 25px;
+}
+	.talentLeft {
+    width: 185px;
+    margin-right: 50px;
+}
+	.talentIn {
+    width: auto;
+    min-height: 435px;
+}
+	.bootIn:nth-child(6) {
+    margin-left: auto;
+}
+	.bootIn:nth-child(5) {
+    margin-right: 45px;
+}
+	.bootIn {
+    display: inline-block;
+    margin-right: 35px;
+}
+	.boosterAll{
+		text-align: center;
+	}
+	.customerSay.customerSay2 .customerIn{
+		padding: 0px 25px;
+	}
+	.customerSay.customerSay2 .customerIn .customAll p {
+    font-size: 22px;
+}
+	.customerSay.customerSay2 .customerIn .customAll p br{
+		display: none;
+	}
+	customerSay.customerSay2 .customerIn .customAll p::before {
+    font-size: 45px;
+}
+	.CultureBox ul li {
+    min-width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+	.CultureBox ul li a {
+    min-width: 225px;
+	}
+.CultureBox ul li:nth-child(2), .CultureBox ul li:nth-child(5) {
+	margin: 0;
+    margin-bottom: 25px;
+}	
+	.meetTeamIn ul li {
+    width: 27%;
+}
+	.meetTeamIn ul li:nth-child(4n + 4) {
+     margin-right: 25px; 
+}
+	.customerSay.customerSay2 .customerIn{
+		min-height: 340px;
+	}
+	.meetTeam {
+    padding: 55px 0px;
+}
+	.mmetHead h2 {
+    padding-bottom: 50px;
+}
+	.knowMorew .col-sm-6{
+		flex: 0 0 100%;
+    max-width: 100%;
+		width: 100%;
+		padding: 0;
+	}
+	.bannerIn.bannerInabout{
+		min-height: 330px;
+	}
+	.strongIn ul li {
+    margin-right: 10px;
+    width: 30%;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+}
+@media(max-width:560px){
+.selContBox li {
+width: 100%;
+background: inherit;
+padding:0;
+clip-path: initial;
+margin: 0 0px 25px 0;
+}
+.selContBox{
+background: var(--bgYellow);
+clip-path:polygon(100% 0%, 100% 100%, 0% 95%, 0% 7%);
+padding: 50px 10px 30px;
+margin-bottom: 30px;
+}
+.stlContTop h2.mainHeading {
+margin-bottom: 18px;
+}
+.bannerInner h2 span{
+padding: 0 8px;
+	width: 100%;
+}
+h2.main{
+line-height: 1.52;
+letter-spacing: 0.7px;
+font-size: 25px;
+}
+.stellenBanner .personImg {
+top: 2.5%;
+right: 0.2%;
+width: 435px;
+}
+.btmCookie {
+bottom: 33%;
+right: -7%;
+}
+.topCookie {
+top: 58%;
+left: 10%;
+width: 35px;
+}
+.bannerHead {
+bottom: -51%;
+}
+.stellenBanner .personImg {
+top: 3.8%;
+right: -28px;
+width: 435px;
+}
+.stellenBanner .starText {
+width: 73px;
+top: 9%;
+right: -9px;
+}
+.stellenBanner .starBig {
+top: -22px;
+right: -61px;
+transform: rotate(70deg);
+}
+.stlContTop a.sndbutton{
+margin: 20px auto;
+}
+.paddingPara {
+    padding: 30px 15px 35px;
+    text-align: center;
+}
+	.rightCulture {
+    top: 10%;
+    width: 100px;
+}
+	.leftCulture {
+    top: 60%;
+    width: 100px;
+}
+	.happyCustomer{
+		display: block;
+	}
+	.happyIn h2 {
+    font-size: 66px;
+    text-align: center;
+		    margin-bottom: 35px;
+}
+	..happyCustomer p{
+		padding-top: 0;
+	}
+	.happyIn{
+		margin-bottom: 65px;
+	}
+	.happyIn:last-child{
+		margin-bottom: 0;
+	}
+	.customerIn .customAll p {
+    font-size: 16px;
+}
+	.customerIn .customAll p::before {
+
+    left: -10px;
+    font-size: 31px;
+}
+	.personImg{
+		display: none;
+	}
+	.gameBoy{
+		display: none;
+	}
+	.partial2{
+		display: none;
+	}
+	.starBig {
+    top: -5%;
+    right: -8%;
+    transform: rotate(55deg);
+		    width: 175px
+}
+	.starText {
+    top: 7%;
+    right: -5px;
+    width: 75px;
+}
+	.partial {
+    left: 0;
+    top: 25%;
+    transform: rotate(60deg) scale(1.5);
+}
+	.star {
+    top: 35%;
+    left: 26%;
+    width: 45px;
+}
+	.konsole {
+    bottom: -6%;
+    right: -32%;
+    transform: scale(0.5);
+}
+	.people {
+    transform: rotate(0deg);
+    top: 25%;
+    right: 14%;
+    width: 175px;
+}
+	.mobiView{
+		display: block;
+	}
+	.desktopview{
+		display: none;
+	}
+	.bannerInner h2 span {
+    margin-bottom: 5px;
+}
+	/* jyoti footer css*/
+.footerRight ul li {
+padding-right: 37px;
+padding-bottom: 35px;
+display: inline-flex;
+align-items: center;
+}
+.footerRight ul{
+text-align:center;
+}
+.footer_layer{
+margin-top: 25px;
+}
+.copyright p{
+padding-top: 0px;
+width: 78%;
+margin: 0 auto;
+}
+span.linkdinlist a i {
+font-size: 25px;
+padding-left: 10px;
+}
+/*imprint css*/
+.imprint_trademarks {
+padding: 100px 0px;
+}
+.mbnone{
+display: none;
+}
+.imprint_trademarks{
+width:67%;
+margin: 0 auto;
+}
+
+.imprint_lfttimg{
+bottom: 32%;
+height: 100px;
+}
+.man_img{
+height: 100px;
+}
+
+.dtl-text{
+margin-top: 28px;
+
+}
+p.dtlspara {
+margin: 60px 0px 40px 0px;
+}
+.dsktopdtl{
+display: none;
+}
+.mbldtl{
+display: block;
+}
+p.mainHeading{
+line-height: 28px;
+}
+.posicon{
+top:-54px;
+}
+.dtls-button{
+margin-top:146px;
+}
+.dtl-box {
+    min-height: initial;
+    height: 360px;
+}
+.dtl-img{
+width: 300px;
+height: 200px;
+}
+.dtls-button {
+padding: 0px;
+}
+.dtlimg-bg{
+background:none;
+}
+/*contact css*/
+.contact-form {
+width: 100%;
+}
+/*jyoti css 23*/
+	.gSlidImg.gSlidImg2 {
+    width: auto;
+}
+	.konsole.konsolenew {
+    bottom: -17%;
+    right: -32%;
+    transform: scale(0.6);
+}
+	.people.peoplenew {
+    width: 200px;
+}
+	.leftCulture.leftCulture2{
+		bottom: -10%;
+	}
+	.talentLeft {
+    width: auto;
+    margin-right: 25px;
+}
+	.talentIn {
+    min-height: 370px;
+}
+	.bootIn {
+    display: inline-block;
+    margin-right: 25px;
+    width: 45%;
+}
+	.bootIn:nth-child(2n + 2){
+		margin-right: 0;
+	}
+	.bootIn a {
+    margin: 0 auto;
+}
+	.bootIn:nth-child(5) {
+     margin-right: 25px; 
+}
+	.customerSay.customerSay2 .customerIn .customAll p::before {
+    font-size: 30px;
+    top: 11px;
+}
+	.cultureIn p {
+    padding: 20px 0px;
+}
+	.CultureBox ul li {
+    min-width: 100%;
+}
+	.meetTeamIn ul li {
+    width: 42%;
+}
+	.strongIn ul li {
+    width: 29%;
+
+}
+	.rightCulture.rightCultureAbout {
+    top: 13%;
+    width: 100px;
+}
+	.leftCulture.leftCultureAbout {
+    top: 58%;
+    width: 100px;
+}
+}
+@media(max-width:414px){
+    .stellenCont .imprint_content p {
+font-size: 13px;
+}
+.selContBox li {
+margin: 0 0 20px;
+}
+.stellenBanner .partial {
+top: 15%;
+width: 90px;
+}
+.stellenBanner .bannerIn {
+min-height: 365px;
+}
+.stellenBanner .personImg {
+top: 14px;
+right: -28px;
+width: 407px;
+}
+	.partial {
+    left: -1%;
+}
+	.star {
+    top: 38%;
+    left: 26%;
+    width: 35px;
+}
+	.starBig {
+    top: -8%;
+    right: -13%;
+    transform: rotate(69deg);
+    width: 175px;
+}
+	.people {
+    transform: rotate(0deg);
+    top: 30%;
+    right: 15%;
+    width: 160px;
+}
+.konsole {
+    right: -33%;
+}
+	.topspace.marginAll {
+    margin-bottom: 25px;
+}
+	.paddingPara {
+    padding: 20px 0px 35px;
+}
+.jikjakLine {
+    position: absolute;
+     right: 9%;
+    bottom: -15%;
+}
+	.happyCustomer {
+    display: block;
+    margin-top: 60px;
+}
+	.happyCustomer {
+    display: block;
+    margin-top: 85px;
+}
+	.happyIn h2 {
+    font-size: 66px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+	.popIner{
+		position: relative;
+	}
+	.rightCulture {
+    top: 15%;
+    width: 110px;
+}
+
+.leftCulture {
+    top: 62%;
+    width: 110px;
+}
+	.gamesName {
+    margin: 120px 0px 0px;
+}
+	.gamesInner a span{
+		width: 90px;
+	}
+		.gamesInner a span img{
+		width: 100%;
+			object-fit: cover;
+	}
+	.gamesInner a {
+    width: 140px;
+    height: 140px;
+}
+	.gamesName .col-sm-3:nth-child(3), .gamesName .col-sm-3:nth-child(4) {
+    margin-top: 35px;
+}
+	.footerRight ul li {
+padding-right: 28px;
+}
+.copyright p{
+width: 96%;
+}
+/*imprint css*/
+.imprint_trademarks {
+width: 100%;
+}
+/*news dtl css*/
+
+/* .dtl-box {
+height: 309px;
+} */
+
+.dtls_rytimg{
+bottom: 64.5%;
+}
+.img-txt{
+font-size: 18px;
+}
+.imprint_lfttimg{
+bottom: 33%;
+}
+p.dtlspara{
+margin-bottom: 65px;
+}
+.contact-form {
+padding: 40px 31px;
+}
+.sales_txt p{
+font-size: 14px;
+}
+.sales_img{
+height: 100px;
+}
+.sales_img img{
+height: 100%;
+object-fit: cover;
+}
+.sales-contacts{
+padding: 56px 20px 20px 0px;
+}
+/*apply css*/
+.applymodal h4{
+font-size: 20px;
+padding-top: 20px;
+}
+.applymodalcontent .modal-body{
+margin-top: 0px;
+}
+.applymodalcontent .modal-body{
+padding:1rem 20px;
+}
+/*jyoti css 23*/
+.imprint_rytimg {
+    top: 32%;
+}
+.contact-form{
+    clip-path: polygon(95% 4%, 100% 100%, 0% 95%, 5% 8%);
+}
+.contact-text{
+    margin: 30px 0px 30px 0px;
+}
+.img-txt{
+    margin-top: -52px;
+}
+.dtl-box{
+    height: 303px;
+}
+.dtl-img {
+    width: 200px;
+    height: 159px;
+}
+.dtls_lftimg {
+    bottom: 31%!important;
+}
+	.paddingPara span{
+		display: block;
+	}
+	.paddingPara span:nth-child(2){
+		padding-bottom: 15px;
+	}
+	.jikjakLine.jikjakLine2{
+	    left: 3%;
+  top: 63%;
+		bottom: unset;
+	}
+	.jikjakLine.jikjakLine3{
+	display: block;
+		top: -15%;
+		left: 10%;
+}
+	.gamesSlider {
+    position: relative;
+    margin-top: 40px;
+}
+.gSlidImg {
+    width: auto;
+}
+.navbar-brand {
+    padding: 0;
+    padding-left: 35px;
+}
+	.navbar-expand-md {
+    justify-content: center;
+     flex-direction:none; 
+}
+	.gameSlidIn  .slick-dots li ,.gameSlidIn2  .slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background: transparent;
+    border: 1px solid var(--bgPink);
+    padding: 0;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.gameSlidIn	.slick-dots li button:before,.gameSlidIn2 .slick-dots li button:before {
+    font-family: 'slick';
+    font-size: 6px;
+    line-height: 20px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    width: 10px;
+    height: 10px;
+    content: '';
+    text-align: center;
+    opacity: .25;
+}
+.gameSlidIn .slick-dots li.slick-active button:before ,.gameSlidIn2 .slick-dots li.slick-active button:before{
+		    opacity: 1;
+    color: black;
+    background: var(--bgPink);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    font-size: 0;
+    line-height: 0px;	
+	}
+	
+	.gameSlidIn .slick-dots ,.gameSlidIn2 .slick-dots {
+    position: absolute;
+    bottom: 40%;
+    left: 0%;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+	.customMob{
+	display: block;
+		    padding-bottom: 30px;
+}
+	.customerIn .customAll h2{
+		display: none;
+	}
+	.customerIn .customAll p br{
+		display: none;
+	}
+	.customerIn {
+    background: var(--bgLightPink);
+    clip-path: polygon(95% 0%, 100% 100%, 0% 90%, 5% 15%);
+    min-height: 200px;
+    padding: 30px 55px 35px;
+}
+	.customerIn .customAll p::before {
+    left: -32px;
+    font-size: 30px;
+}
+	.pressest h2{
+		display: none;
+	}
+.pressentLeft h2{
+    display: block;
+    color: var(--whiteColor);
+    padding-bottom: 50px;
+    text-transform: uppercase;
+    padding-top: 15px
+}
+	.customerSay.marginAll{
+		margin-bottom: 40px;
+	}
+	.pressestAl{
+		padding-top: 0;
+	}
+	.pressentLeft {
+    padding: 40px 55px 100px 70px;
+}
+	.pressentLeft p::before {
+    top: -30px;
+}
+	.pressestAl .slick-prev{
+		left: 2%;
+	}
+		.pressestAl .slick-next{
+		right: 2%;
+	} 
+		.pressestAl  .slick-dots li ,.allPat .slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background: transparent;
+    border: 1px solid var(--whiteColor);
+    padding: 0;
+    border-radius: 50%;
+    cursor: pointer;
+}
+	.allPat .slick-dots li{
+		border-color: var(--bgPink);
+	}
+.pressestAl	.slick-dots li button:before ,.allPat .slick-dots li button:before {
+    font-family: 'slick';
+    font-size: 6px;
+    line-height: 20px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    width: 10px;
+    height: 10px;
+    content: '';
+    text-align: center;
+    opacity: .25;
+	background: transparent;
+}
+.pressestAl .slick-dots li.slick-active button:before ,.allPat .slick-dots li.slick-active button:before{
+		    opacity: 1;
+    color: black;
+    background: var(--whiteColor);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    font-size: 0;
+    line-height: 0px;	
+	}
+	.allPat .slick-dots li.slick-active button:before{
+	  background: var(--bgPink);	
+	}
+	.pressestAl .slick-dots {
+    position: absolute;
+    bottom: 12%;
+    left: 0%;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+	.commonBtn{
+		min-width: 151px;
+	}
+	.newIn h2{
+		text-transform: uppercase;
+	}
+	.readMoreMob{
+    display: block;
+    position: relative;
+    text-align: center;
+		padding-bottom: 85px;
+}
+	.jikjakLine.jikjakLine4{
+	    right: 15%;
+    bottom: -5%;
+	}
+.marginAll{
+		margin-bottom: 40px;
+	}
+	.hiringIn ul li a{
+		margin-bottom: 4px;
+	}
+ .gameSlidIn2 .slick-dots {
+    bottom: 28%;
+
+}
+	.gameSlidIn .slick-prev,.gameSlidIn .slick-next{
+		top: 30%;
+	}
+	.gameSlidIn .slick-dots{
+		bottom: 38%;
+	}
+	.gamesSlid p{
+		padding-top: 35px;
+	}
+	.gameSlidIn2 .slick-dots {
+    bottom: 30%;
+}
+		.bannerIn.bannerIn3 {
+    background: var(--bgYellow);
+    min-height: 425px;
+}
+	.konsole.konsolenew {
+    bottom: -12%;
+    right: -32%;
+    transform: scale(0.7);
+}
+	.people.peoplenew {
+    top: 18%;
+    right: 14%;
+    width: 160px;
+    transform: scale(1.6);
+}
+	.pixel.pixelnew {
+    bottom: -13%;
+}
+	.rightCulture.rightCulturenew {
+    top: 29%;
+    width: 110px;
+    z-index: 9;
+}
+	.mobPara{
+		display: none;
+	}
+.SecondImage {
+    bottom: -8%;
+    left: -1%;
+    transform: scale(.6);
+}
+	.leftCulture.leftCulture2 {
+    width: 110px;
+		    bottom: -14%;
+}
+	.jikjakLine.jikjakLine88 {
+    position: absolute;
+    right: 14%;
+    bottom: -8%;
+}
+	.talentIn {
+    min-height: 370px;
+    clip-path: initial;
+		padding-bottom: 50px;
+}
+	.talentAll .container{
+		padding: 0;
+	}
+	.talentIn h2{
+		padding-top: 35px;
+	}
+	.talentIcon{
+		display: block;
+	}
+	.talentLeft{
+		width: 232px;
+		margin: 0 auto;
+	}
+	.talentRight ul{
+		text-align: center;
+	}
+	.bootIn a {
+    background: var(--bgPink);
+}
+	.customerSay.customerSay2 .customerIn{
+		display: block;
+		    padding: 40px 0px;
+	}
+	.customGirl{
+		text-align: center;
+	}
+	.customerSay.customerSay2 .customerIn .customAll p {
+     font-size: 36px; 
+    padding: 30px 44px 0px;
+}
+	.customerSay.customerSay2 .customerIn .customAll p::before {
+    font-size: 55px;
+    top: -12%;
+    left: 12%;
+}
+	.CultureBox ul li a {
+    min-width: 100%;
+}
+	.teamImg {
+    width: 105px;
+}
+	.meetTeamIn ul li {
+    width: 40%;
+}
+	.knowBtnn {
+    background-size: 52%;
+}
+	.rightCulture.rightCultureAbout {
+    top: 16%;
+    width: 100px;
+}
+
+	.gamesName.gamesNamenew .col-sm-3{
+		    flex: 0 0 100%;
+    max-width: 100%;
+	}
+	.gamesName.gamesNamenew .col-sm-3 .gamesInner a {
+    width: 190px;
+    height: 190px;
+}
+	.leftCulture.leftCultureAbout {
+    top: 48%;
+    width: 100px;
+}
+	.jikjakLine.jikjakLineabu {
+      right: 14%;
+    bottom: 49%;
+}
+	.gamesName.gamesNamenew .col-sm-3:first-child{
+		margin-bottom: 25px;
+	}
+	.strongPtr {
+    padding: 40px 0px;
+}
+	.strongPtr.marginAll{
+		margin-bottom: 0;
+	}
+.firstImage {
+    width: 70px;
+    top: 45%;
+    right: 79%;
+}
+	.knowBtnn {
+    padding-top: 10%;
+}
+	.strongIn ul {
+    padding-top: 55px;
+}
+	.strongPtr{
+		min-height: 240px;
+	}
+	.pixel.pixel2 {
+    transform: scale(.7);
+}
+	.star.starab{
+		display: none;
+	}
+	.applycheckbox .form-group label:before {
+    top: 5px;
+    left: -8px;
+}
+	.contact_head h2{
+		font-size: 15px;
+	}
+	.konsole.konsolecontact {
+    right: -33%;
+    bottom: -16%;
+    transform: scale(0.6);
+}
+	.people.peoplecont {
+    transform: rotate(0deg);
+    top: 36%;
+    right: 17%;
+    width: 160px;
+}
+	.personImg.personImgcontact {
+    display: block;
+    transform: scale(.6);
+    top: -10%;
+    left: 1%;
+}
+	.konsole.konsole2.konsole2new {
+    position: absolute;
+    bottom: -27%;
+    right: -43%;
+    transform: scale(0.4);
+}
+	.people.people222 {
+    bottom: 13%;
+    right: 10%;
+    transform: scale(.5);
+}
+	.mobile.mobilenew {
+    transform: scale(.6);
+    top: 19%;
+    right: 15%;
+}
+	.star.star2{
+		display: none;
+	}
+	.partial.partial12 {
+    transform: rotate(60deg) scale(1);
+    top: 19%;
+    left: -6%;
+}
+	.personImg2.personImg2new{
+		    display: block;
+    transform: scale(.5);
+    top: -15%;
+    left: -10%;
+	}
+	.bannerInner.bannerInner2.bannerInner2new .bannerHead h2 {
+    top: 44%;
+    display: inline-block;
+}
+	.bannerInner.bannerInner2.bannerInner2new .bannerHead h2 span{
+		display: inline;
+	}
+	.slideItem {
+    width: auto !important;
+    margin: 0 auto;
+}
+	.newsSlider .slick-next {
+    right: 25%;
+}
+	.games-news {
+    padding-bottom: 75px;
+}
+	.news_img {
+    width: 100%;
+    clip-path: polygon(90% 0%, 100% 100%, 0% 90%, 7% 10%);
+
+}
+	.newsSlider .col-sm-4{
+		padding: 0;
+	}
+	.breadcrum .container{
+		padding-left: 15px;
+	}
+.breadcrumPath .breadcrumb {
+    position: absolute;
+    top: -10px;
+    background: var(--whiteColor);
+}
+	.breadcrum {
+    min-height: 30px;
+}
+	.bootIn {
+    display: inline-block;
+    margin-right: 25px;
+    width: 42%;
+}
+}
+
+
+@media (max-width: 362px){
+.gameSlidIn2 .slick-dots {
+    bottom: 40%;
+}
+}
+@media (max-width: 340px){
+.gamesInner a {
+    width: 125px;
+    height: 125px;
+}
+	.jikjakLine.jikjakLine3 {
+    display: block;
+    top: -10%;
+    left: 10%;
+}
+	.gameSlidIn .slick-dots {
+    bottom: 45%;
+}
+	.gameSlidIn2 .slick-dots {
+    bottom: 46%;
+}
+
+}
