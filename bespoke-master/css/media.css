@@ -1,0 +1,2127 @@
+@media(max-width:1920px) {
+    .offerUl p{
+        cursor: pointer;
+    }
+    .offerUl::before{
+        width: 310px;
+    }
+    .galeryAll .slick-dots li:first-child.slick-active button:before{
+        left: 12px;
+    }
+    .contAb h2{
+        text-align: left;
+    }
+    .slick-dots{
+        bottom: 0;
+    }
+    .happyYou {
+    padding-bottom: 35px;
+}
+    .fab2{
+        display: none;
+    }
+}
+@media(max-width:1199px) {
+    .contAb {
+        padding: 0 60px;
+    }
+
+    .workFirst:nth-child(2)::before {
+        right: -165px;
+    }
+
+    .workFirst:nth-child(2)::after {
+        left: -150px;
+    }
+
+    .workAll {
+        justify-content: space-around;
+    }
+
+    .lookHeading h2 {
+/*        font-size: 45px;*/
+        padding-bottom: 30px;
+    }
+
+    .lookSecond {
+        margin: 0px 20px;
+    }
+
+    .lookthirdinner {
+        margin-bottom: 20px;
+    }
+
+    .lookFirst {
+        height: 600px;
+    }
+
+    .lookHeading {
+        top: -8px;
+    }
+
+    .dressImg {
+        height: 325px;
+    }
+
+    .bespLeft p {
+        padding-bottom: 15px;
+        font-size: 17px;
+    }
+
+    .besplowFirst {
+        width: 28%;
+        height: 390px;
+    }
+
+    .besplowSecond {
+        width: 28%;
+        height: 390px;
+        margin: 0px 5px;
+    }
+
+    .besplowThird {
+        width: 41.9%;
+        height: 390px;
+    }
+
+    .bespLower {
+        margin-top: 10px;
+    }
+
+    .customRight {
+        width: 58%;
+    }
+
+    .customLeft {
+        width: 41%;
+        height: 445px;
+        padding: 30px;
+    }
+
+    .custrightUpper {
+        height: 218px;
+        margin-bottom: 10px;
+        padding: 25px;
+    }
+
+    .customInner h2 {
+        padding-bottom: 35px;
+    }
+
+    h2.main {
+        font-size: 40px;
+    }
+
+    .fabrics3 {
+        padding: 0px 15px;
+    }
+
+    .premium {
+        height: 210px;
+        padding: 25px;
+        width: 49.5%;
+    }
+
+    .luxury {
+        height: 210px;
+        padding: 25px;
+    }
+
+    .happyYou .slickslide .slick-slide.slick-center span {
+        width: 435px;
+        transform: scale(1);
+    }
+
+    .happyYou .slickslide .slick-slide.lt1 span {
+        opacity: .7;
+        transform: translate(-30%, -23%) scale(.8);
+    }
+
+    .happyYou .slickslide .slick-slide.gt1 span {
+        opacity: .7;
+        transform: translate(75%, -21%) scale(.8);
+    }
+
+    .happyYou .slick-slider .slick-track,
+    .happyYou .slick-slider .slick-list {
+        padding: 75px 0px 0px;
+    }
+
+    .minimalBox {
+        padding: 15px;
+    }
+
+    .prolftSlick .slick-dots li {
+        width: 12px;
+        height: 12px;
+        margin: 0 5px;
+        border: 1px solid #000;
+        border-radius: 50%;
+    }
+
+    .prolftSlick .slick-dots li.slick-active button:before {
+        opacity: 1;
+        color: black;
+        background: #000;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        font-size: 0;
+        line-height: 0px;
+    }
+
+    .prolftSlick .slick-dots {
+        bottom: -40px;
+    }
+
+    .pureYou {
+        width: 425px;
+        height: 245px;
+        padding: 20px;
+    }
+
+    .socialIcon {
+        display: none;
+    }
+
+    .appModal .modal-dialog {
+        min-width: 830px;
+    }
+
+    .modalRight {
+        padding: 15px 10px;
+    }
+
+    .bannerFirst {
+        height: auto;
+    }
+
+    .container {
+        max-width: none;
+    }
+
+    .bannerCont {
+        left: 15px;
+    }
+
+    .bannerCont h2 {
+        font-size: 52px;
+    }
+
+    .bannerAb.bannerAb3 .bannerCont h2 {
+        font-size: 115px;
+    }
+
+    .nationVideo {
+        width: 88%;
+        height: 500px;
+        margin: 0 auto;
+    }
+
+    .collectImg:nth-child(3) {
+        width: 32.9%;
+    }
+
+    .collectImg:nth-child(2) {
+        margin: 0% .5%;
+    }
+
+    .collectImg:first-child,
+    .collectImg:nth-child(2) {
+        width: 33%;
+        float: left;
+        height: 310px;
+    }
+
+    .collectImg:nth-child(4) {
+          width: 66.6%;
+        height: 317px;
+        margin-top: .4%;
+
+
+    }
+
+    .womenAllPadding {
+        padding-top: 75px;
+    }
+
+    .bookInner {
+        width: 100%;
+        padding: 25px 12px 125px;
+        height: 450px;
+    }
+
+    .appointBtn a.knowMore {
+/*        width: 215px;*/
+        font-size: 16px;
+    }
+
+    .offerTopImg {
+        width: 330px;
+        height: 510px;
+        right: 125px;
+    }
+
+    .orangeBack {
+        width: 280px;
+        height: 430px;
+    }
+
+
+
+    .snapupper2 h3 {
+        font-size: 22px;
+    }
+
+    .specailSecond {
+        width: 500px;
+        height: 310px;
+        left: 55px;
+        top: 45px;
+    }
+
+    .specailFirst {
+        width: 475px;
+        height: 300px;
+    }
+
+    .specailLeft {
+        min-height: 450px;
+    }
+
+    .dressCode {
+        margin: 45px 0px 0px;
+    }
+
+    .doesWork {
+        margin: 75px 0px;
+    }
+
+    .lookBook {
+        padding-bottom: 75px;
+    }
+
+    .custrightUpper {
+        margin-bottom: 4px;
+    }
+
+    .customRight {
+        width: 58.6%;
+    }
+
+    .custom3 {
+        height: 223px;
+    }
+
+    .offernaden .collectionInner .collectImg:nth-child(2) {
+        margin: 0px 4px;
+    }
+
+    /*
+    .happyYou{
+        display: none;
+    }
+*/
+    .offernaden .collectionInner .collectImg:first-child,
+    .collectImg:nth-child(2) {
+        width: 33.04%;
+    }
+    .collectImg:nth-child(3) {
+    width: 33%;
+}
+
+    .line2 {
+        bottom: 16px;
+    }
+
+    .aboutOffer {
+        padding-bottom: 15px;
+    }
+    .offernaden .collectionInner .collectImg:nth-child(4) {
+    margin-top: 3px;
+}
+    h2.subHeading{
+        font-size: 28px;
+    }
+    .slick-dots li button:before{
+        color: #fff;
+    }
+    .bookAppMent h2 {
+    padding-top: 40px;
+}
+    .fabrics2:hover {
+    transform: translate(0, 0) scale(1.05);
+}
+}
+
+@media(max-width:991px) {
+    h2 {
+        font-size: 38px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    .contAb {
+        padding: 0 30px;
+    }
+
+    .sectionsAb {
+        padding-top: 60px;
+    }
+
+    .sectionsAb:nth-child(even) .floating_div img {
+        float: left;
+    }
+
+    .sectionsAb:nth-child(even) .floating_div {
+        float: left;
+        order: inherit;
+    }
+
+    .contAb p {
+        padding: 15px 0;
+    }
+
+    .contAb .readMore {
+        margin-top: 0px;
+    }
+
+    .sectionsAb:nth-child(odd) .imgAb {
+        padding-left: 0;
+    }
+
+    .sectionsAb:nth-child(even) .imgAb {
+        padding-right: 0;
+    }
+
+    .headerLogo {
+        width: 175px;
+    }
+
+    .headerLogo a img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .headerContent ul li {
+        margin-left: 25px;
+    }
+
+    .pureYou {
+        width: 350px;
+        height: 200px;
+        padding: 20px;
+        /*        right: 13px;*/
+    }
+/*
+
+    .pureYou h2 {
+        font-size: 55px;
+    }
+*/
+
+    .pureYou p {
+        padding-bottom: 25px;
+    }
+
+/*
+    .pureYou a {
+        width: 185px;
+    }
+*/
+
+    h2.subHeading {
+        font-size: 28px;
+    }
+
+    .workFirst:nth-child(2)::after,
+    .workFirst:nth-child(2)::before {
+        content: '';
+    }
+
+/*
+    .lookHeading h2 {
+        font-size: 32px;
+    }
+*/
+
+    .lookHeading a {
+        width: 165px;
+    }
+
+    .lookHeading {
+        top: 0;
+    }
+
+    .lookthirdinner {
+        margin-bottom: 12px;
+    }
+
+    .lookSecond {
+        margin: 0px 12px;
+    }
+
+    .bespLeft p {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .bespLower {
+        margin-top: 8px;
+    }
+
+    .besplowThird {
+        width: 41.4%;
+    }
+
+    .subHome h2 {
+        font-size: 32px;
+    }
+
+    .subHome h2::after {
+        height: 60px;
+    }
+
+    .subBtn2 button {
+        font-size: 18px;
+        width: 110px;
+    }
+
+    .lookBook {
+        padding-bottom: 50px;
+    }
+
+    .happyYou .slickslide .slick-slide.lt1 span .happyImg {
+        display: none;
+    }
+
+    .happyYou .slickslide .slick-slide.lt1 span {
+        padding: 15px 30px 40px 0px;
+        transform: translate(-50%, -10%) scale(.8);
+    }
+
+    .happyYou .slickslide .slick-slide.gt1 span p,
+    .happyYou .slickslide .slick-slide.gt2 span p {
+        display: none;
+        transform: translate(65%, -21%) scale(.8);
+    }
+
+    .happyYou .slickslide .slick-slide.slick-center span {
+           transform: translate(2%, -10%) scale(.8);
+        width: auto;
+
+    }
+
+/*
+    .aboutAppBtn a {
+        width: 215px;
+    }
+*/
+
+    .aboutImgLower {
+        padding: 25px;
+    }
+
+    .womenAllPadding {
+        padding-top: 75px;
+    }
+
+    .footernav ul li {
+        margin-right: 32px;
+    }
+
+    .bannerCont h2 {
+        font-size: 38px;
+        padding-top: 12px;
+    }
+
+    .nationVideo {
+        height: 365px;
+    }
+
+    .womenAllPadding {
+        padding-top: 60px;
+    }
+
+    .collHeading h2 {
+        padding-bottom: 40px;
+    }
+
+    .pureMag.blogCommon1 {
+        padding-top: 50px;
+    }
+
+    .pureMag {
+        margin-bottom: 60px;
+    }
+
+    .magInner {
+        height: 250px;
+    }
+
+    .minimalBox h3 {
+        font-size: 28px;
+    }
+
+    .blogCommon .pureMagInner h2 {
+        padding-bottom: 35px;
+    }
+
+    .luxInner {
+        padding: 55px;
+    }
+
+    .shirtPadding {
+        padding-top: 35px;
+    }
+
+    .shirtPadding1 {
+        padding-top: 25px;
+    }
+
+    .appointInner .col-sm-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .bookInner {
+        padding: 25px 35px 125px;
+    }
+
+    .appointment {
+        padding: 70px 0px 50px;
+    }
+
+    .passportInner h3 {
+        font-size: 16px;
+    }
+
+    .passportInner p {
+        font-size: 14px;
+        padding-top: 10px;
+    }
+
+    .passportInner p::before {
+
+        top: 21px;
+        left: 0px;
+        width: 8px;
+        height: 8px;
+
+    }
+
+    .offerTopImg {
+        width: 300px;
+        height: 425px;
+        left: initial;
+        right: 50px;
+    }
+
+    .orangeBack {
+        width: 250px;
+        height: 400px;
+    }
+
+    .offerInner .col-sm-6:first-child {
+        flex: 0 0 40%;
+        max-width: 40%;
+    }
+
+    .offerInner .col-sm-6:nth-child(2) {
+        flex: 0 0 60%;
+        max-width: 60%;
+    }
+
+    .offerLeft p {
+        padding-right: 0px;
+    }
+
+    .offerImg {
+        min-height: 500px;
+    }
+
+    .snapImgAll .snapImg:first-child {
+        height: 400px;
+    }
+
+    .snapImgAll .snapImg:nth-child(2) {
+        height: 500px;
+    }
+
+    .snapImgAll .snapImg:nth-child(3) {
+        height: 500px;
+    }
+
+    .snapupper1 h3 {
+        font-size: 25px;
+        padding: 5px 0px 5px;
+    }
+
+    .snapupper2 {
+        width: 90%;
+    }
+
+    .snapupper2 h3 {
+        font-size: 18px;
+    }
+
+    .specailSecond {
+        width: 425px;
+        height: 270px;
+
+    }
+
+    .specailFirst {
+        width: 400px;
+        height: 270px;
+    }
+
+    .specailBtn a {
+/*        width: 215px;*/
+        padding: 10px 15px;
+        font-size: 16px;
+    }
+
+    .specailLeft {
+        min-height: 385px;
+    }
+
+    .snapshotInner p {
+        padding-bottom: 35px;
+    }
+
+    .narendInner p {
+        padding-bottom: 35px;
+    }
+
+    .workFirst p {
+        padding-top: 12px;
+        font-size: 14px;
+    }
+
+    .workImgs {
+        width: 75px;
+        height: 75px;
+    }
+
+    .workAll {
+        padding: 60px 0px 75px;
+    }
+
+    .doesWork {
+        padding-top: 25px;
+    }
+
+    .customInner h2 {
+        font-size: 30px;
+    }
+
+    .customInner h2 br {
+        display: none;
+    }
+
+    .fabButton a {
+        padding: 10px;
+        font-size: 16px;
+        width: 140px;
+    }
+
+    .premium {
+        width: 49.2%;
+    }
+
+    .appModal .modal-dialog {
+        min-width: 660px;
+    }
+
+    .appModal .modal-body .col-sm-6:first-child {
+        display: none;
+    }
+
+    .appModal .modal-body .col-sm-6:nth-child(2) {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .doesWork {
+        margin: 60px 0px;
+    }
+
+    .Customized {
+        padding: 60px 0px;
+    }
+
+    .offernaden .collectionInner .collectImg:nth-child(3) {
+        width: 32.88%;
+    }
+
+    .line,
+    .line2 {
+        display: none;
+    }
+
+    .aboutOffer {
+        padding-bottom: 45px;
+    }
+
+    .specailFirst {
+        width: 360px;
+    }
+
+    .specailSecond {
+        width: 385px;
+    }
+
+    .offerpadding {
+        padding-top: 60px;
+    }
+    .galeryAll .slick-prev ,.galeryAll .slick-next{
+     top: -10%; 
+        z-index: 99;
+    }
+    .deep {
+    font-size: 48px;
+    font-weight: 700;
+}
+    .genderBtn ul li:nth-child(2) a{
+        position: absolute;
+    }
+        .genderBtn ul li:first-child a{
+        position: absolute;
+            left: 29%;
+    }
+    .headerContent ul li a{
+        font-size: 14px;
+    }
+    .footerMiddle .col-sm-4,.footerMiddle .col-sm-3,.footerMiddle .col-sm-2{
+      flex: 0 0 50%;
+    max-width: 50%;  
+    }
+    .impLink{
+        padding-left: 0;
+    }
+    .impLink2,.asSeen{
+        margin-top: 30px;
+    }
+    .impLink ul li{
+        margin-top: 20px;
+    }
+.headerLogo a {
+    width: 175px;
+    height: 34px;
+}
+    .lifeStyle a {
+    width: 175px;
+    height: 34px;
+}
+}
+
+
+@media(max-width:767px) {
+    .headerContent ul {
+        display: none;
+    }
+
+    .headerLogo {
+        width: 165px;
+    }
+
+    .hamburger {
+        display: block;
+        right: 12px;
+    }
+
+    .luxHead .hamburger-inner,
+    .luxHead .hamburger-inner::before,
+    .luxHead .hamburger-inner::after {
+        background: #fff;
+    }
+
+    .header {
+        padding: 17px 0px;
+    }
+
+    .footernav ul li {
+        margin-right: 19px;
+    }
+
+    .footernav ul li a {
+        font-size: 12px;
+    }
+
+    .footernav ul li:last-child {
+        margin-right: 0;
+    }
+
+    .footerIcon ul li {
+        margin-right: 10px;
+    }
+    .ffootLeft,.ffootRight{
+        text-align: center;
+    }
+    .footerIcon .footAllIc{
+        display: block;
+    }
+
+    .footernav ul,
+    .footerIcon ul,
+    .footerCopy {
+        padding: 20px 0px;
+    }
+
+    .footernav ul {
+        margin-top: 40px;
+    }
+
+    .aboutAppBtn {
+        margin-top: 10px;
+        float: inherit;
+        display: inline-block;
+    }
+
+    .aboutImgLower {
+        display: block;
+    }
+
+    .aboutAppIneer {
+        width: 100%;
+        display: block;
+    }
+
+    h2.subHeading {
+        font-size: 25px;
+    }
+
+    .aboutcont {
+        margin-bottom: 60px;
+    }
+
+    .womenAllPadding {
+        padding-top: 60px;
+    }
+
+    .bannerCont h2 {
+        font-size: 32px;
+        padding-top: 60px;
+    }
+
+    .aboutBanimg img {
+        width: 100%;
+        min-height: 300px;
+        object-fit: cover;
+    }
+
+    .nationVideo {
+        width: 100%;
+    }
+
+    .aboutBanimg.aboutBanimg2 {
+        width: 100%;
+/*        height: 75vh;*/
+    }
+
+    .bannerAb.bannerAb3 .bannerCont h2 {
+        font-size: 95px;
+    }
+
+    .bannerAb.bannerAb3 {
+        padding-top: 70px;
+    }
+
+    .womenVidinner p br {
+        display: none;
+    }
+
+    .womenVidinner p {
+        padding: 10px 0px 25px;
+    }
+
+    .exploreBtn {
+        margin-top: 35px;
+    }
+
+    .collHeading h2 {
+        padding-bottom: 30px;
+    }
+
+    .collectionPadding {
+        padding: 0;
+    }
+
+    .collectImg {
+        width: 49.6% !important;
+        height: 310px !important;
+    }
+
+    .collectImg:nth-child(2) {
+        margin: 0;
+        float: right;
+    }
+
+    .collectImg:nth-child(4) {
+        margin-top: 0;
+    }
+
+    .collectImg:first-child,
+    .collectImg:nth-child(4) {
+        float: left;
+    }
+
+    .collectImg:nth-child(3),
+    .collectImg:nth-child(2) {
+        float: right;
+    }
+
+    .collectionInner:nth-child(odd) .collectImg:nth-child(2),
+    .collectionInner:nth-child(odd) .collectImg:nth-child(4),
+    .collectionInner:nth-child(odd) .collectImg:nth-child(1) {
+        float: unset;
+        margin-bottom: 5px;
+    }
+
+    .collectionInner:nth-child(even) .collectImg:nth-child(2),
+    .collectionInner:nth-child(even) .collectImg:nth-child(4),
+    .collectionInner:nth-child(even) .collectImg:nth-child(1) {
+        margin-bottom: 5px;
+    }
+
+    .coll {
+        float: right !important;
+    }
+
+    .collectionInner {
+        margin-bottom: 0px;
+    }
+
+    .magInner {
+        height: auto;
+    }
+
+    .pureMagInner .col-sm-4 {
+        margin-bottom: 25px;
+    }
+
+    .pureMagInner .col-sm-4:last-child {
+        margin-bottom: 0px;
+    }
+
+    .luxshirt {
+        padding: 0px 25px;
+    }
+
+    .luxInner {
+        padding: 25px;
+    }
+
+    .luxInner h2 {
+        font-size: 32px;
+    }
+
+    .appointBtn a.knowMore {
+/*        width: 200px;*/
+        font-size: 16px;
+/*        padding: 10px 10px;*/
+    }
+
+    .appointInner .col-sm-4 {
+        padding: 0px 10px;
+    }
+
+    .bookPara p {
+        font-size: 14px;
+    }
+
+    .bookInner {
+        padding: 25px 15px 125px;
+    }
+
+    .passportInner {
+        background: #363f3f;
+        padding: 40px;
+    }
+
+    .passportInner p::before {
+        top: 17px;
+    }
+
+    .passportInner h2 {
+        font-size: 50px;
+        padding-bottom: 15px;
+    }
+
+    .offerInner .col-sm-6:first-child,
+    .offerInner .col-sm-6:nth-child(2) {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .offerLeft {
+        padding-top: 0px;
+        padding-bottom: 40px
+    }
+
+    .pureYou {
+        width: 350px;
+        padding: 15px;
+    }
+
+/*
+    .pureYou h2 {
+        font-size: 45px;
+    }
+*/
+
+    .pureYou p {
+        padding-bottom: 15px;
+    }
+
+    .pureYou {
+        width: 260px;
+        height: auto;
+        padding: 15px;
+    }
+
+    .lookInner {
+        display: block;
+        padding-top: 185px;
+    }
+
+    .lookFirst {
+        height: 300px;
+        width: 50%;
+        display: inline-block;
+    }
+
+    .lookSecond {
+        width: 49%;
+        height: 300px;
+        display: inline-block;
+        margin: 0px;
+    }
+
+    .lookthird {
+        width: 100%;
+        display: block;
+        margin-top: 4px;
+    }
+
+    .lookthirdinner {
+        width: 50%;
+        display: inline-block;
+        height: 300px;
+    }
+
+    .lookthirdsec {
+        width: 49%;
+        display: inline-block;
+        height: 300px;
+    }
+
+    .lookHeading {
+        left: 0px;
+    }
+
+    .bespLeft {
+        width: 100%;
+    }
+
+    .bespRight {
+        width: 100%;
+        height: 376px;
+        margin-top: 35px;
+    }
+
+    .besplowFirst {
+        width: 50%;
+        height: 390px;
+    }
+
+    .besplowSecond {
+        width: 47%;
+        height: 390px;
+        margin: 0px 5px;
+    }
+
+    .besplowThird {
+        width: 100%;
+        margin-top: 7px;
+    }
+
+    .besplowSecond {
+        width: 49%;
+        height: 390px;
+        margin: 0px;
+        float: right;
+    }
+
+    .subscritHome {
+        background-size: cover;
+        padding: 15px 0px;
+        margin-bottom: 75px;
+    }
+
+    .subHome h2 {
+        font-size: 25px;
+    }
+
+    .subHome p {
+        font-size: 13px;
+    }
+
+    .subbBtn {
+        padding-top: 15px;
+    }
+
+    .subbBtn .form-group {
+        width: 55%;
+    }
+
+    .subbBtn .form-group .form-control {
+        padding: 10px;
+    }
+
+    .subBtn2 {
+        width: 18%;
+    }
+
+    .subBtn2 button {
+        font-size: 16px;
+        width: 100px;
+        padding: 8px 10px;
+            height:43px;
+    }
+
+    .subHome h2::after {
+        height: 50px;
+        right: -45px;
+    }
+
+    .Customized {
+        padding: 60px 15px;
+    }
+
+    .customLeft {
+        width: 100%;
+        height: 445px;
+        padding: 30px;
+    }
+
+    .customRight {
+        width: 100%;
+        margin-top: 4px;
+    }
+
+    .bespLower {
+        margin-top: 5px;
+    }
+
+    .besplowThird {
+        margin-top: 5px;
+    }
+
+    .custom1,
+    .custom2,
+    .custom3,
+    .custom4 {
+        width: 100%;
+    }
+
+    .dressBox2 {
+        margin-bottom: 40px;
+    }
+
+    .appModal .modal-body {
+        padding: 25px;
+    }
+
+    .appModal .modal-dialog {
+        min-width: 545px;
+    }
+
+    .appModal .close {
+        right: 0;
+        z-index: 999;
+    }
+
+    .modalRight .form-group .form-control {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+
+    .modalRight .form-group label {
+        font-size: 14px;
+    }
+
+    .bespInner h2 {
+        text-align: center;
+        padding-bottom: 35px;
+    }
+
+    .offerImg {
+        min-height: 500px;
+        width: 425px;
+        margin-left: 30px;
+    }
+
+    .aboutOffer {
+        padding-bottom: 75px;
+    }
+
+    .line {
+        width: 175px;
+        right: -65px;
+        bottom: 20px;
+    }
+
+    .nadUpper {
+           height: 320px;
+    }
+
+    .offernaden .collectionInner .collectImg:nth-child(2) {
+        margin: 0;
+    }
+
+    .aboutOffer .col-sm-5,
+    .aboutOffer .col-sm-7 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .line {
+        display: block;
+    }
+
+    .snapImgAll .snapImg:nth-child(2),
+    .snapImgAll .snapImg:nth-child(3) {
+        width: 100%;
+        height: auto;
+    }
+
+    .snapImgAll .snapImg:nth-child(3) {
+        margin-top: 5px;
+    }
+
+    .nadVideo .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .specailOffer .col-sm-8,.specailOffer .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .specailBtn {
+    text-align: center;
+}
+    .galeryAll .slick-dots{
+        display: none !important;
+    }
+    .offerUl{
+        display: none;
+    }
+    .galeryAll .slick-prev, .galeryAll .slick-next{
+        top: -5%;
+    }
+    .offernaden .collectionInner .collectImg:nth-child(3){
+        margin-top: 5px;
+    }
+    .offernaden .collectionInner .collectImg:nth-child(4){
+        margin-top: 0;
+    }
+    .offernaden{
+        padding-top: 15px;
+    }
+    .bannerCont.bannerCont2 {
+    top: 25%;
+    right: 120px;
+}
+    .genderBtn ul li:first-child a {
+    position: absolute;
+    left: 21%;
+}
+    .happyYou .slickslide span{
+        padding: 35px 30px 50px 150px;
+    }
+    .minimalBox h3 {
+    font-size: 25px;
+}
+    .sectionsAb .col-sm-6{
+         flex: 0 0 100%;
+    max-width: 100%;   
+    }
+
+    .payBtn {
+     float: left; 
+    margin: 25px 0px 0px;
+}
+    .footLeft h2{
+        text-align: left;
+    }
+    .modalRight.modalRight1 .form-group .form-control {
+    padding: 12px;
+}
+    .modalRight.modalRight1  .form-group {
+    width: 100%;
+        margin-right: 0;
+}
+    a.appBtn {
+    font-size: 15px;
+    padding: 10px 20px;
+     margin-right: 0px; 
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+}
+    a.appBtn:last-child{
+        margin: 0px 0px 15px 15px;
+    }
+        a.appBtn:nth-child(2){
+        margin: 0px 15px 15px 0px;
+    }
+    .smartCa{
+        margin-left: 0 !important;
+    }
+    .readyInner .specailBtn {
+    padding-top: 30px;
+    text-align: left;
+}
+    .readyInner h2{
+        padding-bottom: 30px;
+    }
+    .litBtn5 .shirtSize a.appBtn.litColor, .litBtn6 .shirtSize a.appBtn.litColor {
+    margin-left: 0;
+}
+    .AppDropdown {
+    width: 100%;
+        margin-right:0;
+}
+    .fabrics:hover {
+    transform: translate(0, 0) scale(1.05);
+}
+}
+
+@media(max-width:560px) {
+    h2 {
+        font-size: 35px;
+    }
+
+    .contAb {
+        padding: 0 15px;
+    }
+
+    .sectionsAb {
+        padding-top: 45px;
+    }
+
+    .aboutBanimg img {
+        min-height: 255px;
+    }
+
+    h2.subHeading {
+        font-size: 20px;
+    }
+
+    p.mainFirst {
+        font-size: 14px;
+        padding: 8px 0px;
+    }
+
+    .aboutAppBtn a {
+/*        width: 200px;*/
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+
+    .footernav ul,
+    .footerIcon ul,
+    .footerCopy {
+        padding: 15px 0px;
+    }
+
+    .footernav ul {
+        margin-top: 30px;
+    }
+
+    .womenAllPadding {
+        padding-top: 45px;
+    }
+
+    .collectImg {
+        width: 49.4% !important;
+    }
+
+    .nationVideo {
+        height: 285px;
+    }
+
+    .bannerAb.bannerAb3 .bannerCont h2 {
+        font-size: 65px;
+    }
+
+/*
+    .aboutBanimg.aboutBanimg2 {
+        height: 52vh;
+    }
+*/
+
+    .exploreBtn a {
+/*        width: 200px;*/
+        font-size: 16px;
+/*        padding: 10px 10px;*/
+    }
+
+    .collectImg {
+        height: 275px;
+    }
+
+    .pureMag {
+        margin-bottom: 35px;
+    }
+
+    .pureMag.blogCommon1 {
+        padding-top: 35px;
+    }
+
+    .blogCommon .pureMagInner h2 {
+        padding-bottom: 20px;
+    }
+
+    .luxInner h2 {
+        font-size: 28px;
+    }
+
+    .shirtPadding {
+        padding-top: 25px;
+    }
+
+    .shirtPadding1 {
+        padding-top: 15px;
+    }
+
+    .shirtImg {
+        height: auto;
+    }
+
+    .newShirt {
+        height: auto;
+    }
+
+    .luxuryShirt {
+        margin-top: -100px;
+    }
+
+    .appointInner .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0px 15px;
+    }
+
+    .bookInner {
+        padding: 25px 30px 125px;
+    }
+
+    .passportInner {
+        padding: 25px;
+    }
+
+    .passportInner h2 {
+        font-size: 45px;
+    }
+
+    .lookFirst {
+        height: 250px;
+        width: 49%;
+    }
+
+    .lookSecond {
+        width: 49%;
+        height: 250px;
+    }
+
+    .lookthirdinner {
+        width: 49%;
+        height: 250px;
+    }
+
+    .lookthirdsec {
+        height: 250px;
+    }
+
+    .besplowFirst {
+        width: 49.5%;
+        height: 300px;
+    }
+
+    .besplowSecond {
+        width: 49%;
+        height: 300px;
+    }
+
+    .bespRight {
+        height: 300px;
+    }
+
+    .besplowThird {
+        height: 300px;
+    }
+
+    .dressImg {
+        height: 300px;
+    }
+
+    .dressBox {
+        padding: 15px;
+        margin: -60px 15px 0px;
+    }
+
+    .dressBox p {
+        padding: 10px 0px;
+    }
+
+    .dressBox2 {
+        margin-bottom: 40px;
+    }
+
+    .workFirst p {
+        text-align: center;
+    }
+
+    .workAll {
+        display: block;
+        padding: 25px 0px 25px;
+    }
+
+    .workFirst:nth-child(2) {
+        padding: 25px 0px;
+    }
+
+    .workInner p {
+        font-size: 14px;
+    }
+
+    .doesWork {
+        padding: 25px 10px;
+    }
+
+    .luxury {
+        margin-top: 17px;
+        width: 100%;
+    }
+
+    .premium {
+        width: 100%;
+    }
+
+    .fabrics,
+    .fabrics2 {
+        padding: 0px 15px;
+    }
+
+    .pureYou {
+        position: initial;
+        width: 100%;
+        border: 1px solid #ccc;
+        border-top: 0;
+    }
+
+    .appModal .modal-dialog {
+        min-width: 400px;
+    }
+
+    .appModal .modal-body {
+        padding: 15px;
+    }
+
+    .gendAll .form-group button {
+        padding: 5px 12px;
+    }
+
+    .pureMagInner h2 {
+        padding-bottom: 35px;
+    }
+
+    .doesWork {
+        margin: 55px 0px 45px;
+    }
+
+    .lookBook {
+        padding-bottom: 45px;
+    }
+    .specailFirst {
+    width: 320px;
+    height: 250px;
+}
+    .specailSecond {
+    width: 315px;
+}
+    .offerImg{
+        width: auto;
+    }
+    .orangeBack {
+    right: initial;
+    left: 75px;
+}
+    .umerLogo{
+        display: none;
+    }
+    .snapshotInner h2,.snapshotInner p{
+        padding: 10px 15px;
+    }
+    .snapupper1 h2, .snapshotInner h3{
+        font-size: 22px;
+                padding-left: 0;
+    }
+    .snapupper1 p{
+         padding-left: 0;
+    }
+    .snapupper1 {
+    position: absolute;
+    bottom: 25px;
+    left: 45px;
+}
+    .aboutOffer {
+    padding-top: 110px;
+}
+    .deep {
+    font-size: 30px;
+    font-weight: 700;
+}
+    .genderBtn ul li a {
+    position: absolute;
+    padding: 10px;
+    font-size: 14px;
+    width: 120px;
+}
+    .bannerCont.bannerCont2 {
+    top: 25%;
+    right: 70px;
+}
+    a.knowMore{
+        font-size: 16px;
+    }
+    .specailRight h2 {
+     text-align: center; 
+}
+    .footerIcon ul li {
+    margin-right: 0px;
+}
+    .impLink ul li {
+    margin-top: 15px;
+}
+    h3.footerhead{
+        font-size: 16px;
+    }
+    .modalRight.modalRight1 .gendAll {
+     margin-top: 0; 
+}
+    h2.appHad {
+    font-size: 25px;
+    text-align: left;
+}
+    a.appBtn{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    a.appBtn:last-child {
+    margin: 0px;
+}
+    .DropCommon2{
+       margin-bottom: 35px; 
+    }
+    .bookAppMent h2{
+        font-size: 30px;
+    }
+
+}
+
+@media(max-width:414px) {
+    .aboutImgLower {
+        padding: 15px;
+    }
+
+    .aboutAppBtn a {
+/*        width: 180px;*/
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .collectImg {
+        width: 100% !important;
+    }
+
+    .collectImg:nth-child(3),
+    .collectImg:nth-child(2) {
+        margin-bottom: 5px;
+    }
+
+    .collectImg {
+        height: 250px;
+    }
+
+    .collectImg {
+        height: auto !important;
+    }
+
+    .hamburger {
+        display: block;
+        right: 15px;
+/*        top: 18px;*/
+    }
+
+    .luxInner h2 {
+        font-size: 22px;
+    }
+
+    .luxInner p {
+        font-size: 14px;
+    }
+
+    .luxInner {
+        padding: 15px;
+    }
+
+    .luxshirt {
+        padding: 0px;
+    }
+
+    .passportInner p {
+        font-size: 13px;
+        padding-top: 8px;
+    }
+
+    .passportInner {
+        padding: 12px;
+    }
+
+    .passportInner h2 {
+        font-size: 42px;
+        padding-bottom: 10px;
+    }
+
+    .customLeft {
+        height: 285px;
+        padding: 25px;
+    }
+
+    .fabrics2 {
+        display: block;
+            padding-top: 30px;
+    }
+
+    .fabrics2 .main2 {
+        padding: 0px 0px 25px;
+        width: 100%;
+    }
+
+    .fabButton.fabButton2 {
+        float: left;
+    }
+
+    .bespRight,
+    .besplowFirst,
+    .besplowSecond,
+    .besplowThird {
+        height: 205px;
+    }
+
+    .lookFirst,
+    .lookSecond,
+    .lookthirdinner,
+    .lookthirdsec {
+        height: 185px;
+    }
+
+    .dressImg {
+        height: auto;
+    }
+
+/*
+    .pureYou h2 {
+        font-size: 40px;
+    }
+*/
+
+/*
+    .pureYou a {
+        width: 150px;
+    }
+*/
+
+    .fabButton a {
+        width: 150px;
+    }
+
+    .subbBtn .form-group {
+        width: 75%;
+    }
+
+    .appModal .modal-dialog {
+        min-width: 305px;
+    }
+
+    .modalRight h3 {
+        font-size: 22px;
+        padding-top: 15px;
+    }
+
+    .subscritHome {
+        margin-bottom: 60px;
+    }
+    .offerTopImg {
+    width: 255px;
+    height: 375px;
+}
+    .offerTopImg {
+    width: 255px;
+    height: 350px;
+}
+    .orangeBack {
+    right: initial;
+    left: 25px;
+        height: 325px;
+}
+    .line {
+    display: none;
+}
+    .aboutOffer {
+    padding-bottom: 30px;
+}
+    .snapImgAll .snapImg:first-child {
+    height: 275px;
+}
+    .snapupper2{
+        bottom: 0;
+           border-bottom: 1px solid #ccc;
+    }
+    .snapupper1 h2, .snapshotInner h3{
+        font-size: 15px;
+    }
+    .snapupper2 a{
+        margin-top: 5px;
+     
+    }
+ 
+    .specailFirst {
+    width: 225px;
+    height: 200px;
+}
+    .specailFirst {
+    width: 225px;
+    height: 200px;
+}
+    .specailSecond {
+    width: 215px;
+        height: 185px;
+}
+    .specailLeft {
+    min-height: 275px;
+}
+    .galeryAll .slick-prev, .galeryAll .slick-next {
+    top: -2%;
+}
+    .offerImg{
+        min-height: 425px;
+    }
+    .specailOffer {
+    padding: 20px 0px 40px;
+}
+    .genderBtn ul li:first-child a {
+    left: 15%;
+}
+    .bannerAb.bannerAb2 {
+    margin-bottom: 50px;
+}
+    .subbBtn .form-group .form-control {
+    padding: 10px;
+    padding-right: 50px;
+}
+    .footerMiddle .col-sm-4{
+     flex: 0 0 100%;
+    max-width: 100%;   
+    }
+    .impLink {
+        margin-top: 30px;
+    }
+
+    .lifeStyle a img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .footerMiddle .row {
+    padding-top: 50px;
+}
+    .impLink {
+    margin-top: 15px;
+}
+  .asSeen {
+    margin-top: 20px;
+}
+    .footerMiddle .col-sm-2{
+          flex: 0 0 100%;
+    max-width: 100%;  
+    }
+    .bannerCont.bannerCont2 {
+/*
+    top: 25%;
+    left: -43px;
+*/
+/*    width: 100%;*/
+}
+    .genderBtn ul li:first-child {
+    padding-right: 0px;
+}
+    .bannerAb.bannerAb3 .bannerCont h2 {
+    font-size: 60px;
+}
+    .ffootLeft, .ffootRight {
+     text-align: left; 
+}
+    .bannerAb {
+    padding-top: 68px;
+}
+    .bannerAb.bannerAb3 {
+    padding-top: 68px;
+}
+    .passportInner{
+        margin-top: 68px;
+    }
+    .dressBox p,.minimalBox p{
+        font-size: 15px;
+    }
+    .nadUpper {
+     height: 280px; 
+}
+    .modalRight.modalRight1 .form-group label {
+    font-size: 16px;
+}
+    .Apppadding1 {
+    padding-top: 45px;
+}
+    .bookAppMent h2 {
+    font-size: 25px;
+}
+    .litBtn.litBtn5 a, .litBtn.litBtn6 a{
+        width: 45px;
+        height: 45px;
+    }
+    .DropCommon:last-child{
+        margin-bottom: 0;
+    }
+    .shirtSize {
+    margin-bottom: 10px;
+}
+    .bannerCont.bannerCont2 {
+    right: 110px;
+}
+    .ffootRight ul li {
+    padding-right: 7px;
+        padding-bottom: 7px;
+}
+    .fabrics2:hover,.fabrics:hover {
+    transform: translate(0, 0) scale(1.1);
+}
+    .lookHeading h2 {
+    padding-bottom: 25px;
+}
+    .dressCode {
+    margin: 55px 0px 0px;
+}
+    .lookInner {
+    display: block;
+    padding-top: 170px;
+}
+    .bespInner h2 {
+    text-align: center;
+    padding-bottom: 25px;
+}
+ .bespRight {
+    margin-top: 25px;
+}
+    .Customized {
+    padding: 45px 15px;
+}
+    .customInner h2 {
+    padding-bottom: 25px;
+}
+    .happyImg {
+    width: 145px;
+    height: 150px;
+}
+    .happyYou .col-sm-8{
+        padding: 0;
+    }
+    .orangeQuote {
+    left: -53px;
+}
+    .happyYou .slickslide span {
+    padding: 25px 20px 25px 130px;
+    text-align: justify;
+}
+    .slick-dots {
+    bottom: -8px;
+}
+    .slick-dots li {
+    width: 12px;
+    height: 12px;
+
+}
+    dots li button:before {
+    width: 12px;
+    height: 12px;
+}
+    .happyYou .slick-slider .slick-track, .happyYou .slick-slider .slick-list {
+    padding: 35px 0px 0px;
+}
+    .happyYou {
+    padding-bottom: 25px;
+            padding-top: 15px;
+}
+    .lifeStyle h3 {
+    padding: 28px 0px 5px;
+}
+    .impLink ul li {
+    margin-top: 7px;
+}
+    .asSeen ul {
+    margin-top: 15px;
+}
+    .footernav ul, .footerIcon ul, .footerCopy {
+    padding: 10px 0px;
+}
+    .lookBook {
+    padding-bottom: 35px;
+}
+    .pureMag {
+    margin-bottom: 55px;
+}
+    .pureMag.blogCommon1 {
+    padding-top: 45px;
+}
+    .aboutAppointment {
+     margin-bottom: 10px;   
+    }
+    .appointment {
+    padding: 55px 0px 25px;
+}
+    .offerpadding {
+    padding-top: 55px;
+}
+    .aboutcont {
+    margin-bottom: 55px;
+}
+        .fab2{
+        display: block;
+    }
+            .fab1{
+        display: none;
+    }
+}
