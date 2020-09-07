@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="24" viewBox="0 0 34 24">
+    <defs>
+        <rect id="a" width="33.231" height="23.736" rx="2.404"/>
+        <linearGradient id="e" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#F0F0F0"/>
+        </linearGradient>
+        <path id="d" d="M2.374 3.165a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm3.164 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm3.165 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm3.165 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zM3.956 4.747a.791.791 0 1 1 0-1.582.791.791 0 0 1 0 1.582zm3.165 0a.791.791 0 1 1 0-1.582.791.791 0 0 1 0 1.582zm3.165 0a.791.791 0 1 1 0-1.582.791.791 0 0 1 0 1.582zm1.582 1.583a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm-3.165 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm-3.165 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm-3.164 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm1.582 1.582a.791.791 0 1 1 0-1.582.791.791 0 0 1 0 1.582zm3.165 0a.791.791 0 1 1 0-1.582.791.791 0 0 1 0 1.582zm3.165 0a.791.791 0 1 1 0-1.582.791.791 0 0 1 0 1.582zm1.582 1.583a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm-3.165 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm-3.165 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583zm-3.164 0a.791.791 0 1 1 0-1.583.791.791 0 0 1 0 1.583z"/>
+        <filter id="c" width="118.1%" height="150.6%" x="-9%" y="-12.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#a"/>
+        <path fill="#D02F44" d="M0 0h33.23v1.582H0V0zm0 3.165h33.23v1.582H0V3.165zM0 6.33h33.23v1.582H0V6.33zm0 3.165h33.23v1.582H0V9.495zm0 3.164h33.23v1.583H0v-1.583zm0 3.165h33.23v1.583H0v-1.583zm0 3.165h33.23v1.582H0V18.99zm0 3.165h33.23v1.582H0v-1.582z" mask="url(#b)"/>
+        <path fill="#46467F" d="M0 0h14.242v11.077H0z" mask="url(#b)"/>
+        <g mask="url(#b)">
+            <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+            <use fill="url(#e)" xlink:href="#d"/>
+        </g>
+    </g>
+</svg>

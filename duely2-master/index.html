@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/logo.png" type="image/icon" sizes="16x16">
+    <title>DUELY | Invoices</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/hamburgers.css" rel="stylesheet">
+    <link href="css/slick.css" rel="stylesheet">
+    <link href="css/slick-theme.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/media.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+    <section class="header boxs">
+        <div class="head_imges ">
+            <div class="notification">
+                <a href="dashbord.html"> <img src="img/notification.svg" class="img-responsive in_block"></a>
+            </div>
+            <div class="head_img">
+                <a href="profile.html"> <img src="img/head_img.png" class="img-responsive in_block"></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="dash_bord boxs">
+        <div class="dash_inner boxs">
+            <div class="dash_upper">
+                <a href="javascript:void(0)"> <img src="img/logo.svg" class="img-responsive"></a>
+            </div>
+            <div class="dash_lower">
+                <ul>
+                    <li><a href="javascript:void(0)"><span><img src="img/dash1.svg" class="img-responsive in_block first_dash_img" alt="dash1"><img src="img/dash1_chan.svg" class="img-responsive sec_das_img" alt="dash1"></span>Dashboard</a></li>
+                    <li class="add_active"><a href="javascript:void(0)"><span><img src="img/dash2.svg" class="img-responsive in_block first_dash_img" alt="dash2"><img src="img/dash2 _chan.svg" class="img-responsive sec_das_img" alt="dash1"></span>Invoices</a></li>
+                    <li><a href="javascript:void(0)"><span><img src="img/dash3.svg" class="img-responsive in_block first_dash_img" alt="dash3"><img src="img/dash3_chan.svg" class="img-responsive sec_das_img" alt="dash3"></span>CLIENTs</a></li>
+                    <li><a href="javascript:void(0)"><span><img src="img/dash4.svg" class="img-responsive in_block first_dash_img" alt="dash4"><img src="img/dash4_chan.svg" class="img-responsive sec_das_img" alt="dash4"></span>Subscription</a></li>
+                    <li><a href="javascript:void(0)"><span><img src="img/dash5.svg" class="img-responsive first_dash_img in_block in_block" alt="dash5"><img src="img/dash5_chan.svg" class="img-responsive sec_das_img" alt="dash5"></span>Settings</a></li>
+                    <li><a href="javascript:void(0)"><span><img src="img/about_delay.svg" class="img-responsive first_dash_img in_block in_block" alt="about"><img src="img/about_delay%20_chan.svg" class="img-responsive sec_das_img" alt="about"></span>About Duely</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+    <button class="hamburger hamburger--squeeze" type="button" aria-label="Menu" aria-controls="navigation">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+    <div class="sidenav dash_lower" id="mySidenav">
+        <div class="side_img ">
+            <a href="#" class="logo"><img src="img/logo.svg" class="img-responsive" alt="logo"></a>
+        </div>
+        <ul class="navbar-nav menu">
+            <li class=" nav-item "><a href="javascript:void(0)" class="nav-link"><span><img src="img/dash1.svg" class="img-responsive first_dash_img in_block in_block" alt="dashbord"><img src="img/dash1_chan.svg" class="img-responsive sec_das_img" alt="dashbord"></span>Dashboard</a></li>
+            <li class="nav-item add_active"><a href="javascript:void(0)" class="nav-link"><span><img src="img/dash2.svg" class="img-responsive first_dash_img in_block in_block" alt="Invoices"><img src="img/dash2 _chan.svg" class="img-responsive sec_das_img" alt="Invoices"></span>Invoices</a></li>
+            <li class="nav-item"><a href="javascript:void(0)" class="nav-link"><span><img src="img/dash3.svg" class="img-responsive first_dash_img in_block in_block" alt="CLIENTs"><img src="img/dash3_chan.svg" class="img-responsive sec_das_img" alt="CLIENTs"></span>CLIENTs</a></li>
+            <li class="nav-item"><a href="javascript:void(0)" class="nav-link"><span><img src="img/dash4.svg" class="img-responsive first_dash_img in_block in_block" alt="Subscription"><img src="img/dash4_chan.svg" class="img-responsive sec_das_img" alt="Subscription"></span>Subscription</a></li>
+            <li class="nav-item"><a href="javascript:void(0)" class="nav-link"><span><img src="img/dash5.svg" class="img-responsive first_dash_img in_block in_block" alt="Settings"><img src="img/dash5_chan.svg" class="img-responsive sec_das_img" alt="Settings"></span>Settings</a></li>
+            <li class="nav-item"><a href="javascript:void(0)" class="nav-link"><span><img src="img/about_delay.svg" class="img-responsive first_dash_img in_block in_block" alt="About Duely"><img src="img/about_delay%20_chan.svg" class="img-responsive sec_das_img" alt="About Duely"></span>About Duely</a></li>
+        </ul>
+    </div>
+
+
+    <section class="invoice boxs">
+        <div class="invoice_upper boxs">
+            <h1>invoice</h1>
+            <div class="inv0_img">
+                <div class="search_inner">
+                    <input type="text" class="form-control" placeholder="search..">
+                </div>
+                <div class="invo_fir">
+                    <a href="javascript:void(0)"> <img src="img/search.svg" class="img-responsive in_block"></a>
+
+                </div>
+                <div class="invo_sec">
+                    <a href="javascript:void(0)" onclick="sortTable(0)"> <img src="img/shape.svg" class="img-responsive in_block shape1"><img src="img/shape_chan.svg" class="img-responsive shape2">Filter</a>
+                </div>
+                <div class="invo_thir">
+                    <a href="javascript:void(0)"> <img src="img/com_shap.svg" class="img-responsive in_block shape1"><img src="img/com_shap121.svg" class="img-responsive shape2">Create new invoice</a>
+                </div>
+            </div>
+        </div>
+        <div class="inv0_all" id="idname">
+            <div class="invo_low boxs">
+                <div class="invo_dtl boxs">
+                    <ul class="nav">
+                        <li><a href="javascript:void(0)" class="clicktab tab_active" data-type="1">Current invoices</a></li>
+                        <li class="no_right"><a href="javascript:void(0)" class="clicktab" data-type="2">Scheduled Invoices</a></li>
+                    </ul>
+                </div>
+                <div class="invo_right">
+                    <ul>
+                        <li class="in_rig_inner">
+                            <a href="#" class=" clicktab1"  data-type="2"><img src="img/list1.svg" class="img-responsive first_dash_img in_block in_block" alt="Grid view"><img src="img/list1_chain.svg" class="img-responsive sec_das_img" alt="Grid view"><span>Grid view</span></a>
+                        </li>
+                        <li class="in_rig_inner">
+                            <a href="#"  class="clicktab1 new_active"  data-type="1" ><img src="img/list2.svg" class="img-responsive first_dash_img in_block in_block" alt="List view"><img src="img/list2_chan.svg" class="img-responsive sec_das_img" alt="List view"><span>List view</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="list_tab boxs  listDtl listDtl1">
+                    <div class="current_inv boxs payDtl payDtl1">
+                        <div class="invo_tab">
+
+                            <div class="table-responsive ">
+                                <table class="table table_res" id="myTable">
+                                    <thead>
+                                        <tr>
+                                            <th># NO.</th>
+                                            <th>CLIENT</th>
+                                            <th>DATE</th>
+                                            <th>AMOUNT</th>
+                                            <th>STATUS</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>002</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Henry Richardson</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="paid">paid</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsives in_block" alt="dots"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive in_block first_dash_img" alt="email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block"></span>Homura Yunosuke</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="overdue">Overdue</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsives"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block"></span>Kita Chihoko</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="unpaid">UnPaid</span></td>
+
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsives in_block"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Mbe Tshinguta</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="draft">Draft</span></td>
+
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsives"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Xu Xuefeng</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="draft">Draft</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsives"></a>
+                                                <div class="slide_box slide_last">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Mbe Tshinguta</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="draft">Draft</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" alt="dots" class="img-responsives"></a>
+                                                <div class="slide_box slide_last">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="tab_bott">
+                                <p>Showing 5 out of 120</p>
+                                <div class="bott_tabs">
+                                    <div class="bott_first bott_f">
+                                        <a href="javascript:void(0)"><img src="img/left.svg" alt="left" class="img-responsive"></a>
+                                    </div>
+                                    <div class="bott_first">
+                                        <a href="javascript:void(0)"> <img src="img/left.svg" alt="right" class="img-responsive"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sched_inv boxs payDtl payDtl2">
+                        <div class="invo_tab">
+
+                            <div class="table-responsive ">
+                                <table class="table table_res" id="myTable">
+                                    <thead>
+                                        <tr>
+                                            <th># NO.</th>
+                                            <th>CLIENT</th>
+                                            <th>DATE</th>
+                                            <th>AMOUNT</th>
+                                            <th>STATUS</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Henry Richardson</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="paid">paid</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" alt="dots" class="img-responsives"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" alt="person" class="img-responsive in_block"></span>Homura Yunosuke</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="overdue">Overdue</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsives"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" alt="person" class="img-responsive in_block"></span>Kita Chihoko</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="unpaid">UnPaid</span></td>
+
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" alt="dots" class="img-responsives"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" alt="person" class="img-responsive in_block"></span>Mbe Tshinguta</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="draft">Draft</span></td>
+
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" alt="dots" class="img-responsives"></a>
+                                                <div class="slide_box">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Xu Xuefeng</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="draft">Draft</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" alt="dots" class="img-responsives"></a>
+                                                <div class="slide_box slide_last">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td>001</td>
+                                            <td><span class="grand boxs"><img src="img/grandpa.png" alt="person" class="img-responsive in_block"></span>Mbe Tshinguta</td>
+                                            <td>08/21/2018</td>
+                                            <td>$12,000.00</td>
+                                            <td><span class="draft">Draft</span></td>
+                                            <td><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" alt="dots" class="img-responsives"></a>
+                                                <div class="slide_box slide_last">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li><a href="javascript:void(0)"><span><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </td>
+                                        </tr>
+
+
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="tab_bott">
+                                <p>Showing 5 out of 120</p>
+                                <div class="bott_tabs">
+                                    <div class="bott_first bott_f">
+                                        <a href="javascript:void(0)"><img src="img/left.svg" alt="left" class="img-responsive"></a>
+                                    </div>
+                                    <div class="bott_first">
+                                        <a href="javascript:void(0)"> <img src="img/left.svg" alt="right" class="img-responsive"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                  <div class="list_tab boxs  listDtl listDtl2">
+             
+                <div class="current_inv boxs payDtl payDtl1">
+                    <div class="invo_tab">
+                        <div class="row all_boxs">
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="unpaid">Unpaid</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="draft">Draft</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="draft">Draft</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive in_block" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="overdue">Overdue</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="person"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="Email"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="Email"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="paid">Paid</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="paid">Paid</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="overdue">Overdue</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="unpaid">Unpaid</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4">
+                                <div class="invoice_box">
+                                    <ul class="first_ul">
+                                        <li><span># NO.</span>001</li>
+                                        <li><a href="javascript:void(0)" class="unpaid">Unpaid</a></li>
+                                    </ul>
+
+                                    <ul class="second_ul">
+                                        <li>DATE</li>
+                                        <li>08/21/2018</li>
+                                    </ul>
+                                    <ul class="second_ul sec_ul">
+                                        <li>AMOUNT</li>
+                                        <li>$12,000.00</li>
+                                    </ul>
+
+                                    <ul class="third_ul">
+                                        <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                        <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                            <div class="slide_box slider_sec">
+                                                <ul>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                    <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                    <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab_bott">
+                            <p>Showing 5 out of 120</p>
+                            <div class="bott_tabs">
+                                <div class="bott_first bott_f">
+                                    <a href="javascript:void(0)"><img src="img/left.svg" class="img-responsive"></a>
+                                </div>
+                                <div class="bott_first">
+                                    <a href="javascript:void(0)"> <img src="img/left.svg" class="img-responsive"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sched_inv boxs payDtl payDtl2">
+
+                    <div class="invo_tab">
+                        <div class="invo_tab">
+                            <div class="row all_boxs">
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="unpaid">Unpaid</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="draft">Draft</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="draft">Draft</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="overdue">Overdue</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="paid">Paid</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="paid">Paid</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="overdue">Overdue</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive foot_img" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="unpaid">Unpaid</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <div class="invoice_box">
+                                        <ul class="first_ul">
+                                            <li><span># NO.</span>001</li>
+                                            <li><a href="javascript:void(0)" class="unpaid">Unpaid</a></li>
+                                        </ul>
+
+                                        <ul class="second_ul">
+                                            <li>DATE</li>
+                                            <li>08/21/2018</li>
+                                        </ul>
+                                        <ul class="second_ul sec_ul">
+                                            <li>AMOUNT</li>
+                                            <li>$12,000.00</li>
+                                        </ul>
+
+                                        <ul class="third_ul">
+                                            <li><span class="foot_img box"><img src="img/grandpa.png" class="img-responsive in_block" alt="img"></span>Henry Richardson</li>
+                                            <li><a href="javascript:void(0)" class="slide_up"><img src="img/dots.svg" class="img-responsive" alt="dots"></a>
+                                                <div class="slide_box slider_sec">
+                                                    <ul>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/email.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/email_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Email</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="delete"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="delete"></span>Delete</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/edit.svg" class="img-responsive first_dash_img in_block" alt="edit"><img src="img/edit_chain.svg" class="img-responsive sec_das_img" alt="edit"></span>Edit</a></li>
+                                                        <li><a href="javascript:void(0)"><span class="mar_fis"><img src="img/send.svg" class="img-responsive first_dash_img in_block" alt="send"><img src="img/send_chain.svg" class="img-responsive sec_das_img" alt="send"></span>Send</a></li>
+                                                        <li class="flt_rig"><a href="javascript:void(0)"><span class="mar_fis"><img src="img/delete.svg" class="img-responsive first_dash_img in_block" alt="paid"><img src="img/delete_chan.svg" class="img-responsive sec_das_img" alt="paid"></span>Mark as paid</a></li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="tab_bott">
+                                <p>Showing 5 out of 120</p>
+                                <div class="bott_tabs">
+                                    <div class="bott_first bott_f">
+                                        <a href="javascript:void(0)"><img src="img/left.svg" class="img-responsive"></a>
+                                    </div>
+                                    <div class="bott_first">
+                                        <a href="javascript:void(0)"> <img src="img/left.svg" class="img-responsive"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                </div>
+                </div>
+                
+       
+
+        </div>
+
+
+
+    </section>
+
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/fontawesome.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,564 @@
+@media(max-width:1199px) {
+    .dash_lower ul li a {
+        padding: 15px 0px 15px 41px;
+    }
+
+    .dash_lower {
+        margin-top: 80px;
+    }
+
+    .dash_lower ul li:last-child {
+        margin-top: 85px;
+    }
+
+    .in_rig_inner a {
+        padding: 12px 12px;
+    }
+
+    .invo_dtl .nav li a {
+        font-size: 18px;
+    }
+
+    .invo_dtl .nav li {
+        margin-right: 40px;
+    }
+
+    .in_rig_inner {
+        margin-left: 20px;
+    }
+
+    .invo_low {
+        padding: 40px 35px 30px;
+    }
+
+    .dash_bord {
+        width: 215px;
+    }
+
+    .add_active {
+        max-width: 185px;
+    }
+
+    .invoice {
+        padding-left: 235px;
+    }
+
+    .all_boxs .col-sm-4 {
+        min-width: 50%;
+    }
+
+    .inv0_all {
+        padding-left: 15px;
+        padding-right: 35px;
+        margin-top: 85px;
+    }
+      .invo_dtl {
+    width: 64%;
+}
+    td {
+    font-size: 13px;
+}
+.slide_box {
+    right: 12px;
+}
+    .prof_info {
+    padding: 25px;
+}
+    .avatar_chan {
+    left: 90px;
+}
+    .avatar-upload .avatar-edit {
+    left: 190px;
+}
+    .set_Profile {
+    padding-left: 225px;
+}
+    .mail_width {
+    width: 95%;
+}
+    .about {
+    bottom: 16px;
+}
+    .select_box {
+    width: 46%;
+}
+    .tem_inner {
+    padding: 40px 40px 0px 40px;
+}
+    .temp_first {
+    width: 225px;
+    height: 200px;
+            margin: 0 auto;
+}
+    .all_set_up {
+    margin: 0 auto;
+    width: 295px;
+    height: 310px;
+}
+    .chose_model .modal-dialog {
+    width: 725px;
+}
+    .model_inner h5 {
+    font-size: 25px;
+}
+    .model_inner h6 {
+    font-size: 17px;
+    padding: 0px;
+}
+    .set_circle {
+    left: 25%;
+}
+.circle2 {
+    left: 50%;
+}
+    .circle3 {
+    left: 75%;
+}
+    .cov_line {
+    width: 25%;
+}
+    .cov_line1 {
+    width: 50%;
+}
+    .cov_line3 {
+    width: 100%;
+}
+    .drop_down  .dropdown-menu{
+        width: 86%;
+    }
+}
+
+@media(max-width:991px) {
+    .add_active {
+    max-width: 165px;
+}
+    .dash_lower ul li a {
+    padding: 12px 0px 12px 24px;
+}
+      h1 {
+    font-size: 26px;
+}
+    .invo_fir {
+    margin-right: 15px;
+}
+    .invo_sec a {
+    padding: 14px 16px;
+    font-size: 13px;
+}
+    .invo_thir a {
+    font-size: 13px;
+    padding: 14px 16px;
+}
+    .invo_sec {
+    margin-right: 15px;
+}
+    .invoice_upper {
+    padding: 0px 24px;
+}
+    .invo_fir img {
+    padding-left: 7px;
+    padding-top: 7px;
+}
+    .dash_bord {
+    width: 200px;
+}
+    .dash_upper {
+    margin: 22px 0px 0px 65px;
+}
+.dash_lower ul li:last-child {
+    margin-top: 110px;
+}
+    .invoice {
+    padding-left: 210px;
+    margin-top: 50px;
+}
+    .inv0_all {
+    padding-right: 25px;
+}
+    .invo_low {
+    padding: 40px 20px 30px;
+}
+    .all_boxs .col-sm-4 {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+    .invoice_box {
+    margin-bottom: 20px;
+        padding: 18px;
+}
+    .invoice_box .second_ul li:last-child {
+    font-size: 12.8px;
+}
+    .third_ul li span {
+    margin-right: 8px;
+}
+    .invo_right{
+        display: block;
+        float: unset;
+        margin-top: 35px;
+    }
+    .in_rig_inner {
+    margin-left: 0px;
+}
+    .invo_tab {
+    margin-top: 60px;
+}
+    .header {
+    padding: 16px 27px;
+}
+.invo_dtl {
+     width: 100%; 
+}
+    .invo_right {
+    margin-top: 60px;
+}
+    .table {
+    min-width: 600px;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+    .table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: scroll;
+        border: 0px;
+}
+.search_inner {
+    left: -173px;
+    width: 60%;
+}
+    .set_Profile .col-sm-6{
+        width: 100%;
+    }
+    .mail_width {
+    width: 100%;
+}
+    .prof_nam {
+    width: 43%;
+}
+    .avatar-upload {
+      margin-bottom: 35px;
+    padding-top: 10px;
+}
+    .prfil_form {
+    margin-bottom: 40px;
+}
+    .set_Profile {
+    padding-left: 185px;
+}
+    .select_box {
+    width: 100%;
+}
+    .select_right {
+    margin-left: 0px;
+}
+    .temp_first {
+    width: 175px;
+    height: 175px;
+}
+    .tem_inner {
+    padding: 25px 20px 0px 20px;
+}
+    .set_prop .col-sm-6{
+        width: 50%;
+    }
+    .profile_tem {
+    padding: 40px 0px 40px 0px;
+}
+    .chose_model .modal-dialog {
+    width: 600px;
+}
+    .drop_down .btn {
+    width: 100%;
+    }
+    .drop_down .dropdown-menu {
+    width: 100%;
+}
+}
+
+
+@media(max-width:767px) {
+    .dash_bord{
+        display: none;
+    }
+    .hamburger{
+        display: block;
+    }
+    .head_imges {
+        
+    margin-right: 55px;
+}
+   .hamburger-box {
+    width: 25px;
+    left: -25px;
+    top: -47px;
+} 
+    .hamburger-box:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .sidenav{
+        margin-top: 0px;
+    }
+    .navbar-nav{
+        margin-top: 85px;
+    }
+    .invoice {
+    padding-left: 0px;
+}
+    .inv0_all {
+    padding-left:25px;
+   
+}
+    .all_boxs .col-sm-4 {
+    width: 50%;
+    float: left;
+}
+    .profile_inner {
+    padding: 30px;
+}
+    .set_Profile {
+    padding-left: 0px;
+}
+    .about {
+    bottom: 10px;
+        position: absolute;
+}
+    .head2{
+        margin-right: 0;
+    }
+    .prof_nam {
+    width: 100%;
+}
+.prof_name {
+    margin-left: 0px;
+}
+.set_prop .col-sm-6 {
+    width: 75%;
+    margin-bottom: 30px;
+    margin: 37px auto;
+}
+    .profile_tem {
+    padding: 0px;
+}
+    .temp_first {
+    width: 225px;
+    height: 175px;
+}
+.all_set_up {
+    margin: 0 auto;
+    width: 225px;
+    height: 230px;
+}
+    .chose_model .modal-dialog {
+    width: 475px;
+}
+    .model_inner h6 {
+    font-size: 15px;
+}
+    .modal.in .modal-dialog{
+    width: 78%;
+    height: auto;
+    margin: 36px auto;
+        
+    }
+    .model_inner h5 {
+    font-size: 22px;
+}
+    .model_inner button {
+    padding: 15px 35px;
+    font-size: 14px;
+}
+}
+
+@media(max-width:560px) {
+    .invo_dtl .nav{
+         min-width: 328px;
+    padding-bottom: 14px;
+    }
+    .invo_dtl{
+        overflow-x: scroll; 
+    }
+    .invo_dtl .nav li {
+    margin-right: 30px;
+}
+    .invoice_upper h1 {
+    display: block;
+    margin-bottom: 20px;
+}
+    .inv0_img {
+    display: inline-block;
+    float: unset;
+    margin-bottom: 30px;
+}
+    .invoice {
+    margin-top: 30px;
+}
+    .invo_thir {
+    margin-top: 20px;
+}
+    .sidenav {
+    width: 185px;
+}
+    .navbar-nav .nav-link {
+    padding: 10px 0px 10px 18px;
+}
+    .navbar-nav {
+    margin-top: 70px;
+}
+    .dash_lower ul li:last-child {
+    margin-top: 150px;
+}
+    .search_inner {
+    left: -2px;
+    width: 57%;
+    top: 60px;
+}
+        .all_boxs .col-sm-4 {
+            width: 100%;
+    }
+    .profi_btn button {
+    padding: 15px 45px; 
+}
+    .about ul li:last-child{
+    margin: 0px;
+}
+    .btn_right {
+    margin-right: 25px;
+}
+    .profile_info h2 {
+    display: block;
+    margin-bottom: 20px;
+}
+    .chose_model .modal-header .close {
+    right: 15px;
+    top: 15px;
+}
+    .set_prop .col-sm-6 {
+    width: 100%;
+}
+    .inner_circle p{
+        font-size: 13px;
+    }
+.cov_line {
+    width: 23%;
+}
+    .set_circle {
+    left: 23%;
+}
+    .circle2{
+        left: 46% !important;
+    }
+    .circle3{
+        left: 69%;
+    }
+    .inner_circle p {
+    left: -35px;
+}
+    .sec_para{
+            left: -42px !important;
+    }
+
+    .cov_line1 {
+    width: 50% ! important;
+}
+        .cov_line3 {
+    width: 100% ! important;
+}
+}
+
+
+
+@media(max-width:414px) {
+        .search_inner {
+    left: -2px;
+    width: 57%;
+    top: 45px;
+}
+    .avatar_chan {
+    left: 75px;
+}
+    .avatar-upload .avatar-edit {
+    left: 160px;
+}
+    .profile_inner {
+    padding:0px;
+        padding-bottom: 20px;
+}
+    .profile_inner h1{
+        margin-left: 25px;
+    }
+    .avatar-upload .avatar-edit input + label {
+    padding: 21px 40px;
+}
+    .drop_inner .dropdown .select span {
+    font-size: 15px;
+
+}
+    .profi_btn button {
+    padding: 15px 38px;
+}
+    .low_btn {
+    margin-top: 25px;
+}
+    .altest_one p{
+        font-size: 13px;
+    }
+    .btn_right {
+    margin-right: 15px;
+}
+    .inner_circle p {
+    left: -30px;
+}
+    .set_line {
+        margin-left: 25px;
+    }
+    .cir_with p{
+        left: 20px;
+    }
+    .cir_with p {
+    left: -15px;
+}
+    .avatar-upload .avatar-edit input + label:after {
+    font-size: 13px;
+}
+    .cov_line {
+    width: 20%;
+}
+    .set_circle {
+    left: 16%;
+}
+    .circle2{
+        left: 47% !important;
+    }
+    .circle3{
+        left:78%;
+    }
+    .set_line {
+    width: 85%;
+    }
+/*
+.inner_cir {
+
+    left: -6px !important;
+}
+*/
+    .inner_cir1{
+        left: -12px;
+    }
+    .cov_line3 {
+    width: 100% !important;
+}
+    .inner_circle p {
+    top: 35px;
+    left: -45px;
+    width: 101px;
+}
+    .prag2{
+        left: -51px ! important;
+    }
+}
+
+
+
+@media(max-width:320px) {}
