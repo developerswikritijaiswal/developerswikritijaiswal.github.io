@@ -1,0 +1,871 @@
+@media(max-width:2055px){
+	.bannnerStart {
+		min-height: 740px;
+}
+	.grapLeft::before {
+    left: -130px;
+    top: 10px;
+}
+	.graphicScreen:nth-child(even) .container .grapLeft::before {
+    right: -33%;
+    top: 33px;
+}
+	.bannerLeftIn h1 br ,.bannerLeftIn p br{
+		display: none;
+	}
+	.AppAboutUp {
+    background-size: cover;
+}
+	.bannerRightIn {
+
+    bottom: -155px;
+}
+	.patterns{
+    width: 40%;
+		    height: 100%;;
+}
+}
+@media(max-width:1920px){
+.bannerRightIn {
+    bottom: -151px;
+}
+}
+@media(max-width:1560px){
+.bannnerStart {
+    background-size: 109% 128%;
+}
+.bannerRightIn {
+    bottom: -148px;
+}
+}
+@media(max-width:1367px){
+.bannnerStart {
+    background-size: initial;
+}
+	h1 {
+    font-size: 42px;
+    line-height: 55px;
+}
+	.bannerLeftIn p {
+    padding: 20px 0px 70px;
+}
+	.bannerLeft {
+    padding-top: 150px;
+}
+	h2.heading {
+    font-size: 42px;
+    line-height: 55px;
+}
+	.aboutContentnt p {
+    padding: 20px 0px;
+}
+.bannnerStart {
+     min-height: 653px; 
+}
+	.bannerRightIn{
+		bottom: -59px;	
+	}
+}
+@media(max-width:1199px){
+.watchBtn {
+    padding: 8px 15px;
+    min-width: 120px;
+}
+.nav-item {
+    margin-right: 30px;
+}
+	.bannnerStart {
+/*    background: url(../img/bging.svg);*/
+    min-height: 550px;
+}
+	h1 {
+    font-size: 42px;
+    line-height: 55px;
+}
+	p.headingSize {
+    font-size: 16px;
+    line-height: 32px;
+}
+	.allbtn {
+    min-width: 165px;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px 12px;
+}
+	.bannerLeftIn p {
+    padding: 20px 0px 45px;
+}
+	h2.heading {
+    font-size: 42px;
+    line-height: 48px;
+}
+	p.subHeading {
+    font-size: 16px;
+    line-height: 25px;
+}
+	.aboutContentnt p {
+    padding: 15px 0px;
+}
+	.ShowApp ul li:nth-child(6n +6) {
+    margin-right: 0;
+}
+	.ShowApp ul li:nth-child(8n +8) {
+    margin-right: 35px;
+}
+	.priceIn h3 br{
+		display: none;
+	}
+	.priceIn{
+		width: 50%;
+	}
+	.priceout {
+    width: 450px;
+}
+	.inclusFirst {;
+    min-width: auto;
+    padding: 35px 15px 20px;
+}
+.inclusFirst::after {
+    right: -29px;
+}
+	.instaContent h2 {
+    font-size: 20px;
+}
+
+	.grapLeft::before {
+    left: -135px;
+}
+	.footleft {
+    padding-right: 30px;
+}
+	.footmiddle {
+    padding: 0 22px;
+}
+	.footpart ul li {
+    font-size: 18px;
+    line-height: 34px;
+}
+	.footpart h3 {
+    font-size: 20px;
+    padding-bottom: 6px;
+}
+	.AppAboutUp {
+     background-size: 100% 100%; 
+}
+	.graphicSlider1{
+		right: 3%;
+	}
+	.bookNowIn p{
+		font-size: 42px;
+	}
+	.customer {
+    padding: 70px 0;
+    position: relative;
+}
+	.exOfr {
+    padding-bottom: 70px;
+}
+	.faq {
+    padding: 70px 0;
+    background: url(../img/bar.svg);
+    background-size: cover;
+}
+}
+@media(max-width:991px){
+
+ /* Sidenav Start */
+    .header
+    {
+        padding: 15px 0;
+    }
+
+    .navbar-expand-md .navbar-toggler {
+        display: block;
+        position: absolute;
+        right: 0;
+    }
+    .navbar-expand-md .navbar-collapse {
+        position: fixed;
+        width: 250px;
+        top: 0;
+        left: -250px;
+        background: var(--colorWhite);
+        height: 100%;
+        transition: all 0.3s ease;
+        display: initial !important;
+        margin-top: 70px;
+        padding: 20px 12px 0px 25px;
+        z-index: 9;
+        box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5);
+    }    
+    .nav-link:hover, .nav-link:focus
+    {
+        border-bottom: none;
+    }
+    .navbar-expand-md .navbar-nav {
+        flex-direction: column;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        margin-bottom: 5px;
+    }
+    .headerBox 
+    {
+        display: block !important;
+        float: left !important;
+    }
+    .navbar-expand-md .navbar-nav .nav-link
+    {
+      display: inline-block;
+    }
+    .nav-item
+    {
+        margin-bottom: 20px;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu
+    {
+        position: relative;
+        background: transparent;
+        border: none;
+        padding-bottom: 0;
+    }
+    .navbar-expand-md .navbar-nav .dropdown-menu.show
+    {
+        transition: all 0.3s ease;
+    }
+    
+    .dropdown-item
+    {
+        color: #fff;
+    }
+    .userBox {
+        margin-left: 0;
+        position: relative;
+        margin-right: 0px;
+    }
+    .nav-item
+    {
+        margin-right: 0;
+    }
+    .headerBox
+    {
+        width: 100%;
+    }
+
+    /* Sidenav End */
+h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+	h2.heading {
+    font-size: 40px;
+    line-height: 46px;
+}
+	.aboutAppIn .container {
+    display: block;
+}
+.aboutAppLeft, .aboutAppRight {
+    width: 100%;
+}
+	.deliverySetUp {
+    width: 45%;
+    display: inline-block;
+/*		    margin: 40px 18px 40px;*/
+}
+	.deliverySetUp:first-child {
+    margin-bottom: 40px;
+}
+.deliverySetUp:nth-child(odd) {
+    margin-right: 40px;
+}
+	.aboutAppLeft p{
+		margin-bottom: 50px;
+		    margin-top: 15px;
+	}
+	.grapLeft {
+    width: 35%;
+}
+	.medxAppIn ul li a{
+		min-width: 150px;
+	}
+	.priceAll{
+		display: block;
+	}
+	.priceIn {
+    width: 100%;
+}
+	.priceIn h3 {
+    font-size: 40px;
+    line-height: 46px;
+}
+	.priceIn p{
+		padding: 12px 0px;
+	}
+	.priceout {
+    width: auto;
+     text-align: center; 
+}
+	.inclusionAll {
+    display: block;
+		text-align: center;
+}
+	.inclusFirst {
+    min-width: 47%;
+min-height: 312px;
+		float: left;
+		margin-bottom: 40px;
+}
+	.inclusFirst:nth-child(even){
+		margin-left: 40px;
+	}
+.inclusFirst:nth-child(even)::after {
+    content: '';
+}
+	.inclusFirst:nth-child(3),.inclusFirst:nth-child(4){
+		margin-bottom: 0;
+	}
+	.instacartImg{
+		width: 100%;
+	}
+	.instacartImg img{
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+	.instaContent p {
+    font-size: 16px;
+    line-height: 20px;
+}
+	instaContent h2 {
+    font-size: 18px;
+}
+	.instacartApp ul li {
+    display: flex;
+    margin-bottom: 25px;
+}
+	.bannnerStart {
+
+    min-height: 500px;
+}
+	.bannerLeft {
+    padding-top: 112px;
+}
+	.AboutApp .container {
+    padding: 70px 0px;
+}
+/*
+	.aboutAppRight {
+   margin-bottom: 70px;
+}
+*/
+	.graphical,.inclusion,.instacart  {
+    padding: 70px 0px;
+
+}
+	.graphicScreen {
+
+    padding: 25px 0px;
+}
+	.medxApplication {
+    padding: 70px 0px 0px;
+    text-align: center;
+}
+	.footerall.boxs {
+     display: block; 
+}
+	.btmleft p {
+    font-size: 14px;
+}
+	.btmright h5 {
+    font-size: 15px;
+}
+	.btmright a {
+    font-size: 17px;
+}
+	.priceLeft h2 {
+
+    font-size: 35px;
+    line-height: 45px;
+}
+	.bannerRightIn{
+		display: none;
+	}
+	.bannnerStart  .col-sm-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+	.bannnerStart, .bannnerStart .container, .bannnerStart .container .row {
+      min-height: 465px;
+    /* padding-bottom: 70px; */
+}
+	.AppAboutUp{
+		background: var(--colorOrange);
+	}
+	.aboutContentnt{
+		padding: 0;
+	}
+		.AppAboutUp .col-sm-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+	.bookNowIn p br{
+		display: none;
+	}
+	.bookNowIn p {
+		font-size: 40px;
+		line-height: 46px;
+	}
+	.bookNowIn a {
+    min-width: 175px;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.Hoverbtn {
+    position: relative;
+    z-index: 2;
+    border-radius: 4px;
+}
+	.set2 a span {
+    font-size: 16px;
+    line-height: 32px;
+}
+	.set2 i.fa {
+    height: 35px;
+    width: 35px;
+}
+	.cont_full p {
+    font-size: 16px;
+    line-height: 26px;
+}
+}
+@media(max-width:767px){ 
+.watchBtn {
+    min-width: 140px;
+	}
+	h1 {
+    font-size: 35px;
+    line-height: 45px;
+}
+	.AboutApp .container {
+    padding: 70px 15px;
+		overflow: hidden;
+}
+	.aboutApImg::before {
+   bottom: unset;
+    top: -460px;
+}
+	.aboutContentnt::after {
+    right: -115px;
+    top: unset;
+    bottom: -325px;
+}
+.bookNowIn {
+
+    display: block;
+}
+/*
+	.set2 i.fa{
+		color: var(--colorOrange);
+		width: auto;
+		height: auto;
+		background: transparent;
+	}
+*/
+	.patterns {
+    width: 40%;
+    height: 55%;
+}
+	.prolftSlick {
+    padding: 35px 0px;
+}
+
+	.customerLeft {
+		padding: 0;
+}
+
+	.bookNowIn a{
+		margin-top: 30px;
+	}
+	.bookNowIn p {
+    font-size: 32px;
+    line-height: 40px;
+}
+	.bookNow {
+    padding: 65px 0px;
+    margin-bottom: 70px;
+}
+	h2.heading,.priceIn h3 {
+    font-size: 35px;
+    line-height: 40px;
+}
+	.medxAppIn ul li a {
+    min-width: 100px;
+}
+	.medxAppIn ul li{
+		margin-right: 10px;
+	}
+	.inclusFirst {
+    min-width: 46%;
+		padding: 35px 25px 20px;
+
+}
+	.nativeAnd ul,.inclusFirst h2{
+		text-align: left;
+	}
+	.inclusFirst::after {
+    right: -32px;
+}
+	.instacartImg {
+    width: 50%;
+    margin: 0 auto;
+}
+	.instacart .row{
+		padding-top: 0;
+	}
+	.instacartImg {
+    width: 50%;
+    margin: 25px auto 42px;
+}
+	.cloneBtn ul{
+		text-align: center;
+		margin-top: 15px;
+	}
+	.nav-item {
+    margin-bottom: 15px;
+}
+	.ShowApp ul li {
+
+    width: 25%;
+}
+	.container {
+    max-width: 100%;
+}
+	.grapLeft::before {
+   content: '';
+}
+	.graphicScreen:nth-child(even) .container .grapLeft::before {
+
+    content: '';
+}
+.slick-dots {
+    top: unset;
+    right: unset;
+    bottom: -25px;
+    transform: rotate(0deg);
+    text-align: center;
+    min-width: auto;
+    width: 100%;
+}
+	.footmiddle {
+    width: 50%;
+    float: right;
+}
+	.footleft {
+    width: 50%;
+}
+	.footer .footmiddle:nth-child(2){
+		margin-bottom: 30px;
+	}
+.footmiddle:last-child {
+    padding-left: 0;
+    padding-top: 20px;
+}
+	.btmleft {
+    width: 100%;
+    margin-bottom: 10px;
+}
+	.bottomFooter {
+    display: block;
+}
+	.secure {
+    display: inline-block;
+}
+	.bannnerStart, .bannnerStart .container, .bannnerStart .container .row {
+    min-height: auto;
+    padding-bottom: 25px;
+
+}
+		.slick-dots{
+		bottom: 24px;
+	}
+	.set2 i.fa {
+     height: auto; 
+     width: auto; 
+    color: #f15c2c;
+     background: transparent; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+	.set2 a.active i.fa {
+     background: transparent;
+}
+	.set2 a span{
+		margin-left: 15px;
+	}
+}
+@media(max-width:560px){
+h1 ,h2.heading,.priceIn h3{
+    font-size: 32px;
+    line-height: 40px;
+}
+h1 br{
+display: none;
+}
+	.bannerLeftIn p {
+    padding: 20px 0px 30px;
+}
+	.deliverySetUp:nth-child(odd) {
+    margin-right: 25px;
+}
+	.grapLeft {
+    width: 45%;
+       margin: 20px auto 20px;
+}
+	.grapRight {
+    width: 100%;
+}
+	.graphicScreen{
+		display: block;
+	}
+	.grapLeft::before,.graphicScreen:nth-child(odd) .grapLeft::before {
+    left: -25px;
+    top: 0px;
+		right: unset;
+}
+	.graphicScreen {
+    padding: 0px;
+}
+	.medxAppIn ul{
+	 overflow: auto;
+        white-space: nowrap;
+        overflow-y: hidden;
+}
+	.inclusFirst {
+    width: 95%;
+}
+	.inclusFirst:nth-child(even){
+		margin-left: 0;
+	}
+	.inclusFirst::after {
+    right: 0;
+    left: 0;
+    top: unset;
+    bottom: -11%;
+    transform: rotate(90deg);
+}
+	.inclusFirst:nth-child(even)::after {
+    content: url('../img/threedots.svg');
+}
+	.inclusFirst:nth-child(3){
+		margin-bottom: 40px;
+	}
+		.inclusFirst:last-child::after {
+    content:'';
+}
+	.ShowApp ul{
+	    overflow-y: unset;
+    overflow: unset;
+    white-space: initial;
+	}
+	.medxAppIn ul{
+		padding-bottom: 0;
+	}
+	.ShowApp ul li {
+    width: 45%;
+}
+	.ShowApp ul li:nth-child(8n +8) {
+    margin-right: 10px;
+}
+	.bannnerStart {
+    min-height: 535px;
+}
+	.graphicScreen .container {
+    display: block;
+
+}
+	.slick-dots li button {
+    width: 15px;
+    height: 15px;
+}
+	.slick-dots li{
+		margin-right: 15px;
+	}
+	.slick-dots li.slick-active button {
+    border: solid 2px var(--colorWhite);
+
+}
+	.footmiddle {
+    padding: 0 5px;
+}
+	.footmiddle{
+		float: left;
+	}
+	.footpart ul li {
+    font-size: 16px;
+    line-height: 30px;
+}
+	.footmiddle:last-child {
+    padding-top: 0px;
+}
+	.btmright a {
+    margin: 0 6px;
+
+}
+	.priceLeft h2 {
+    font-size: 25px;
+    line-height: 45px;
+    padding-bottom: 20px;
+}
+	.bookNow {
+    padding: 50px 0px;
+    margin-bottom: 55px;
+}
+	.certificates {
+    padding: 70px 0 0;
+}
+	.prolftSlick {
+    padding: 10px 0px;
+}
+}
+
+@media(max-width:414px){
+	h1, h2.heading, .priceIn h3 {
+    font-size: 28px;
+    line-height: 35px;
+}
+	p.headingSize {
+    font-size: 16px;
+    line-height: 28px;
+}
+	.bannerLeftIn ul li:first-child {
+    margin-right: 8px;
+}
+	.allbtn {
+    min-width: 136px;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 10px 12px;
+}
+
+.bannnerStart, .bannnerStart .container, .bannnerStart .container .row {
+    min-height: auto;
+    padding-bottom: 20px;
+}
+	.cloneBtn ul li a{
+		min-width: 130px;
+    font-size: 15px;
+		padding: 10px 5px;
+	}
+		.cloneBtn ul li{
+		margin-right: 8px;
+	}
+	.instaContent p {
+    font-size: 15px;
+    line-height: 18px;
+}
+	.instaContent h2 {
+    font-size: 18px;
+}
+	.instacartApp ul li {
+    margin-bottom: 20px;
+}
+	.instaIMgg {
+    width: 200px;
+}
+	.instacartApp ul li .instaContent {
+    margin-left: 15px;
+}
+	.AboutApp .container {
+    padding: 50px 15px;
+
+}
+	.graphical, .inclusion, .instacart {
+    padding: 50px 0px;
+}
+	.deliverySetUp{
+		width: 100%;
+		margin-bottom: 40px;
+	}
+	.deliverySetUp:nth-child(odd) {
+    margin-right: 0;
+}
+	.deliverySetUp:last-child{
+		margin-bottom: 0;
+	}
+	.grapRight p {
+    color: var(--colorWhite);
+    padding-top: 15px;
+}
+	.inclusionPrice {
+    padding: 0px 0px 50px 0px;
+}
+	.medxApplication {
+    padding: 50px 0px 0px;
+
+}
+	.footleft {
+    width: 100%;
+		padding-right: 0;
+		padding-left: 0;
+		margin-bottom: 15px;
+}
+	.footer .footmiddle{
+		width: 100%;
+				padding-right: 0;
+		padding-left: 0;
+	}
+	.footpart h3{
+		font-size: 18px;
+	}
+	.footer .footmiddle:nth-child(2),.footer .footmiddle {
+    margin-bottom: 15px;
+}
+	.footer {
+    background-color: #f3f9ec;
+    padding: 30px 0 15px;
+}
+	.btmright{
+		float: left !important;
+		widows: 1005;
+		margin-top: 10px;
+	}
+	.footerbtm {
+    background-color: #000;
+    padding: 5px 0;
+}
+	.slick-dots{
+		bottom: -40px;
+	}
+	.customerForm {
+ 
+    padding: 50px 20px;
+}
+	.bookNowIn p {
+    font-size: 24px;
+    line-height: 38px;
+}
+	.inclusFirst {
+    width: 100%;
+}
+	.exOfr {
+    padding-bottom: 50px;
+}
+	.faq {
+    padding: 50px 0;
+}
+	.customer {
+    padding: 50px 0;
+    position: relative;
+}
+	.customerRight {
+    margin-top: 50px;
+}
+	.patterns {
+    width: 50%;
+    height: 52%;
+}
+	.slick-dots {
+    bottom: -15px;
+}
+}

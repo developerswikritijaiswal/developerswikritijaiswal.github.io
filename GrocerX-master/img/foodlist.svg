@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="80" height="80" transform="translate(256 2432)" stroke="#f3f9ec" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Food_Listing" data-name="Food Listing" transform="translate(-256 -2432)" clip-path="url(#clip-path)">
+    <g id="_16-menu" data-name="16-menu" transform="translate(252.667 2432)">
+      <path id="Path_1419" data-name="Path 1419" d="M70,0H16.667a3.333,3.333,0,0,0-3.333,3.333V20H6.667v6.667h6.667v10H6.667v6.667h6.667v10H6.667V60h6.667V76.667A3.333,3.333,0,0,0,16.667,80H70A10.012,10.012,0,0,0,80,70V10A10.012,10.012,0,0,0,70,0Zm3.333,70A3.337,3.337,0,0,1,70,73.333H20V60h3.333V53.333H20v-10h3.333V36.667H20v-10h3.333V20H20V6.667H70A3.337,3.337,0,0,1,73.333,10Z" stroke="#f3f9ec" stroke-width="2"/>
+      <path id="Path_1420" data-name="Path 1420" d="M63.333,33.333H30a3.333,3.333,0,0,0-3.333,3.333v6.667A16.664,16.664,0,0,0,58.6,50h4.729A6.675,6.675,0,0,0,70,43.333V40A6.675,6.675,0,0,0,63.333,33.333Zm-10,10a10,10,0,0,1-20,0V40h20Zm10,0H60V40h3.333Z" fill="#f15c2c" stroke="#f3f9ec" stroke-width="2"/>
+      <path id="Path_1421" data-name="Path 1421" d="M40,26.667h6.667A6.675,6.675,0,0,0,53.333,20V16.667H46.667V20H40a6.675,6.675,0,0,0-6.667,6.667V30H40Z" fill="#f15c2c" stroke="#f3f9ec" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_139" data-name="Rectangle 139" width="80" height="80" transform="translate(256 2432)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Offer_Banner" data-name="Offer Banner" transform="translate(-256 -2432)" clip-path="url(#clip-path)">
+    <g id="banner" transform="translate(256 2432)">
+      <path id="Path_1414" data-name="Path 1414" d="M0,21.25V68.125H80V21.25ZM75.312,63.437H4.687v-37.5H75.312Z"/>
+      <path id="Path_1415" data-name="Path 1415" d="M41.747,58.06,28.924,32.415,23.218,43.827,19.795,36.98,9.255,58.06ZM16.641,53.5l3.154-6.308L22.949,53.5Zm9.129-4.565,3.154-6.308L34.361,53.5H28.052Z" transform="translate(-0.242 -0.292)" fill="#f15c2c"/>
+      <path id="Path_1416" data-name="Path 1416" d="M47.031,54.063H69.855v4.565H47.031Z" transform="translate(-1.232 -0.859)"/>
+      <path id="Path_1417" data-name="Path 1417" d="M47.031,44.688H69.855v4.565H47.031Z" transform="translate(-1.232 -0.614)"/>
+      <path id="Path_1418" data-name="Path 1418" d="M47.031,35.312H69.855v4.565H47.031Z" transform="translate(-1.232 -0.368)"/>
+    </g>
+  </g>
+</svg>

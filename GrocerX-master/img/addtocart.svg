@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="80" height="80" transform="translate(256 2432)" fill="#737373"/>
+    </clipPath>
+  </defs>
+  <g id="Add_to_Cart" data-name="Add to Cart" transform="translate(-256 -2432)" clip-path="url(#clip-path)">
+    <g id="shopping-cart" transform="translate(256 2432)">
+      <g id="Group_3525" data-name="Group 3525">
+        <g id="Group_3524" data-name="Group 3524">
+          <g id="Group_3523" data-name="Group 3523">
+            <path id="Path_1422" data-name="Path 1422" d="M28.158,61.725A9.138,9.138,0,1,0,37.3,70.862,9.147,9.147,0,0,0,28.158,61.725Zm0,12.682A3.543,3.543,0,1,1,31.7,70.863,3.547,3.547,0,0,1,28.158,74.407Z" fill="#f15c2c"/>
+            <path id="Path_1423" data-name="Path 1423" d="M61.353,61.725a9.138,9.138,0,1,0,9.138,9.138A9.148,9.148,0,0,0,61.353,61.725Zm0,12.681A3.543,3.543,0,1,1,64.9,70.862,3.548,3.548,0,0,1,61.353,74.406Z" fill="#f15c2c"/>
+            <path id="Path_1424" data-name="Path 1424" d="M24.149,58.929H67.692a2.8,2.8,0,1,0,0-5.594H26.528L18.519,4.213a2.8,2.8,0,0,0-2.282-2.306L5.515.042a2.8,2.8,0,1,0-.96,5.511l8.762,1.524,8.071,49.5A2.8,2.8,0,0,0,24.149,58.929Z"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3527" data-name="Group 3527">
+        <g id="Group_3526" data-name="Group 3526">
+          <path id="Path_1425" data-name="Path 1425" d="M77.225,18.12a2.8,2.8,0,0,0-2.26-1.15H18.088v5.594h53.04l-5.754,17.9H22.1v5.594H67.413a2.8,2.8,0,0,0,2.663-1.941l7.553-23.5A2.8,2.8,0,0,0,77.225,18.12Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

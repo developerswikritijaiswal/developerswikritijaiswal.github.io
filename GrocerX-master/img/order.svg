@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="80" height="80" transform="translate(256 2432)" fill="#737373" stroke="#000" stroke-width="1.2"/>
+    </clipPath>
+  </defs>
+  <g id="Order_Confirmation" data-name="Order Confirmation" transform="translate(-256 -2432)" clip-path="url(#clip-path)">
+    <g id="cloche" transform="translate(256 2432)">
+      <g id="Group_3537" data-name="Group 3537">
+        <g id="Group_3536" data-name="Group 3536">
+          <path id="Path_1445" data-name="Path 1445" d="M27.591,29.523A28.294,28.294,0,0,0,15.459,40.832a1.666,1.666,0,1,0,2.884,1.67,25,25,0,0,1,10.71-9.984,1.666,1.666,0,0,0-1.462-2.995Z" stroke="#000" stroke-width="1.2"/>
+          <path id="Path_1446" data-name="Path 1446" d="M78.333,53.333H74.916a35.006,35.006,0,0,0-30.34-33,5,5,0,1,0-9.151,0,35.006,35.006,0,0,0-30.34,33H1.667A1.666,1.666,0,0,0,0,55v1.67A12.629,12.629,0,0,0,2.129,63.7a6.652,6.652,0,0,0,5.547,2.969H72.324a6.656,6.656,0,0,0,5.548-2.97A12.635,12.635,0,0,0,80,56.67V55A1.666,1.666,0,0,0,78.333,53.333ZM40,16.667a1.667,1.667,0,1,1-1.667,1.667A1.668,1.668,0,0,1,40,16.667Zm0,6.667a31.679,31.679,0,0,1,31.582,30H8.418A31.679,31.679,0,0,1,40,23.333ZM76.667,56.67A9.306,9.306,0,0,1,75.1,61.849a3.328,3.328,0,0,1-2.773,1.484H7.676A3.328,3.328,0,0,1,4.9,61.847,9.312,9.312,0,0,1,3.333,56.67v0H76.667Z" stroke="#000" stroke-width="1.2"/>
+        </g>
+      </g>
+      <g id="Ellipse_47" data-name="Ellipse 47" transform="translate(47 1)" fill="#f15c2c" stroke="#000" stroke-width="3.8">
+        <circle cx="16" cy="16" r="16" stroke="none"/>
+        <circle cx="16" cy="16" r="14.1" fill="none"/>
+      </g>
+      <path id="check" d="M6.125,12.587a.816.816,0,0,1-1.155,0L.359,7.975a1.224,1.224,0,0,1,0-1.732l.577-.578a1.225,1.225,0,0,1,1.732,0L5.547,8.544,13.326.765a1.225,1.225,0,0,1,1.732,0l.577.578a1.224,1.224,0,0,1,0,1.732Zm0,0" transform="translate(55.061 9.927)" fill="#f3f9ec"/>
+    </g>
+  </g>
+</svg>

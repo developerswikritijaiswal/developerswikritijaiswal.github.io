@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.584" height="49.5" viewBox="0 0 35.584 49.5">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.5px}
+        </style>
+    </defs>
+    <g id="prefix__Layer_2" data-name="Layer 2" transform="translate(1.75 2.243)">
+        <path id="prefix__Rectangle_17" d="M0 0H18V15H0z" class="prefix__cls-1" data-name="Rectangle 17" transform="translate(6.634 30.507)"/>
+        <path id="prefix__Line_1" d="M0 0L0 7" class="prefix__cls-1" data-name="Line 1" transform="translate(15.634 30.507)"/>
+        <path id="prefix__Path_276" d="M7 32.042A16.042 16.042 0 0 1 23.042 16a16.042 16.042 0 0 1 16.042 16.042" class="prefix__cls-1" data-name="Path 276" transform="translate(-7 7.079)"/>
+        <circle id="prefix__Ellipse_10" cx="9" cy="9" r="9" class="prefix__cls-1" data-name="Ellipse 10" transform="translate(6.634 -.493)"/>
+        <path id="prefix__Line_2" d="M0 0L6 0" class="prefix__cls-1" data-name="Line 2" transform="translate(.634 38.507)"/>
+        <path id="prefix__Line_3" d="M7 0L0 0" class="prefix__cls-1" data-name="Line 3" transform="translate(24.634 38.507)"/>
+    </g>
+</svg>

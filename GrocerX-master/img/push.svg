@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_140" data-name="Rectangle 140" width="80" height="80" transform="translate(256 2432)"/>
+    </clipPath>
+  </defs>
+  <g id="Push_Notification" data-name="Push Notification" transform="translate(-256 -2432)" clip-path="url(#clip-path)">
+    <g id="Push-Notification" transform="translate(245.168 2421.887)">
+      <path id="Combined-Shape" d="M80.27,56.265v7.626a8.45,8.45,0,0,1-8.45,8.45H54.711L34.753,86.679a4.225,4.225,0,0,1-6.692-3.431V72.341H21.394a8.45,8.45,0,0,1-8.45-8.45V29.573a8.45,8.45,0,0,1,8.45-8.45H45.678" fill="rgba(0,0,0,0)" stroke="#000" stroke-linecap="round" stroke-width="6" fill-rule="evenodd"/>
+      <g id="Oval" transform="translate(50.697 12.674)" fill="#f15c2c" stroke="#000" stroke-width="6">
+        <circle cx="19.011" cy="19.011" r="19.011" stroke="none"/>
+        <circle cx="19.011" cy="19.011" r="16.011" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

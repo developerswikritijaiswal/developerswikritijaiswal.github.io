@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_177" fill="#d6d6d6" d="M0 0H48V48H0z" data-name="Rectangle 177" transform="translate(654 7601)"/>
+        </clipPath>
+        <style>
+            .prefix__cls-5{fill:#58565c}
+        </style>
+    </defs>
+    <g id="prefix__Mask_Group_73" clip-path="url(#prefix__clip-path)" data-name="Mask Group 73" transform="translate(-654 -7601)">
+        <g id="prefix__payment" transform="translate(651.091 6120.481)">
+            <path id="prefix__Path_2094" fill="#fedb41" d="M38.611 1497.977h11.571v-4.364H15.27v2.182l23.32 1.091z" data-name="Path 2094"/>
+            <path id="prefix__Path_2095" fill="#4bbfeb" d="M5.818 1498.7v20.738h35.35V1498.7z" data-name="Path 2095" transform="translate(-2.402 -1.642)"/>
+            <path id="prefix__Path_2096" d="M16.832 1489.977a2.3 2.3 0 0 0-2.287 2.284v4.429H16v-4.429a.816.816 0 0 1 .832-.832h31.79a.816.816 0 0 1 .832.832v18.7a.814.814 0 0 1-.832.83H38.014v1.454h10.608a2.3 2.3 0 0 0 2.287-2.284v-18.7a2.3 2.3 0 0 0-2.287-2.287h-31.79z" class="prefix__cls-5" data-name="Path 2096"/>
+            <path id="prefix__Path_2097" fill="#f8b84e" stroke="#58565c" stroke-width="1.455px" d="M38.837 1501.133a2.909 2.909 0 1 1-.07 5.3" data-name="Path 2097"/>
+            <circle id="prefix__Ellipse_61" cx="2.909" cy="2.909" r="2.909" fill="#25b39e" stroke="#58565c" stroke-width="1.455px" data-name="Ellipse 61" transform="translate(41.455 1500.886)"/>
+            <path id="prefix__Path_2098" d="M5.2 1495.795a2.3 2.3 0 0 0-2.287 2.284v18.7a2.3 2.3 0 0 0 2.287 2.284h31.79a2.293 2.293 0 0 0 2.287-2.28v-18.7a2.3 2.3 0 0 0-2.287-2.287H5.2zm0 1.455h31.79a.816.816 0 0 1 .832.832v18.7a.813.813 0 0 1-.832.829H5.2a.809.809 0 0 1-.832-.829v-18.7a.816.816 0 0 1 .832-.832z" class="prefix__cls-5" data-name="Path 2098"/>
+            <path id="prefix__Path_2099" fill="#fff" d="M21.091 1501.613a5.817 5.817 0 1 0 5.818 5.815 5.827 5.827 0 0 0-5.818-5.815zm0 1.455a4.362 4.362 0 1 1-4.364 4.364 4.353 4.353 0 0 1 4.364-4.364z" data-name="Path 2099"/>
+            <path id="prefix__Path_2100" fill="#fff" fill-rule="evenodd" d="M28.364 1503.068v1.455h2.909v-1.455zm1.455 3.636v1.455h4.364v-1.459zm-1.455 3.636v1.455h2.909v-1.455zm-17.455-7.273v1.455h2.909v-1.455zM8 1506.7v1.455h4.364v-1.455zm2.909 3.636v1.455h2.909v-1.455z" data-name="Path 2100"/>
+        </g>
+    </g>
+</svg>
