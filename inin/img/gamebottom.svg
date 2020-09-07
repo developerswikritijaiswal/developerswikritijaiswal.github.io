@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="126" height="208" viewBox="0 0 126 208">
-    <g fill="none" fill-rule="evenodd">
-        <path fill="#DC11C9" d="M51 180H79V208H51z" transform="matrix(-1 0 0 1 130 0)"/>
-        <path fill="#FF4A07" d="M80 80H127V127H80z" transform="matrix(-1 0 0 1 207 0)"/>
-        <path fill="#F1114F" d="M0 0L81 0 81 81 0 81z" transform="matrix(1 0 0 -1 0 81)"/>
-    </g>
-</svg>
